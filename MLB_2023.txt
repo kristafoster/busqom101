@@ -1,31 +1,47 @@
-TEAM	LEAGUE	DIVISION	CITY	STATE	STADIUM	CAPACITY	2022 POSTSEASON	HOME GMS 2023	AVG HOME ATTEND 2023	PERCENT_CAP	AVG TICKET PRICE	WIN_PERCENT	W	L	RUNS	HITS	HOMERUNS	RBI	OBP	SLG	OPS
-LA Dodgers	NL	NL WEST	Los Angeles	California	Dodger Stadium	56000	1	12	"49,418"	0.88	209	0.54	13	11	129	181	44	127	0.326	0.458	0.784
-San Diego	NL	NL WEST	San Diego	California	Petco Park	40209	1	13	"40,342"	1.00	140	0.48	12	13	92	172	27	88	0.301	0.371	0.672
-St. Louis	NL	NL CENTRAL	St. Louis	Missouri	Busch Stadium	45494	1	13	"39,881"	0.88	140	0.38	9	15	108	221	28	105	0.341	0.425	0.766
-NY Yankees	AL	AL EAST	New York City	New York	Yankee Stadium	46537	1	16	"39,559"	0.85	186	0.54	13	11	96	174	30	89	0.303	0.383	0.686
-Philadelphia	NL	NL EAST	Philadelphia	Pennsylvania	Citizens Bank Park	42792	1	10	"39,457"	0.92	119	0.46	11	13	107	232	27	103	0.336	0.451	0.787
-Atlanta	NL	NL EAST	Cumberland	Georgia	Truist Park	41084	1	11	"37,551"	0.91	117	0.67	16	8	124	212	38	118	0.338	0.456	0.794
-Houston	AL	AL WEST	Houston	Texas	Minute Maid Park	41168	1	13	"37,261"	0.91	131	0.54	13	11	121	210	24	117	0.33	0.392	0.722
-NY Mets	NL	NL EAST	New York City	New York	Citi Field	41922	1	6	"35,913"	0.86	100	0.58	14	10	112	190	26	108	0.333	0.385	0.718
-Toronto	AL	AL EAST	Toronto	Ontario	Roger Center	41500	1	7	"35,074"	0.85	110	0.63	15	9	112	212	28	107	0.333	0.412	0.745
-LA Angels	AL	AL WEST	Anaheim	California	Angel Stadium	45517	0	10	"33,380"	0.73	79	0.50	12	12	120	199	31	119	0.329	0.408	0.737
-Boston	AL	AL EAST	Boston	Massachusetts	Fenway Park	37755	0	13	"31,559"	0.84	170	0.52	13	12	144	215	33	136	0.331	0.432	0.763
-Chicago Cubs	NL	NL CENTRAL	Chicago	Illinois	Wrigley Field	41649	0	13	"31,363"	0.75	141	0.59	13	9	127	213	29	121	0.351	0.446	0.797
-San Francisco	NL	NL WEST	San Francisco	California	Oracle Park	41265	0	11	"30,616"	0.74	144	0.43	10	13	104	187	36	102	0.316	0.413	0.729
-Milwaukee	NL	NL CENTRAL	Milwaukee	Wisconsin	American Family Field	41900	0	10	"28,613"	0.68	97	0.63	15	9	113	198	30	109	0.324	0.402	0.726
-Seattle	AL	AL WEST	Seattle	Washington	T-Mobile Park	47929	1	16	"28,578"	0.60	95	0.48	11	12	103	175	24	101	0.303	0.383	0.686
-Colorado	NL	NL WEST	Denver	Colorado	Coors Field	50144	0	10	"27,395"	0.55	85	0.32	8	17	97	206	21	93	0.308	0.376	0.684
-Texas	AL	AL WEST	Arlington	Texas	Globe Life Field	40300	0	12	"24,705"	0.61	131	0.61	14	9	151	207	32	147	0.341	0.448	0.789
-Arizona	NL	NL WEST	Phoenix	Arizona	Chase Field	48686	0	12	"22,210"	0.46	90	0.52	13	12	119	220	21	114	0.311	0.418	0.729
-Washington	NL	NL EAST	Washington	District of Columbia	Nationals Park	41339	0	11	"21,285"	0.51	107	0.36	8	14	81	187	11	77	0.319	0.342	0.661
-Baltimore	AL	AL EAST	Baltimore	Maryland	Oriole Park at Camden Yards	44970	0	11	"20,729"	0.46	123	0.65	15	8	119	189	28	115	0.333	0.42	0.753
-Chicago White Sox	AL	AL CENTRAL	Chicago	Illinois	Guaranteed Rate Field	40615	0	8	"19,567"	0.48	113	0.29	7	17	96	191	23	94	0.292	0.373	0.665
-Detroit	AL	AL CENTRAL	Detroit	Michigan	Comerica Park	41083	0	7	"19,476"	0.47	87	0.41	9	13	68	162	17	67	0.281	0.329	0.61
-Minnesota	AL	AL CENTRAL	Minneapolis	Minnesota	Target Field	38544	0	10	"19,151"	0.50	72	0.58	14	10	103	188	28	98	0.305	0.394	0.699
-Cleveland	AL	AL CENTRAL	Cleveland	Ohio	Progressive Field	34830	1	9	"18,225"	0.52	95	0.46	11	13	91	184	12	81	0.309	0.342	0.651
-Tampa Bay	AL	AL EAST	St. Petersburg	Florida	Tropicana Field	42735	1	14	"17,551"	0.41	106	0.83	20	4	157	231	48	154	0.355	0.523	0.878
-Cincinnati	NL	NL CENTRAL	Cincinnati	Ohio	Great American Ball Park	42319	0	13	"16,345"	0.39	90	0.38	9	15	102	185	15	97	0.319	0.344	0.663
-Kansas City	AL	AL CENTRAL	Kansas City	Missouri	Kauffman Stadium	37903	0	13	"15,874"	0.42	86	0.25	6	18	82	177	18	76	0.279	0.351	0.63
-Pittsburgh	NL	NL CENTRAL	Pittsburgh	Pennsylvania	PNC Park	38747	0	10	"15,645"	0.40	89	0.67	16	8	118	203	28	111	0.33	0.436	0.766
-Miami	NL	NL EAST	Miami	Florida	loanDepot park	37442	0	13	"13,143"	0.35	69	0.50	12	12	76	194	23	75	0.302	0.382	0.684
-Oakland	AL	AL WEST	Oakland	California	Oakland Coliseum	56782	0	12	"11,025"	0.19	100	0.21	5	19	89	182	26	87	0.306	0.372	0.678
+TEAM	LEAGUE	DIVISION	CITY	STATE	STADIUM	CAPACITY	2022 POSTSEASON	HOME GMS 2023	AVG HOME ATTEND 2023	PERCENT_CAP	HIGH_CAP	AVG TICKET PRICE	WIN_PERCENT	W	L	R	H	HR	RBI	OBP	SLG	OPS
+LA Dodgers	NL	NL WEST	Los Angeles	California	Dodger Stadium	56000	1	12	"49,418"	0.88	1.00	209	0.54	13	11	129	181	44	127	0.326	0.458	0.784
+San Diego Padres	NL	NL WEST	San Diego	California	Petco Park	40209	1	13	"40,342"	1.00	1.00	140	0.48	12	13	92	172	27	88	0.301	0.371	0.672
+St. Louis Cardinals	NL	NL CENTRAL	St. Louis	Missouri	Busch Stadium	45494	1	13	"39,881"	0.88	1.00	140	0.38	9	15	108	221	28	105	0.341	0.425	0.766
+NY Yankees	AL	AL EAST	New York City	New York	Yankee Stadium	46537	1	16	"39,559"	0.85	1.00	186	0.54	13	11	96	174	30	89	0.303	0.383	0.686
+Philadelphia Phillies	NL	NL EAST	Philadelphia	Pennsylvania	Citizens Bank Park	42792	1	10	"39,457"	0.92	1.00	119	0.46	11	13	107	232	27	103	0.336	0.451	0.787
+Atlanta Braves	NL	NL EAST	Cumberland	Georgia	Truist Park	41084	1	11	"37,551"	0.91	1.00	117	0.67	16	8	124	212	38	118	0.338	0.456	0.794
+Houston Astros	AL	AL WEST	Houston	Texas	Minute Maid Park	41168	1	13	"37,261"	0.91	1.00	131	0.54	13	11	121	210	24	117	0.33	0.392	0.722
+NY Mets	NL	NL EAST	New York City	New York	Citi Field	41922	1	6	"35,913"	0.86	1.00	100	0.58	14	10	112	190	26	108	0.333	0.385	0.718
+Toronto Blue Jays	AL	AL EAST	Toronto	Ontario	Roger Center	41500	1	7	"35,074"	0.85	1.00	110	0.63	15	9	112	212	28	107	0.333	0.412	0.745
+LA Angels	AL	AL WEST	Anaheim	California	Angel Stadium	45517	0	10	"33,380"	0.73	0.00	79	0.50	12	12	120	199	31	119	0.329	0.408	0.737
+Boston Red Sox	AL	AL EAST	Boston	Massachusetts	Fenway Park	37755	0	13	"31,559"	0.84	1.00	170	0.52	13	12	144	215	33	136	0.331	0.432	0.763
+Chicago Cubs	NL	NL CENTRAL	Chicago	Illinois	Wrigley Field	41649	0	13	"31,363"	0.75	0.00	141	0.59	13	9	127	213	29	121	0.351	0.446	0.797
+San Francisco Giants	NL	NL WEST	San Francisco	California	Oracle Park	41265	0	11	"30,616"	0.74	0.00	144	0.43	10	13	104	187	36	102	0.316	0.413	0.729
+Milwaukee Brewers	NL	NL CENTRAL	Milwaukee	Wisconsin	American Family Field	41900	0	10	"28,613"	0.68	0.00	97	0.63	15	9	113	198	30	109	0.324	0.402	0.726
+Seattle Mariners	AL	AL WEST	Seattle	Washington	T-Mobile Park	47929	1	16	"28,578"	0.60	0.00	95	0.48	11	12	103	175	24	101	0.303	0.383	0.686
+Colorado Rockies	NL	NL WEST	Denver	Colorado	Coors Field	50144	0	10	"27,395"	0.55	0.00	85	0.32	8	17	97	206	21	93	0.308	0.376	0.684
+Texas Rangers	AL	AL WEST	Arlington	Texas	Globe Life Field	40300	0	12	"24,705"	0.61	0.00	131	0.61	14	9	151	207	32	147	0.341	0.448	0.789
+Arizona Diamondbacks	NL	NL WEST	Phoenix	Arizona	Chase Field	48686	0	12	"22,210"	0.46	0.00	90	0.52	13	12	119	220	21	114	0.311	0.418	0.729
+Washington Nationals	NL	NL EAST	Washington	District of Columbia	Nationals Park	41339	0	11	"21,285"	0.51	0.00	107	0.36	8	14	81	187	11	77	0.319	0.342	0.661
+Baltimore Orioles	AL	AL EAST	Baltimore	Maryland	Oriole Park at Camden Yards	44970	0	11	"20,729"	0.46	0.00	123	0.65	15	8	119	189	28	115	0.333	0.42	0.753
+Chicago White Sox	AL	AL CENTRAL	Chicago	Illinois	Guaranteed Rate Field	40615	0	8	"19,567"	0.48	0.00	113	0.29	7	17	96	191	23	94	0.292	0.373	0.665
+Detroit Tigers	AL	AL CENTRAL	Detroit	Michigan	Comerica Park	41083	0	7	"19,476"	0.47	0.00	87	0.41	9	13	68	162	17	67	0.281	0.329	0.61
+Minnesota Twins	AL	AL CENTRAL	Minneapolis	Minnesota	Target Field	38544	0	10	"19,151"	0.50	0.00	72	0.58	14	10	103	188	28	98	0.305	0.394	0.699
+Cleveland Guardians	AL	AL CENTRAL	Cleveland	Ohio	Progressive Field	34830	1	9	"18,225"	0.52	0.00	95	0.46	11	13	91	184	12	81	0.309	0.342	0.651
+Tampa Bay Rays	AL	AL EAST	St. Petersburg	Florida	Tropicana Field	42735	1	14	"17,551"	0.41	0.00	106	0.83	20	4	157	231	48	154	0.355	0.523	0.878
+Cincinnati Reds	NL	NL CENTRAL	Cincinnati	Ohio	Great American Ball Park	42319	0	13	"16,345"	0.39	0.00	90	0.38	9	15	102	185	15	97	0.319	0.344	0.663
+Kansas City Royals	AL	AL CENTRAL	Kansas City	Missouri	Kauffman Stadium	37903	0	13	"15,874"	0.42	0.00	86	0.25	6	18	82	177	18	76	0.279	0.351	0.63
+Pittsburgh Pirates	NL	NL CENTRAL	Pittsburgh	Pennsylvania	PNC Park	38747	0	10	"15,645"	0.40	0.00	89	0.67	16	8	118	203	28	111	0.33	0.436	0.766
+Miami Marlins	NL	NL EAST	Miami	Florida	loanDepot park	37442	0	13	"13,143"	0.35	0.00	69	0.50	12	12	76	194	23	75	0.302	0.382	0.684
+Oakland Athletics	AL	AL WEST	Oakland	California	Oakland Coliseum	56782	0	12	"11,025"	0.19	0.00	100	0.21	5	19	89	182	26	87	0.306	0.372	0.678
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
