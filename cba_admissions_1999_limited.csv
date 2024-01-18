@@ -1,4 +1,4 @@
-row_number,paiddeposit,scholarship,HS_rank,HS_class_size,HS_CODE,HS_NAME,SAT_math,SAT_verbal,ACT,HoFALSErs_college_eligible,distancefromPitt,state,Number_of_family_alumni,SAT_composite,ACT_as_SAT,Max_Test_Score,from_PA
+row_number,paiddeposit,scholarship,HS_rank,HS_class_size,HS_CODE,HS_NAME,SAT_math,SAT_verbal,ACT,Honors_college_eligible,distancefromPitt,state,Number_of_family_alumni,SAT_composite,ACT_as_SAT,Max_Test_Score,from_PA
 7,TRUE,FALSE,190,281,392835,FRANKLIN_REGIONAL_SR_HI,620,560,,FALSE,14.22894645,PA,0,1180,,1180,TRUE
 12,FALSE,FALSE,111,223,393655,CENTRAL_CATHOLIC_HIGH_S,550,600,,FALSE,7.162133539,PA,0,1150,,1150,TRUE
 19,TRUE,FALSE,109,371,51830,WESTCHESTER_HIGH_SCHOOL,640,550,,FALSE,232.3633823,PA,0,1190,,1190,TRUE
