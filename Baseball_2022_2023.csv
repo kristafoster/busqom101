@@ -1,0 +1,298 @@
+unitid,institution_name,state_cd,ClassificationCode,classification_name,EFMaleCount,EFFemaleCount,EFTotalCount,sector_cd,sector_name,SPORTSCODE,PARTIC_MEN,OPEXPPERPART_MEN,OPEXPPERTEAM_MEN,REV_MEN,EXP_MEN,Sports
+100654,Alabama A & M University,AL,2,NCAA Division I-FCS,1936,2856,4792,1,"Public, 4-year or above",1,39,11638,453866,968105,968105,Baseball
+100663,University of Alabama at Birmingham,AL,1,NCAA Division I-FBS,3822,6417,10239,1,"Public, 4-year or above",1,40,9884,395360,1476422,1432667,Baseball
+100724,Alabama State University,AL,2,NCAA Division I-FCS,1095,1947,3042,1,"Public, 4-year or above",1,36,3869,139278,711019,711019,Baseball
+100751,The University of Alabama,AL,1,NCAA Division I-FBS,12721,16165,28886,1,"Public, 4-year or above",1,47,40307,1894415,1826040,6115448,Baseball
+100858,Auburn University,AL,1,NCAA Division I-FBS,11355,11591,22946,1,"Public, 4-year or above",1,44,39079,1719497,1846358,6266957,Baseball
+101480,Jacksonville State University,AL,2,NCAA Division I-FCS,2529,3784,6313,1,"Public, 4-year or above",1,39,7932,309363,1129977,1129977,Baseball
+101879,University of North Alabama,AL,2,NCAA Division I-FCS,1676,2926,4602,1,"Public, 4-year or above",1,36,5648,203338,729093,729093,Baseball
+102049,Samford University,AL,2,NCAA Division I-FCS,1162,2447,3609,2,"Private nonprofit, 4-year or above",1,43,5149,221388,1359239,1311073,Baseball
+102094,University of South Alabama,AL,1,NCAA Division I-FBS,2676,4371,7047,1,"Public, 4-year or above",1,42,8244,346231,1637642,1637642,Baseball
+102368,Troy University,AL,1,NCAA Division I-FBS,2498,4571,7069,1,"Public, 4-year or above",1,39,5705,222493,1684398,2030329,Baseball
+104151,Arizona State University Campus Immersion,AZ,1,NCAA Division I-FBS,30113,29652,59765,1,"Public, 4-year or above",1,38,26772,1017329,4241856,4241856,Baseball
+104179,University of Arizona,AZ,1,NCAA Division I-FBS,13006,17130,30136,1,"Public, 4-year or above",1,40,25554,1022168,2158239,7139302,Baseball
+104717,Grand Canyon University,AZ,3,NCAA Division I without football,9548,14353,23901,3,"Private for-profit, 4-year or above",1,39,18310,714072,1788199,1788199,Baseball
+106245,University of Arkansas at Little Rock,AR,3,NCAA Division I without football,1180,1697,2877,1,"Public, 4-year or above",1,35,7029,246009,1346811,1346811,Baseball
+106397,University of Arkansas,AR,1,NCAA Division I-FBS,10440,12955,23395,1,"Public, 4-year or above",1,45,46960,2113191,5631612,8538637,Baseball
+106412,University of Arkansas at Pine Bluff,AR,2,NCAA Division I-FCS,807,1033,1840,1,"Public, 4-year or above",1,36,2079,74851,429194,429194,Baseball
+106458,Arkansas State University,AR,1,NCAA Division I-FBS,2103,2992,5095,1,"Public, 4-year or above",1,38,9283,352741,1012669,1012669,Baseball
+106704,University of Central Arkansas,AR,2,NCAA Division I-FCS,2538,4082,6620,1,"Public, 4-year or above",1,40,7173,286934,843544,843544,Baseball
+110361,California Baptist University,CA,3,NCAA Division I without football,2674,4554,7228,2,"Private nonprofit, 4-year or above",1,38,13538,514428,2697288,2455084,Baseball
+110422,California Polytechnic State University-San Luis Obispo,CA,2,NCAA Division I-FCS,10121,9823,19944,1,"Public, 4-year or above",1,42,11242,472172,1808778,1808778,Baseball
+110486,California State University-Bakersfield,CA,3,NCAA Division I without football,2228,4393,6621,1,"Public, 4-year or above",1,40,9800,392012,3153842,1446948,Baseball
+110556,California State University-Fresno,CA,1,NCAA Division I-FBS,7006,10551,17557,1,"Public, 4-year or above",1,36,16423,591221,2121480,2121480,Baseball
+110565,California State University-Fullerton,CA,3,NCAA Division I without football,11543,16240,27783,1,"Public, 4-year or above",1,38,10799,410376,1896395,1896395,Baseball
+110583,California State University-Long Beach,CA,3,NCAA Division I without football,11277,16322,27599,1,"Public, 4-year or above",1,44,12152,534673,1933413,1933413,Baseball
+110608,California State University-Northridge,CA,3,NCAA Division I without football,11699,14437,26136,1,"Public, 4-year or above",1,44,10620,467275,1930653,1576376,Baseball
+110617,California State University-Sacramento,CA,2,NCAA Division I-FCS,9622,12935,22557,1,"Public, 4-year or above",1,44,12079,531488,2123243,2123243,Baseball
+110635,University of California-Berkeley,CA,1,NCAA Division I-FBS,13635,17185,30820,1,"Public, 4-year or above",1,35,24570,859933,2363232,2330008,Baseball
+110644,University of California-Davis,CA,2,NCAA Division I-FCS,12305,18349,30654,1,"Public, 4-year or above",1,36,10100,363595,1423955,1423955,Baseball
+110653,University of California-Irvine,CA,3,NCAA Division I without football,12209,15712,27921,1,"Public, 4-year or above",1,38,14839,563867,2012185,2012185,Baseball
+110662,University of California-Los Angeles,CA,1,NCAA Division I-FBS,12533,19230,31763,1,"Public, 4-year or above",1,37,18583,687566,3766683,3766683,Baseball
+110671,University of California-Riverside,CA,3,NCAA Division I without football,10531,11423,21954,1,"Public, 4-year or above",1,38,9488,360551,1121409,1121409,Baseball
+110705,University of California-Santa Barbara,CA,3,NCAA Division I without football,10006,12787,22793,1,"Public, 4-year or above",1,46,10397,478254,2684295,2684295,Baseball
+117946,Loyola Marymount University,CA,3,NCAA Division I without football,3267,3725,6992,2,"Private nonprofit, 4-year or above",1,39,11858,462452,2126723,2126723,Baseball
+120883,University of the Pacific,CA,3,NCAA Division I without football,1463,1711,3174,2,"Private nonprofit, 4-year or above",1,40,6714,268554,1484700,1484700,Baseball
+121150,Pepperdine University,CA,3,NCAA Division I without football,1435,2014,3449,2,"Private nonprofit, 4-year or above",1,40,10920,436796,2026156,2026156,Baseball
+122409,San Diego State University,CA,1,NCAA Division I-FBS,11992,16456,28448,1,"Public, 4-year or above",1,35,44386,1553507,2133446,1691267,Baseball
+122436,University of San Diego,CA,2,NCAA Division I-FCS,2371,3086,5457,2,"Private nonprofit, 4-year or above",1,37,16382,606122,2024826,2024826,Baseball
+122612,University of San Francisco,CA,3,NCAA Division I without football,2040,3753,5793,2,"Private nonprofit, 4-year or above",1,41,7499,307463,1720892,1720892,Baseball
+122755,San Jose State University,CA,1,NCAA Division I-FBS,11175,10351,21526,1,"Public, 4-year or above",1,37,14306,529339,1157083,1157083,Baseball
+122931,Santa Clara University,CA,3,NCAA Division I without football,3079,2910,5989,2,"Private nonprofit, 4-year or above",1,38,17098,649740,2217951,2217951,Baseball
+123554,Saint Mary's College of California,CA,3,NCAA Division I without football,839,1073,1912,2,"Private nonprofit, 4-year or above",1,38,15522,589821,2037974,2037974,Baseball
+123961,University of Southern California,CA,1,NCAA Division I-FBS,9562,10495,20057,2,"Private nonprofit, 4-year or above",1,40,15318,612726,4186556,4186556,Baseball
+127741,University of Northern Colorado,CO,2,NCAA Division I-FCS,1802,3563,5365,1,"Public, 4-year or above",1,35,6405,224178,643232,643232,Baseball
+128771,Central Connecticut State University,CT,2,NCAA Division I-FCS,3338,2738,6076,1,"Public, 4-year or above",1,38,6455,245288,1033384,1033385,Baseball
+129020,University of Connecticut,CT,1,NCAA Division I-FBS,8591,9728,18319,1,"Public, 4-year or above",1,40,27453,1098113,2816792,2816792,Baseball
+129242,Fairfield University,CT,3,NCAA Division I without football,1954,2701,4655,2,"Private nonprofit, 4-year or above",1,39,6745,263054,1120780,1120780,Baseball
+130226,Quinnipiac University,CT,3,NCAA Division I without football,2240,3606,5846,2,"Private nonprofit, 4-year or above",1,31,1876,58142,1107352,1107352,Baseball
+130253,Sacred Heart University,CT,2,NCAA Division I-FCS,2091,4186,6277,2,"Private nonprofit, 4-year or above",1,47,4881,229399,768455,768455,Baseball
+130794,Yale University,CT,2,NCAA Division I-FCS,3218,3370,6588,2,"Private nonprofit, 4-year or above",1,31,8889,275556,1748778,1615457,Baseball
+130934,Delaware State University,DE,2,NCAA Division I-FCS,1332,2674,4006,1,"Public, 4-year or above",1,31,3731,115655,453932,453932,Baseball
+130943,University of Delaware,DE,2,NCAA Division I-FCS,7375,10647,18022,1,"Public, 4-year or above",1,38,10133,385046,1428594,1428594,Baseball
+131469,George Washington University,DC,3,NCAA Division I without football,3781,6444,10225,2,"Private nonprofit, 4-year or above",1,33,8121,267977,1697949,1697949,Baseball
+131496,Georgetown University,DC,2,NCAA Division I-FCS,2995,4153,7148,2,"Private nonprofit, 4-year or above",1,40,7976,319053,1605224,1276443,Baseball
+132602,Bethune-Cookman University,FL,2,NCAA Division I-FCS,936,1591,2527,2,"Private nonprofit, 4-year or above",1,37,10806,399812,842178,842178,Baseball
+132903,University of Central Florida,FL,1,NCAA Division I-FBS,18195,22324,40519,1,"Public, 4-year or above",1,39,16712,651752,2577421,2577421,Baseball
+133650,Florida Agricultural and Mechanical University,FL,2,NCAA Division I-FCS,2235,4377,6612,1,"Public, 4-year or above",1,40,5557,222276,664241,664241,Baseball
+133669,Florida Atlantic University,FL,1,NCAA Division I-FBS,6532,9080,15612,1,"Public, 4-year or above",1,39,10637,414859,1312132,1312132,Baseball
+133951,Florida International University,FL,1,NCAA Division I-FBS,10667,14555,25222,1,"Public, 4-year or above",1,39,9429,367716,1456946,1456946,Baseball
+134097,Florida State University,FL,1,NCAA Division I-FBS,12447,17028,29475,1,"Public, 4-year or above",1,38,37355,1419494,7944906,7944906,Baseball
+134130,University of Florida,FL,1,NCAA Division I-FBS,13165,17525,30690,1,"Public, 4-year or above",1,37,81496,3015338,4317686,6910059,Baseball
+134945,Jacksonville University,FL,3,NCAA Division I without football,907,1428,2335,2,"Private nonprofit, 4-year or above",1,38,7930,301328,1708032,1708032,Baseball
+135726,University of Miami,FL,1,NCAA Division I-FBS,5528,6312,11840,2,"Private nonprofit, 4-year or above",1,37,27587,1020732,5457659,5457659,Baseball
+136172,University of North Florida,FL,3,NCAA Division I without football,4522,6228,10750,1,"Public, 4-year or above",1,35,7751,271274,804358,804358,Baseball
+137351,University of South Florida,FL,1,NCAA Division I-FBS,12671,17010,29681,1,"Public, 4-year or above",1,38,12897,490087,1595684,1595684,Baseball
+137546,Stetson University,FL,2,NCAA Division I-FCS,1058,1412,2470,2,"Private nonprofit, 4-year or above",1,41,12466,511094,2258809,2258809,Baseball
+139755,Georgia Institute of Technology-Main Campus,GA,1,NCAA Division I-FBS,9684,6426,16110,1,"Public, 4-year or above",1,38,22337,848810,1122756,3507120,Baseball
+139931,Georgia Southern University,GA,1,NCAA Division I-FBS,7602,10205,17807,1,"Public, 4-year or above",1,53,9698,514009,1529068,1529068,Baseball
+139940,Georgia State University,GA,1,NCAA Division I-FBS,8690,12854,21544,1,"Public, 4-year or above",1,40,11142,445677,1441575,1441575,Baseball
+139959,University of Georgia,GA,1,NCAA Division I-FBS,11938,16820,28758,1,"Public, 4-year or above",1,43,22762,978780,1349743,4803916,Baseball
+140447,Mercer University,GA,2,NCAA Division I-FCS,1516,2542,4058,2,"Private nonprofit, 4-year or above",1,39,8540,333043,1667364,1667364,Baseball
+141574,University of Hawaii at Manoa,HI,1,NCAA Division I-FBS,4421,6908,11329,1,"Public, 4-year or above",1,40,21113,844502,1599795,2391056,Baseball
+143358,Bradley University,IL,3,NCAA Division I without football,1963,2063,4026,2,"Private nonprofit, 4-year or above",1,37,8607,318476,1382039,1330728,Baseball
+144892,Eastern Illinois University,IL,2,NCAA Division I-FCS,1590,2421,4011,1,"Public, 4-year or above",1,41,7499,307476,833628,833628,Baseball
+145600,University of Illinois Chicago,IL,3,NCAA Division I without football,9110,10455,19565,1,"Public, 4-year or above",1,36,7431,267500,1172008,1172008,Baseball
+145637,University of Illinois Urbana-Champaign,IL,1,NCAA Division I-FBS,17641,15632,33273,1,"Public, 4-year or above",1,36,18591,669283,945328,2714691,Baseball
+145813,Illinois State University,IL,2,NCAA Division I-FCS,7298,9655,16953,1,"Public, 4-year or above",1,40,8024,320973,1247112,1247112,Baseball
+147703,Northern Illinois University,IL,1,NCAA Division I-FBS,4647,5278,9925,1,"Public, 4-year or above",1,35,7115,249032,751763,751763,Baseball
+147767,Northwestern University,IL,1,NCAA Division I-FBS,3978,4610,8588,2,"Private nonprofit, 4-year or above",1,35,16985,594465,1160321,2540040,Baseball
+149222,Southern Illinois University-Carbondale,IL,2,NCAA Division I-FCS,3248,3448,6696,1,"Public, 4-year or above",1,36,7873,283419,1037372,1037372,Baseball
+149231,Southern Illinois University-Edwardsville,IL,3,NCAA Division I without football,3301,4392,7693,1,"Public, 4-year or above",1,32,11125,355987,897969,897969,Baseball
+149772,Western Illinois University,IL,2,NCAA Division I-FCS,1910,2559,4469,1,"Public, 4-year or above",1,36,3379,121661,467605,467605,Baseball
+150136,Ball State University,IN,1,NCAA Division I-FBS,4909,7711,12620,1,"Public, 4-year or above",1,36,9307,335057,1523689,1523689,Baseball
+150163,Butler University,IN,2,NCAA Division I-FCS,1726,2522,4248,2,"Private nonprofit, 4-year or above",1,40,9882,395286,1450947,1367705,Baseball
+150534,University of Evansville,IN,3,NCAA Division I without football,546,874,1420,2,"Private nonprofit, 4-year or above",1,37,5379,199032,1355607,1355607,Baseball
+151102,Purdue University Fort Wayne,IN,3,NCAA Division I without football,2314,2203,4517,1,"Public, 4-year or above",1,40,4878,195127,546286,546286,Baseball
+151306,University of Southern Indiana,IN,3,NCAA Division I without football,1771,3063,4834,1,"Public, 4-year or above",1,52,5114,265934,768323,768323,Baseball
+151324,Indiana State University,IN,2,NCAA Division I-FCS,2479,3259,5738,1,"Public, 4-year or above",1,45,13680,615604,1510379,1510379,Baseball
+151351,Indiana University-Bloomington,IN,1,NCAA Division I-FBS,17336,17201,34537,1,"Public, 4-year or above",1,49,15821,775215,2812433,2812433,Baseball
+152080,University of Notre Dame,IN,1,NCAA Division I-FBS,4568,4331,8899,2,"Private nonprofit, 4-year or above",1,41,27923,1144836,3640815,3640815,Baseball
+152600,Valparaiso University,IN,2,NCAA Division I-FCS,986,1315,2301,2,"Private nonprofit, 4-year or above",1,31,691,21410,1037254,1046235,Baseball
+153658,University of Iowa,IA,1,NCAA Division I-FBS,8804,11332,20136,1,"Public, 4-year or above",1,44,23282,1024426,1675611,4452163,Baseball
+155317,University of Kansas,KS,1,NCAA Division I-FBS,7796,8933,16729,1,"Public, 4-year or above",1,40,34807,1392265,658695,4070484,Baseball
+155399,Kansas State University,KS,1,NCAA Division I-FBS,6790,6629,13419,1,"Public, 4-year or above",1,40,22815,912586,272570,3030357,Baseball
+156286,Bellarmine University,KY,3,NCAA Division I without football,840,1369,2209,2,"Private nonprofit, 4-year or above",1,30,11013,330379,709604,709604,Baseball
+156620,Eastern Kentucky University,KY,2,NCAA Division I-FCS,3784,5726,9510,1,"Public, 4-year or above",1,48,7502,360078,1336485,1336485,Baseball
+157085,University of Kentucky,KY,1,NCAA Division I-FBS,8721,12023,20744,1,"Public, 4-year or above",1,39,23628,921491,3594374,3594374,Baseball
+157289,University of Louisville,KY,1,NCAA Division I-FBS,4963,6303,11266,1,"Public, 4-year or above",1,41,29390,1204979,403324,4995015,Baseball
+157386,Morehead State University,KY,2,NCAA Division I-FCS,1692,2639,4331,1,"Public, 4-year or above",1,41,8438,345949,882760,882760,Baseball
+157401,Murray State University,KY,2,NCAA Division I-FCS,2233,3565,5798,1,"Public, 4-year or above",1,35,8515,298021,761655,769902,Baseball
+157447,Northern Kentucky University,KY,3,NCAA Division I without football,2958,4162,7120,1,"Public, 4-year or above",1,38,7013,266480,943224,943224,Baseball
+157951,Western Kentucky University,KY,1,NCAA Division I-FBS,4199,6756,10955,1,"Public, 4-year or above",1,42,8146,342149,1099318,1099318,Baseball
+159009,Grambling State University,LA,2,NCAA Division I-FCS,1359,2329,3688,1,"Public, 4-year or above",1,40,2762,110489,684593,684593,Baseball
+159391,Louisiana State University and Agricultural & Mechanical College,LA,1,NCAA Division I-FBS,11846,14550,26396,1,"Public, 4-year or above",1,42,49098,2062127,8648852,8715254,Baseball
+159647,Louisiana Tech University,LA,1,NCAA Division I-FBS,3984,2965,6949,1,"Public, 4-year or above",1,40,13478,539131,1680251,1680251,Baseball
+159717,McNeese State University,LA,2,NCAA Division I-FCS,1743,2627,4370,1,"Public, 4-year or above",1,39,852,33210,884245,895783,Baseball
+159939,University of New Orleans,LA,3,NCAA Division I without football,1974,2001,3975,1,"Public, 4-year or above",1,49,3979,194965,1881411,827767,Baseball
+159966,Nicholls State University,LA,2,NCAA Division I-FCS,1553,2681,4234,1,"Public, 4-year or above",1,40,8375,334992,873756,873756,Baseball
+159993,University of Louisiana at Monroe,LA,1,NCAA Division I-FBS,1475,2552,4027,1,"Public, 4-year or above",1,42,8141,341930,1163663,1163663,Baseball
+160038,Northwestern State University of Louisiana,LA,2,NCAA Division I-FCS,1447,3122,4569,1,"Public, 4-year or above",1,40,6786,271428,1373375,855963,Baseball
+160612,Southeastern Louisiana University,LA,2,NCAA Division I-FCS,2911,4796,7707,1,"Public, 4-year or above",1,44,5085,223750,1054658,1054658,Baseball
+160621,Southern University and A & M College,LA,2,NCAA Division I-FCS,1679,3396,5075,1,"Public, 4-year or above",1,40,7808,312319,317418,763122,Baseball
+160658,University of Louisiana at Lafayette,LA,1,NCAA Division I-FBS,4469,6077,10546,1,"Public, 4-year or above",1,36,34761,1251401,3282166,3282166,Baseball
+160755,Tulane University of Louisiana,LA,1,NCAA Division I-FBS,3104,4977,8081,2,"Private nonprofit, 4-year or above",1,39,25807,1006483,5288789,3334567,Baseball
+161253,University of Maine,ME,2,NCAA Division I-FCS,3885,3716,7601,1,"Public, 4-year or above",1,36,11910,428746,1132484,1132484,Baseball
+162283,Coppin State University,MD,3,NCAA Division I without football,326,1009,1335,1,"Public, 4-year or above",1,34,1008,34260,165380,268360,Baseball
+163268,University of Maryland-Baltimore County,MD,3,NCAA Division I without football,4863,4206,9069,1,"Public, 4-year or above",1,29,6783,196711,799185,799185,Baseball
+163286,University of Maryland-College Park,MD,1,NCAA Division I-FBS,14029,13883,27912,1,"Public, 4-year or above",1,36,22393,806132,584643,3056026,Baseball
+163338,University of Maryland Eastern Shore,MD,3,NCAA Division I without football,802,947,1749,1,"Public, 4-year or above",1,48,4734,227219,678895,701980,Baseball
+163462,Mount St. Mary's University,MD,3,NCAA Division I without football,825,916,1741,2,"Private nonprofit, 4-year or above",1,40,5261,210428,626959,626959,Baseball
+164076,Towson University,MD,2,NCAA Division I-FCS,6047,8722,14769,1,"Public, 4-year or above",1,36,6885,247866,891526,891526,Baseball
+164924,Boston College,MA,1,NCAA Division I-FBS,4508,5085,9593,2,"Private nonprofit, 4-year or above",1,44,25017,1100751,3228377,3228377,Baseball
+166027,Harvard University,MA,2,NCAA Division I-FCS,3555,3848,7403,2,"Private nonprofit, 4-year or above",1,35,11371,397997,918186,918186,Baseball
+166124,College of the Holy Cross,MA,2,NCAA Division I-FCS,1375,1687,3062,2,"Private nonprofit, 4-year or above",1,33,7565,249659,562482,562482,Baseball
+166513,University of Massachusetts-Lowell,MA,3,NCAA Division I without football,5667,3956,9623,1,"Public, 4-year or above",1,37,8913,329763,1141439,1128619,Baseball
+166629,University of Massachusetts-Amherst,MA,1,NCAA Division I-FBS,11152,11677,22829,1,"Public, 4-year or above",1,35,6184,216450,530109,530109,Baseball
+166850,Merrimack College,MA,2,NCAA Division I-FCS,1842,2143,3985,2,"Private nonprofit, 4-year or above",1,35,5056,176961,756216,756216,Baseball
+167358,Northeastern University,MA,3,NCAA Division I without football,7100,9072,16172,2,"Private nonprofit, 4-year or above",1,40,16678,667115,2013390,2013390,Baseball
+167996,Stonehill College,MA,2,NCAA Division I-FCS,1091,1347,2438,2,"Private nonprofit, 4-year or above",1,36,6314,227312,434644,434644,Baseball
+169248,Central Michigan University,MI,1,NCAA Division I-FBS,3549,5376,8925,1,"Public, 4-year or above",1,39,8515,332081,1602169,1602169,Baseball
+169798,Eastern Michigan University,MI,1,NCAA Division I-FBS,3208,4957,8165,1,"Public, 4-year or above",1,40,7404,296147,1002409,1002409,Baseball
+170976,University of Michigan-Ann Arbor,MI,1,NCAA Division I-FBS,14705,16443,31148,1,"Public, 4-year or above",1,41,29666,1216318,665903,3726273,Baseball
+171100,Michigan State University,MI,1,NCAA Division I-FBS,17203,18669,35872,1,"Public, 4-year or above",1,39,19845,773951,2184898,2184898,Baseball
+171571,Oakland University,MI,3,NCAA Division I without football,4217,6004,10221,1,"Public, 4-year or above",1,35,6944,243026,752491,752491,Baseball
+172699,Western Michigan University,MI,1,NCAA Division I-FBS,5623,5751,11374,1,"Public, 4-year or above",1,33,9095,300126,932787,932787,Baseball
+174066,University of Minnesota-Twin Cities,MN,1,NCAA Division I-FBS,12956,15502,28458,1,"Public, 4-year or above",1,37,20504,758641,388902,2479591,Baseball
+174914,University of St Thomas,MN,2,NCAA Division I-FCS,2931,2776,5707,2,"Private nonprofit, 4-year or above",1,37,6627,245188,794524,794524,Baseball
+175342,Alcorn State University,MS,2,NCAA Division I-FCS,690,1327,2017,1,"Public, 4-year or above",1,35,1646,57601,413900,413900,Baseball
+175856,Jackson State University,MS,2,NCAA Division I-FCS,1598,2713,4311,1,"Public, 4-year or above",1,46,2383,109638,525047,525047,Baseball
+176017,University of Mississippi,MS,1,NCAA Division I-FBS,6836,9313,16149,1,"Public, 4-year or above",1,39,53659,2092712,10192492,8566421,Baseball
+176044,Mississippi Valley State University,MS,2,NCAA Division I-FCS,471,566,1037,1,"Public, 4-year or above",1,35,3376,118144,236560,236560,Baseball
+176080,Mississippi State University,MS,1,NCAA Division I-FBS,8140,8441,16581,1,"Public, 4-year or above",1,44,30697,1350647,5892920,5892920,Baseball
+176372,University of Southern Mississippi,MS,1,NCAA Division I-FBS,2934,5684,8618,1,"Public, 4-year or above",1,39,12761,497684,2208414,2208414,Baseball
+177968,Lindenwood University,MO,2,NCAA Division I-FCS,1756,2254,4010,2,"Private nonprofit, 4-year or above",1,37,5160,190909,681399,681399,Baseball
+178396,University of Missouri-Columbia,MO,1,NCAA Division I-FBS,9963,11990,21953,1,"Public, 4-year or above",1,36,24299,874760,3484406,3484406,Baseball
+179159,Saint Louis University,MO,3,NCAA Division I without football,2564,4115,6679,2,"Private nonprofit, 4-year or above",1,35,13799,482961,1643807,1643807,Baseball
+179557,Southeast Missouri State University,MO,2,NCAA Division I-FCS,2486,3716,6202,1,"Public, 4-year or above",1,41,6000,245982,846539,846539,Baseball
+179566,Missouri State University-Springfield,MO,2,NCAA Division I-FCS,4352,6898,11250,1,"Public, 4-year or above",1,32,15660,501104,1808375,1808375,Baseball
+181002,Creighton University,NE,3,NCAA Division I without football,1736,2436,4172,2,"Private nonprofit, 4-year or above",1,45,10821,486930,1415256,1855146,Baseball
+181394,University of Nebraska at Omaha,NE,3,NCAA Division I without football,4262,5691,9953,1,"Public, 4-year or above",1,33,11138,367570,731053,1126925,Baseball
+181464,University of Nebraska-Lincoln,NE,1,NCAA Division I-FBS,9015,9155,18170,1,"Public, 4-year or above",1,47,21975,1032845,1377312,3470497,Baseball
+182281,University of Nevada-Las Vegas,NV,1,NCAA Division I-FBS,8407,11128,19535,1,"Public, 4-year or above",1,36,15359,552920,1602868,1602868,Baseball
+182290,University of Nevada-Reno,NV,1,NCAA Division I-FBS,6459,7288,13747,1,"Public, 4-year or above",1,41,19991,819615,2118366,2118366,Baseball
+182670,Dartmouth College,NH,2,NCAA Division I-FCS,2244,2167,4411,2,"Private nonprofit, 4-year or above",1,34,7379,250869,680291,680291,Baseball
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,3,NCAA Division I without football,902,987,1889,2,"Private nonprofit, 4-year or above",1,39,5604,218563,780856,780856,Baseball
+185572,Monmouth University,NJ,2,NCAA Division I-FCS,1333,2326,3659,2,"Private nonprofit, 4-year or above",1,41,7038,288552,1297961,1297961,Baseball
+185828,New Jersey Institute of Technology,NJ,3,NCAA Division I without football,5393,1989,7382,1,"Public, 4-year or above",1,36,8494,305795,1209762,1172227,Baseball
+186131,Princeton University,NJ,2,NCAA Division I-FCS,2762,2765,5527,2,"Private nonprofit, 4-year or above",1,31,9297,288214,895960,895960,Baseball
+186283,Rider University,NJ,3,NCAA Division I without football,1283,1669,2952,2,"Private nonprofit, 4-year or above",1,32,4834,154676,883016,883016,Baseball
+186380,Rutgers University-New Brunswick,NJ,1,NCAA Division I-FBS,17318,17312,34630,1,"Public, 4-year or above",1,36,25637,922946,3299608,3299608,Baseball
+186432,Saint Peter's University,NJ,3,NCAA Division I without football,697,1097,1794,2,"Private nonprofit, 4-year or above",1,38,3968,150773,382086,382086,Baseball
+186584,Seton Hall University,NJ,3,NCAA Division I without football,2551,3183,5734,2,"Private nonprofit, 4-year or above",1,40,11853,474100,1722698,1722698,Baseball
+187985,University of New Mexico-Main Campus,NM,1,NCAA Division I-FBS,5034,6880,11914,1,"Public, 4-year or above",1,39,7392,288289,1616101,1463771,Baseball
+188030,New Mexico State University-Main Campus,NM,1,NCAA Division I-FBS,3874,5448,9322,1,"Public, 4-year or above",1,38,9088,345335,1385655,1385655,Baseball
+189705,Canisius College,NY,3,NCAA Division I without football,852,855,1707,2,"Private nonprofit, 4-year or above",1,44,8305,365426,880849,880849,Baseball
+190150,Columbia University in the City of New York,NY,2,NCAA Division I-FCS,4218,4045,8263,2,"Private nonprofit, 4-year or above",1,38,11448,435026,1153455,1153455,Baseball
+190415,Cornell University,NY,2,NCAA Division I-FCS,7105,8522,15627,2,"Private nonprofit, 4-year or above",1,34,5994,203798,774876,774876,Baseball
+191241,Fordham University,NY,2,NCAA Division I-FCS,3803,5810,9613,2,"Private nonprofit, 4-year or above",1,36,8888,319951,1652666,1652666,Baseball
+191649,Hofstra University,NY,3,NCAA Division I without football,2490,3328,5818,2,"Private nonprofit, 4-year or above",1,36,8982,323356,1532719,1532719,Baseball
+191931,Iona University,NY,2,NCAA Division I-FCS,1233,1368,2601,2,"Private nonprofit, 4-year or above",1,38,4650,176691,734679,734679,Baseball
+192448,Long Island University,NY,2,NCAA Division I-FCS,1795,3430,5225,2,"Private nonprofit, 4-year or above",1,37,7882,291616,1144066,1144066,Baseball
+192703,Manhattan College,NY,3,NCAA Division I without football,1682,1236,2918,2,"Private nonprofit, 4-year or above",1,43,9414,404782,1217773,1217773,Baseball
+192819,Marist College,NY,2,NCAA Division I-FCS,2025,2889,4914,2,"Private nonprofit, 4-year or above",1,37,10859,401796,1259620,1259620,Baseball
+193973,Niagara University,NY,3,NCAA Division I without football,920,1702,2622,2,"Private nonprofit, 4-year or above",1,34,7431,252656,707470,707470,Baseball
+195164,St Bonaventure University,NY,3,NCAA Division I without football,981,790,1771,2,"Private nonprofit, 4-year or above",1,37,6639,245634,772492,772492,Baseball
+195474,Siena College,NY,3,NCAA Division I without football,1527,1896,3423,2,"Private nonprofit, 4-year or above",1,38,5898,224115,976036,976036,Baseball
+195809,St. John's University-New York,NY,3,NCAA Division I without football,4412,5438,9850,2,"Private nonprofit, 4-year or above",1,37,10826,400580,1594452,1594452,Baseball
+196060,SUNY at Albany,NY,2,NCAA Division I-FCS,5240,6295,11535,1,"Public, 4-year or above",1,34,4260,144825,612345,665205,Baseball
+196079,Binghamton University,NY,3,NCAA Division I without football,6644,7436,14080,1,"Public, 4-year or above",1,33,6231,205620,44653163,1089683,Baseball
+196097,Stony Brook University,NY,2,NCAA Division I-FCS,7988,8326,16314,1,"Public, 4-year or above",1,36,11028,397012,1443954,1443954,Baseball
+197197,Wagner College,NY,2,NCAA Division I-FCS,586,982,1568,2,"Private nonprofit, 4-year or above",1,39,5956,232274,1024823,1024823,Baseball
+197869,Appalachian State University,NC,1,NCAA Division I-FBS,7552,9767,17319,1,"Public, 4-year or above",1,37,11851,438469,1274606,1274606,Baseball
+198136,Campbell University,NC,2,NCAA Division I-FCS,1130,1335,2465,2,"Private nonprofit, 4-year or above",1,40,19405,776204,2080981,2080981,Baseball
+198385,Davidson College,NC,2,NCAA Division I-FCS,898,1024,1922,2,"Private nonprofit, 4-year or above",1,35,6483,226921,1477945,1041516,Baseball
+198419,Duke University,NC,1,NCAA Division I-FBS,3114,3429,6543,2,"Private nonprofit, 4-year or above",1,47,13101,615752,2210164,3885183,Baseball
+198464,East Carolina University,NC,1,NCAA Division I-FBS,7515,10070,17585,1,"Public, 4-year or above",1,38,30120,1144553,3273973,3262436,Baseball
+198516,Elon University,NC,2,NCAA Division I-FCS,2476,3668,6144,2,"Private nonprofit, 4-year or above",1,40,7675,307019,1503912,1503912,Baseball
+198561,Gardner-Webb University,NC,2,NCAA Division I-FCS,610,906,1516,2,"Private nonprofit, 4-year or above",1,42,2032,85349,709988,709988,Baseball
+198695,High Point University,NC,3,NCAA Division I without football,2203,2722,4925,2,"Private nonprofit, 4-year or above",1,41,7465,306058,1485779,1318741,Baseball
+199102,North Carolina A & T State University,NC,2,NCAA Division I-FCS,3770,6693,10463,1,"Public, 4-year or above",1,40,7943,317738,1148192,1150383,Baseball
+199111,University of North Carolina at Asheville,NC,3,NCAA Division I without football,1041,1478,2519,1,"Public, 4-year or above",1,37,5715,211458,641362,641362,Baseball
+199120,University of North Carolina at Chapel Hill,NC,1,NCAA Division I-FBS,7532,11630,19162,1,"Public, 4-year or above",1,49,27261,1335780,1876275,3747667,Baseball
+199139,University of North Carolina at Charlotte,NC,1,NCAA Division I-FBS,10321,9668,19989,1,"Public, 4-year or above",1,37,18850,697445,1739197,1739197,Baseball
+199148,University of North Carolina at Greensboro,NC,3,NCAA Division I without football,3883,7651,11534,1,"Public, 4-year or above",1,37,7921,293094,1067613,1067613,Baseball
+199193,North Carolina State University at Raleigh,NC,1,NCAA Division I-FBS,11800,11845,23645,1,"Public, 4-year or above",1,38,22348,849238,9858504,6110694,Baseball
+199218,University of North Carolina Wilmington,NC,3,NCAA Division I without football,4388,7321,11709,1,"Public, 4-year or above",1,41,14134,579494,1518522,1518522,Baseball
+199412,Queens University of Charlotte,NC,3,NCAA Division I without football,445,789,1234,2,"Private nonprofit, 4-year or above",1,35,7503,262597,1081724,1081724,Baseball
+199847,Wake Forest University,NC,1,NCAA Division I-FBS,2410,2978,5388,2,"Private nonprofit, 4-year or above",1,44,48874,2150464,5934430,5934430,Baseball
+200004,Western Carolina University,NC,2,NCAA Division I-FCS,3501,4476,7977,1,"Public, 4-year or above",1,42,4711,197880,822519,822519,Baseball
+200332,North Dakota State University-Main Campus,ND,2,NCAA Division I-FCS,4473,4429,8902,1,"Public, 4-year or above",1,38,12161,462123,1090042,1090042,Baseball
+200800,University of Akron Main Campus,OH,1,NCAA Division I-FBS,4498,4019,8517,1,"Public, 4-year or above",1,36,7491,269689,658401,658401,Baseball
+201441,Bowling Green State University-Main Campus,OH,1,NCAA Division I-FBS,4887,6609,11496,1,"Public, 4-year or above",1,35,6103,213589,709197,709197,Baseball
+201885,University of Cincinnati-Main Campus,OH,1,NCAA Division I-FBS,12694,12171,24865,1,"Public, 4-year or above",1,37,18620,688931,2012226,2012226,Baseball
+202480,University of Dayton,OH,2,NCAA Division I-FCS,4218,3872,8090,2,"Private nonprofit, 4-year or above",1,42,12784,536915,1017495,1780516,Baseball
+203517,Kent State University at Kent,OH,1,NCAA Division I-FBS,6185,10484,16669,1,"Public, 4-year or above",1,40,9673,386937,1346614,1346614,Baseball
+204024,Miami University-Oxford,OH,1,NCAA Division I-FBS,7875,8527,16402,1,"Public, 4-year or above",1,44,10805,475436,1460080,1460080,Baseball
+204796,Ohio State University-Main Campus,OH,1,NCAA Division I-FBS,20955,21231,42186,1,"Public, 4-year or above",1,39,20448,797476,750306,3347435,Baseball
+204857,Ohio University-Main Campus,OH,1,NCAA Division I-FBS,6262,8346,14608,1,"Public, 4-year or above",1,36,5994,215775,1032897,1032897,Baseball
+206084,University of Toledo,OH,1,NCAA Division I-FBS,4708,4866,9574,1,"Public, 4-year or above",1,40,7385,295402,1040095,1040095,Baseball
+206604,Wright State University-Main Campus,OH,3,NCAA Division I without football,2256,2854,5110,1,"Public, 4-year or above",1,35,12003,420093,1187275,1187275,Baseball
+206622,Xavier University,OH,3,NCAA Division I without football,2042,2571,4613,2,"Private nonprofit, 4-year or above",1,42,12892,541455,365884,1866544,Baseball
+206695,Youngstown State University,OH,2,NCAA Division I-FCS,3149,3712,6861,1,"Public, 4-year or above",1,35,6201,217032,685489,685489,Baseball
+207388,Oklahoma State University-Main Campus,OK,1,NCAA Division I-FBS,8740,9480,18220,1,"Public, 4-year or above",1,40,36728,1469114,3241387,4236039,Baseball
+207500,University of Oklahoma-Norman Campus,OK,1,NCAA Division I-FBS,8954,9525,18479,1,"Public, 4-year or above",1,38,50016,1900619,1220339,5573999,Baseball
+207582,Oral Roberts University,OK,3,NCAA Division I without football,1086,1663,2749,2,"Private nonprofit, 4-year or above",1,35,11170,390966,1278816,1278816,Baseball
+209542,Oregon State University,OR,1,NCAA Division I-FBS,10119,9588,19707,1,"Public, 4-year or above",1,36,35042,1261502,4028379,4028379,Baseball
+209551,University of Oregon,OR,1,NCAA Division I-FBS,8035,10150,18185,1,"Public, 4-year or above",1,45,26775,1204881,1117782,4634313,Baseball
+209825,University of Portland,OR,3,NCAA Division I without football,1190,2119,3309,2,"Private nonprofit, 4-year or above",1,38,10631,403995,1630156,1630156,Baseball
+211291,Bucknell University,PA,2,NCAA Division I-FCS,1796,1935,3731,2,"Private nonprofit, 4-year or above",1,36,6453,232315,689159,689159,Baseball
+213385,Lafayette College,PA,2,NCAA Division I-FCS,1355,1357,2712,2,"Private nonprofit, 4-year or above",1,34,9385,319093,931748,931748,Baseball
+213543,Lehigh University,PA,2,NCAA Division I-FCS,2998,2552,5550,2,"Private nonprofit, 4-year or above",1,43,7126,306425,1212014,1212014,Baseball
+214777,Pennsylvania State University-Main Campus,PA,1,NCAA Division I-FBS,21343,19132,40475,1,"Public, 4-year or above",1,41,20543,842258,764343,2096423,Baseball
+215062,University of Pennsylvania,PA,2,NCAA Division I-FCS,4611,5542,10153,2,"Private nonprofit, 4-year or above",1,37,9802,362677,819647,819647,Baseball
+215293,University of Pittsburgh-Pittsburgh Campus,PA,1,NCAA Division I-FBS,8129,11104,19233,1,"Public, 4-year or above",1,38,21430,814349,2777783,2777783,Baseball
+215770,Saint Joseph's University,PA,3,NCAA Division I without football,2174,2634,4808,2,"Private nonprofit, 4-year or above",1,41,5370,220171,1181721,1181721,Baseball
+216597,Villanova University,PA,2,NCAA Division I-FCS,3099,3653,6752,2,"Private nonprofit, 4-year or above",1,33,19270,635916,1491660,1491660,Baseball
+217156,Brown University,RI,2,NCAA Division I-FCS,3532,3634,7166,2,"Private nonprofit, 4-year or above",1,30,9814,294429,872808,872808,Baseball
+217165,Bryant University,RI,2,NCAA Division I-FCS,2020,1150,3170,2,"Private nonprofit, 4-year or above",1,38,7685,292044,1340503,1340503,Baseball
+217484,University of Rhode Island,RI,2,NCAA Division I-FCS,5481,7419,12900,1,"Public, 4-year or above",1,38,8753,332625,1008473,1054011,Baseball
+217688,Charleston Southern University,SC,2,NCAA Division I-FCS,928,1655,2583,2,"Private nonprofit, 4-year or above",1,37,7130,263819,947648,947648,Baseball
+217819,College of Charleston,SC,3,NCAA Division I without football,2941,6207,9148,1,"Public, 4-year or above",1,48,7154,343407,1784642,1784642,Baseball
+217864,Citadel Military College of South Carolina,SC,2,NCAA Division I-FCS,2137,332,2469,1,"Public, 4-year or above",1,40,10005,400219,1164048,1356688,Baseball
+217882,Clemson University,SC,1,NCAA Division I-FBS,10225,11489,21714,1,"Public, 4-year or above",1,43,24714,1062705,4822410,4822410,Baseball
+218663,University of South Carolina-Columbia,SC,1,NCAA Division I-FBS,11235,14725,25960,1,"Public, 4-year or above",1,41,26275,1077257,5929908,5929908,Baseball
+218724,Coastal Carolina University,SC,1,NCAA Division I-FBS,3997,4992,8989,1,"Public, 4-year or above",1,40,17463,698508,3566701,3566701,Baseball
+218742,University of South Carolina-Upstate,SC,3,NCAA Division I without football,1147,2367,3514,1,"Public, 4-year or above",1,38,4764,181019,1068886,1068886,Baseball
+218964,Winthrop University,SC,3,NCAA Division I without football,1063,2110,3173,1,"Public, 4-year or above",1,38,4168,158378,888542,888542,Baseball
+218973,Wofford College,SC,2,NCAA Division I-FCS,860,947,1807,2,"Private nonprofit, 4-year or above",1,36,8219,295867,1281096,1281096,Baseball
+219356,South Dakota State University,SD,2,NCAA Division I-FCS,3562,4020,7582,1,"Public, 4-year or above",1,40,8661,346424,813735,813735,Baseball
+219602,Austin Peay State University,TN,2,NCAA Division I-FCS,2089,3183,5272,1,"Public, 4-year or above",1,37,18041,667507,1695363,1695363,Baseball
+219709,Belmont University,TN,3,NCAA Division I without football,2347,4740,7087,2,"Private nonprofit, 4-year or above",1,35,9478,331727,1440817,1440817,Baseball
+219976,Lipscomb University,TN,3,NCAA Division I without football,1088,1703,2791,2,"Private nonprofit, 4-year or above",1,38,11274,428403,1760037,1760037,Baseball
+220075,East Tennessee State University,TN,2,NCAA Division I-FCS,3319,5132,8451,1,"Public, 4-year or above",1,48,3954,189771,1027464,1027464,Baseball
+220862,University of Memphis,TN,1,NCAA Division I-FBS,4365,6547,10912,1,"Public, 4-year or above",1,39,16994,662762,2518794,2518794,Baseball
+220978,Middle Tennessee State University,TN,1,NCAA Division I-FBS,6559,7285,13844,1,"Public, 4-year or above",1,38,14432,548414,1294436,1294436,Baseball
+221759,The University of Tennessee-Knoxville,TN,1,NCAA Division I-FBS,11679,14119,25798,1,"Public, 4-year or above",1,47,41118,1932546,3856693,7329686,Baseball
+221768,The University of Tennessee-Martin,TN,2,NCAA Division I-FCS,1627,2632,4259,1,"Public, 4-year or above",1,43,4837,207978,843470,842299,Baseball
+221847,Tennessee Technological University,TN,2,NCAA Division I-FCS,4206,3508,7714,1,"Public, 4-year or above",1,37,9205,340593,1073353,1073353,Baseball
+221999,Vanderbilt University,TN,1,NCAA Division I-FBS,3401,3677,7078,2,"Private nonprofit, 4-year or above",1,38,55062,2092354,9051238,9051238,Baseball
+222178,Abilene Christian University,TX,2,NCAA Division I-FCS,1163,1892,3055,2,"Private nonprofit, 4-year or above",1,39,11644,454128,1489511,1424296,Baseball
+223232,Baylor University,TX,1,NCAA Division I-FBS,6008,8877,14885,2,"Private nonprofit, 4-year or above",1,40,24176,967041,4434661,4434661,Baseball
+224147,Texas A & M University-Corpus Christi,TX,3,NCAA Division I without football,2360,3652,6012,1,"Public, 4-year or above",1,40,6300,251989,1139272,1139272,Baseball
+225399,Houston Baptist University,TX,2,NCAA Division I-FCS,825,1327,2152,2,"Private nonprofit, 4-year or above",1,40,8156,326253,1328281,1328281,Baseball
+225511,University of Houston,TX,1,NCAA Division I-FBS,12597,14466,27063,1,"Public, 4-year or above",1,44,18067,794968,2853241,2853241,Baseball
+225627,University of the Incarnate Word,TX,2,NCAA Division I-FCS,1384,2556,3940,2,"Private nonprofit, 4-year or above",1,47,4956,232942,1171238,1171238,Baseball
+226091,Lamar University,TX,2,NCAA Division I-FCS,2474,3681,6155,1,"Public, 4-year or above",1,40,8845,353787,1366223,1366223,Baseball
+227368,The University of Texas Rio Grande Valley,TX,3,NCAA Division I without football,7778,11878,19656,1,"Public, 4-year or above",1,57,9311,530738,1353591,1353591,Baseball
+227526,Prairie View A & M University,TX,2,NCAA Division I-FCS,2266,4897,7163,1,"Public, 4-year or above",1,47,5370,252390,643159,643159,Baseball
+227757,Rice University,TX,1,NCAA Division I-FBS,2236,2144,4380,2,"Private nonprofit, 4-year or above",1,40,18360,734386,3039072,3039072,Baseball
+227881,Sam Houston State University,TX,2,NCAA Division I-FCS,5306,9267,14573,1,"Public, 4-year or above",1,36,12799,460763,1425203,1425203,Baseball
+228431,Stephen F Austin State University,TX,2,NCAA Division I-FCS,2871,4961,7832,1,"Public, 4-year or above",1,37,12714,470411,1423160,1423160,Baseball
+228459,Texas State University,TX,1,NCAA Division I-FBS,10984,16775,27759,1,"Public, 4-year or above",1,40,14855,594207,1962327,1962327,Baseball
+228529,Tarleton State University,TX,2,NCAA Division I-FCS,3128,5617,8745,1,"Public, 4-year or above",1,45,8552,384837,1064687,1052116,Baseball
+228723,Texas A & M University-College Station,TX,1,NCAA Division I-FBS,26902,24141,51043,1,"Public, 4-year or above",1,42,59428,2495966,4943242,8367434,Baseball
+228769,The University of Texas at Arlington,TX,3,NCAA Division I without football,8341,10526,18867,1,"Public, 4-year or above",1,38,11504,437155,1093065,1093065,Baseball
+228778,The University of Texas at Austin,TX,1,NCAA Division I-FBS,16167,22277,38444,1,"Public, 4-year or above",1,42,28180,1183555,5672816,6305171,Baseball
+228875,Texas Christian University,TX,1,NCAA Division I-FBS,3939,6387,10326,2,"Private nonprofit, 4-year or above",1,36,49269,1773678,6079629,7125064,Baseball
+229027,The University of Texas at San Antonio,TX,1,NCAA Division I-FBS,10077,11661,21738,1,"Public, 4-year or above",1,39,9987,389489,1484291,1484291,Baseball
+229063,Texas Southern University,TX,2,NCAA Division I-FCS,1967,3717,5684,1,"Public, 4-year or above",1,38,1117,42451,655734,495523,Baseball
+229115,Texas Tech University,TX,1,NCAA Division I-FBS,14705,14370,29075,1,"Public, 4-year or above",1,42,37261,1564943,5623726,10621668,Baseball
+230038,Brigham Young University,UT,1,NCAA Division I-FBS,13555,14699,28254,2,"Private nonprofit, 4-year or above",1,43,24550,1055633,908687,3122783,Baseball
+230171,Utah Tech University,UT,2,NCAA Division I-FCS,2784,4193,6977,1,"Public, 4-year or above",1,40,10961,438435,1121588,1121588,Baseball
+230737,Utah Valley University,UT,3,NCAA Division I without football,9010,8209,17219,1,"Public, 4-year or above",1,38,14662,557144,1329552,1329552,Baseball
+230764,University of Utah,UT,1,NCAA Division I-FBS,10979,10210,21189,1,"Public, 4-year or above",1,38,17202,653663,456921,2549158,Baseball
+231624,William & Mary,VA,2,NCAA Division I-FCS,2792,3919,6711,1,"Public, 4-year or above",1,50,7245,362245,1051143,1456481,Baseball
+232186,George Mason University,VA,3,NCAA Division I without football,10783,10584,21367,1,"Public, 4-year or above",1,42,10725,450453,1285668,1285668,Baseball
+232423,James Madison University,VA,2,NCAA Division I-FCS,8075,10848,18923,1,"Public, 4-year or above",1,39,10501,409545,1824040,1824040,Baseball
+232557,Liberty University,VA,1,NCAA Division I-FBS,13116,17872,30988,2,"Private nonprofit, 4-year or above",1,40,14907,596262,2150077,2150077,Baseball
+232566,Longwood University,VA,3,NCAA Division I without football,878,1991,2869,1,"Public, 4-year or above",1,39,10671,416158,1495390,1330509,Baseball
+232937,Norfolk State University,VA,2,NCAA Division I-FCS,1524,3094,4618,1,"Public, 4-year or above",1,40,2974,118964,507497,507497,Baseball
+232982,Old Dominion University,VA,1,NCAA Division I-FBS,6267,7601,13868,1,"Public, 4-year or above",1,39,16460,641933,2497088,2497088,Baseball
+233277,Radford University,VA,3,NCAA Division I without football,2067,3411,5478,1,"Public, 4-year or above",1,36,5531,199114,1071596,1071596,Baseball
+233374,University of Richmond,VA,2,NCAA Division I-FCS,1368,1585,2953,2,"Private nonprofit, 4-year or above",1,38,9190,349219,1403536,1403536,Baseball
+233921,Virginia Polytechnic Institute and State University,VA,1,NCAA Division I-FBS,16778,12726,29504,1,"Public, 4-year or above",1,40,31591,1263628,1594073,5773799,Baseball
+234030,Virginia Commonwealth University,VA,3,NCAA Division I without football,6518,11687,18205,1,"Public, 4-year or above",1,40,8869,354772,1619974,1619974,Baseball
+234076,University of Virginia-Main Campus,VA,1,NCAA Division I-FBS,7189,9263,16452,1,"Public, 4-year or above",1,37,41537,1536880,4782053,4782053,Baseball
+234085,Virginia Military Institute,VA,2,NCAA Division I-FCS,1310,202,1512,1,"Public, 4-year or above",1,37,6895,255132,898240,898240,Baseball
+235316,Gonzaga University,WA,3,NCAA Division I without football,2285,2672,4957,2,"Private nonprofit, 4-year or above",1,38,17413,661676,2677579,2871603,Baseball
+236595,Seattle University,WA,3,NCAA Division I without football,1513,2360,3873,2,"Private nonprofit, 4-year or above",1,36,17488,629575,1853945,1767705,Baseball
+236939,Washington State University,WA,1,NCAA Division I-FBS,9371,10364,19735,1,"Public, 4-year or above",1,44,21079,927468,1207253,3051670,Baseball
+236948,University of Washington-Seattle Campus,WA,1,NCAA Division I-FBS,12422,16556,28978,1,"Public, 4-year or above",1,40,37554,1502157,813512,3989128,Baseball
+237525,Marshall University,WV,1,NCAA Division I-FBS,2679,3625,6304,1,"Public, 4-year or above",1,38,16406,623433,1857776,1857776,Baseball
+238032,West Virginia University,WV,1,NCAA Division I-FBS,8514,9029,17543,1,"Public, 4-year or above",1,37,29967,1108765,3559760,3167519,Baseball
+240453,University of Wisconsin-Milwaukee,WI,3,NCAA Division I without football,6709,8038,14747,1,"Public, 4-year or above",1,42,6668,280066,1060548,1060548,Baseball
+243744,Stanford University,CA,1,NCAA Division I-FBS,3744,4017,7761,2,"Private nonprofit, 4-year or above",1,36,29798,1072714,4169584,4169584,Baseball
+243780,Purdue University-Main Campus,IN,1,NCAA Division I-FBS,21058,15417,36475,1,"Public, 4-year or above",1,42,20154,846474,583009,2495687,Baseball
+433660,Florida Gulf Coast University,FL,3,NCAA Division I without football,4768,6297,11065,1,"Public, 4-year or above",1,37,11759,435101,1226969,1226969,Baseball
+486840,Kennesaw State University,GA,2,NCAA Division I-FCS,14171,14383,28554,1,"Public, 4-year or above",1,40,8978,359109,1599980,1599980,Baseball

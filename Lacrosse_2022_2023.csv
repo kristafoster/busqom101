@@ -1,0 +1,122 @@
+unitid,institution_name,state_cd,ClassificationCode,classification_name,EFMaleCount,EFFemaleCount,EFTotalCount,sector_cd,sector_name,SPORTSCODE,PARTIC_WOMEN,OPEXPPERPART_WOMEN,OPEXPPERTEAM_WOMEN,REV_WOMEN,EXP_WOMEN,Sports
+104151,Arizona State University Campus Immersion,AZ,1,NCAA Division I-FBS,30113,29652,59765,1,"Public, 4-year or above",11,40,10412,416494,1895643,1895643,Lacrosse
+110635,University of California-Berkeley,CA,1,NCAA Division I-FBS,13635,17185,30820,1,"Public, 4-year or above",11,34,9079,308683,1078110,1078110,Lacrosse
+110644,University of California-Davis,CA,2,NCAA Division I-FCS,12305,18349,30654,1,"Public, 4-year or above",11,30,7583,227495,989735,989735,Lacrosse
+122409,San Diego State University,CA,1,NCAA Division I-FBS,11992,16456,28448,1,"Public, 4-year or above",11,32,9571,306270,1432364,1133753,Lacrosse
+123961,University of Southern California,CA,1,NCAA Division I-FBS,9562,10495,20057,2,"Private nonprofit, 4-year or above",11,32,13529,432934,2032048,2032048,Lacrosse
+126614,University of Colorado Boulder,CO,1,NCAA Division I-FBS,15337,13317,28654,1,"Public, 4-year or above",11,33,12870,424723,938022,2460862,Lacrosse
+127060,University of Denver,CO,3,NCAA Division I without football,2506,3154,5660,2,"Private nonprofit, 4-year or above",11,36,18418,663055,2144585,2144585,Lacrosse
+128771,Central Connecticut State University,CT,2,NCAA Division I-FCS,3338,2738,6076,1,"Public, 4-year or above",11,21,2926,61440,434718,434718,Lacrosse
+129020,University of Connecticut,CT,1,NCAA Division I-FBS,8591,9728,18319,1,"Public, 4-year or above",11,37,8350,308965,1097593,1097593,Lacrosse
+129242,Fairfield University,CT,3,NCAA Division I without football,1954,2701,4655,2,"Private nonprofit, 4-year or above",11,43,8001,344040,1234633,1234633,Lacrosse
+130226,Quinnipiac University,CT,3,NCAA Division I without football,2240,3606,5846,2,"Private nonprofit, 4-year or above",11,31,631,19547,1114772,1114772,Lacrosse
+130253,Sacred Heart University,CT,2,NCAA Division I-FCS,2091,4186,6277,2,"Private nonprofit, 4-year or above",11,38,3619,137540,787321,787321,Lacrosse
+130794,Yale University,CT,2,NCAA Division I-FCS,3218,3370,6588,2,"Private nonprofit, 4-year or above",11,35,5648,197673,1027660,913361,Lacrosse
+130934,Delaware State University,DE,2,NCAA Division I-FCS,1332,2674,4006,1,"Public, 4-year or above",11,36,1779,64040,440986,440986,Lacrosse
+130943,University of Delaware,DE,2,NCAA Division I-FCS,7375,10647,18022,1,"Public, 4-year or above",11,42,4530,190244,1228708,1228708,Lacrosse
+131159,American University,DC,3,NCAA Division I without football,2633,4778,7411,2,"Private nonprofit, 4-year or above",11,33,3845,126879,843229,843229,Lacrosse
+131469,George Washington University,DC,3,NCAA Division I without football,3781,6444,10225,2,"Private nonprofit, 4-year or above",11,35,4856,169967,1277882,1277882,Lacrosse
+131496,Georgetown University,DC,2,NCAA Division I-FCS,2995,4153,7148,2,"Private nonprofit, 4-year or above",11,40,4515,180604,1687264,1706700,Lacrosse
+131520,Howard University,DC,2,NCAA Division I-FCS,2449,6570,9019,2,"Private nonprofit, 4-year or above",11,27,1317,35571,498975,498975,Lacrosse
+134130,University of Florida,FL,1,NCAA Division I-FBS,13165,17525,30690,1,"Public, 4-year or above",11,46,13492,620618,213420,2510470,Lacrosse
+134945,Jacksonville University,FL,3,NCAA Division I without football,907,1428,2335,2,"Private nonprofit, 4-year or above",11,45,4677,210454,1074135,1074135,Lacrosse
+137546,Stetson University,FL,2,NCAA Division I-FCS,1058,1412,2470,2,"Private nonprofit, 4-year or above",11,28,7229,202399,783785,783785,Lacrosse
+140447,Mercer University,GA,2,NCAA Division I-FCS,1516,2542,4058,2,"Private nonprofit, 4-year or above",11,48,3108,149163,936815,936815,Lacrosse
+147767,Northwestern University,IL,1,NCAA Division I-FBS,3978,4610,8588,2,"Private nonprofit, 4-year or above",11,38,12309,467729,1375518,2535770,Lacrosse
+150163,Butler University,IN,2,NCAA Division I-FCS,1726,2522,4248,2,"Private nonprofit, 4-year or above",11,39,4470,174335,654706,667221,Lacrosse
+152080,University of Notre Dame,IN,1,NCAA Division I-FBS,4568,4331,8899,2,"Private nonprofit, 4-year or above",11,37,26255,971420,2878184,2878184,Lacrosse
+157289,University of Louisville,KY,1,NCAA Division I-FBS,4963,6303,11266,1,"Public, 4-year or above",11,37,7552,279441,1810,1493421,Lacrosse
+163046,Loyola University Maryland,MD,3,NCAA Division I without football,1768,2177,3945,2,"Private nonprofit, 4-year or above",11,33,4442,146601,1454484,1454484,Lacrosse
+163268,University of Maryland-Baltimore County,MD,3,NCAA Division I without football,4863,4206,9069,1,"Public, 4-year or above",11,30,3712,111356,840176,840176,Lacrosse
+163286,University of Maryland-College Park,MD,1,NCAA Division I-FBS,14029,13883,27912,1,"Public, 4-year or above",11,33,7574,249932,209564,1849927,Lacrosse
+163462,Mount St. Mary's University,MD,3,NCAA Division I without football,825,916,1741,2,"Private nonprofit, 4-year or above",11,29,4497,130408,646822,646822,Lacrosse
+164076,Towson University,MD,2,NCAA Division I-FCS,6047,8722,14769,1,"Public, 4-year or above",11,32,5630,180159,1021673,1021673,Lacrosse
+164924,Boston College,MA,1,NCAA Division I-FBS,4508,5085,9593,2,"Private nonprofit, 4-year or above",11,34,34226,1163674,3133382,3133382,Lacrosse
+164988,Boston University,MA,3,NCAA Division I without football,7245,10170,17415,2,"Private nonprofit, 4-year or above",11,33,9433,311278,1760598,1760598,Lacrosse
+166027,Harvard University,MA,2,NCAA Division I-FCS,3555,3848,7403,2,"Private nonprofit, 4-year or above",11,32,9325,298409,944969,944969,Lacrosse
+166124,College of the Holy Cross,MA,2,NCAA Division I-FCS,1375,1687,3062,2,"Private nonprofit, 4-year or above",11,34,4342,147617,1082309,1082309,Lacrosse
+166513,University of Massachusetts-Lowell,MA,3,NCAA Division I without football,5667,3956,9623,1,"Public, 4-year or above",11,37,4396,162646,997585,978086,Lacrosse
+166629,University of Massachusetts-Amherst,MA,1,NCAA Division I-FBS,11152,11677,22829,1,"Public, 4-year or above",11,33,7737,255334,1157283,1157283,Lacrosse
+166850,Merrimack College,MA,2,NCAA Division I-FCS,1842,2143,3985,2,"Private nonprofit, 4-year or above",11,30,3913,117398,867220,867220,Lacrosse
+167996,Stonehill College,MA,2,NCAA Division I-FCS,1091,1347,2438,2,"Private nonprofit, 4-year or above",11,32,3319,106200,411509,411509,Lacrosse
+169248,Central Michigan University,MI,1,NCAA Division I-FBS,3549,5376,8925,1,"Public, 4-year or above",11,35,4354,152388,619751,619751,Lacrosse
+169716,University of Detroit Mercy,MI,3,NCAA Division I without football,751,1389,2140,2,"Private nonprofit, 4-year or above",11,31,3534,109544,597153,597153,Lacrosse
+169798,Eastern Michigan University,MI,1,NCAA Division I-FBS,3208,4957,8165,1,"Public, 4-year or above",11,35,6708,234781,818878,818878,Lacrosse
+170976,University of Michigan-Ann Arbor,MI,1,NCAA Division I-FBS,14705,16443,31148,1,"Public, 4-year or above",11,37,20583,761578,169376,2667066,Lacrosse
+177968,Lindenwood University,MO,2,NCAA Division I-FCS,1756,2254,4010,2,"Private nonprofit, 4-year or above",11,35,6306,220713,667233,667233,Lacrosse
+182670,Dartmouth College,NH,2,NCAA Division I-FCS,2244,2167,4411,2,"Private nonprofit, 4-year or above",11,32,6179,197716,675084,675084,Lacrosse
+183044,University of New Hampshire-Main Campus,NH,2,NCAA Division I-FCS,4842,6341,11183,1,"Public, 4-year or above",11,32,4040,129294,770972,770972,Lacrosse
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,3,NCAA Division I without football,902,987,1889,2,"Private nonprofit, 4-year or above",11,16,5192,83075,424330,424330,Lacrosse
+185572,Monmouth University,NJ,2,NCAA Division I-FCS,1333,2326,3659,2,"Private nonprofit, 4-year or above",11,33,2139,70585,1082264,1082264,Lacrosse
+186131,Princeton University,NJ,2,NCAA Division I-FCS,2762,2765,5527,2,"Private nonprofit, 4-year or above",11,33,5240,172910,1038599,1038599,Lacrosse
+186380,Rutgers University-New Brunswick,NJ,1,NCAA Division I-FBS,17318,17312,34630,1,"Public, 4-year or above",11,38,9162,348157,2075020,2075020,Lacrosse
+189705,Canisius College,NY,3,NCAA Division I without football,852,855,1707,2,"Private nonprofit, 4-year or above",11,29,4861,140974,597856,597856,Lacrosse
+190099,Colgate University,NY,2,NCAA Division I-FCS,1383,1729,3112,2,"Private nonprofit, 4-year or above",11,36,4584,165020,1471263,1471263,Lacrosse
+190150,Columbia University in the City of New York,NY,2,NCAA Division I-FCS,4218,4045,8263,2,"Private nonprofit, 4-year or above",11,34,3857,131138,476373,476373,Lacrosse
+190415,Cornell University,NY,2,NCAA Division I-FCS,7105,8522,15627,2,"Private nonprofit, 4-year or above",11,36,5237,188536,857888,857888,Lacrosse
+191649,Hofstra University,NY,3,NCAA Division I without football,2490,3328,5818,2,"Private nonprofit, 4-year or above",11,33,4887,161264,1440615,1440615,Lacrosse
+191931,Iona University,NY,2,NCAA Division I-FCS,1233,1368,2601,2,"Private nonprofit, 4-year or above",11,28,3766,105460,488684,488684,Lacrosse
+192448,Long Island University,NY,2,NCAA Division I-FCS,1795,3430,5225,2,"Private nonprofit, 4-year or above",11,42,2717,114101,952681,952681,Lacrosse
+192703,Manhattan College,NY,3,NCAA Division I without football,1682,1236,2918,2,"Private nonprofit, 4-year or above",11,28,4418,123709,612354,612354,Lacrosse
+192819,Marist College,NY,2,NCAA Division I-FCS,2025,2889,4914,2,"Private nonprofit, 4-year or above",11,28,4744,132826,899490,899490,Lacrosse
+193973,Niagara University,NY,3,NCAA Division I without football,920,1702,2622,2,"Private nonprofit, 4-year or above",11,37,6136,227020,957927,957927,Lacrosse
+195164,St Bonaventure University,NY,3,NCAA Division I without football,981,790,1771,2,"Private nonprofit, 4-year or above",11,37,4385,162231,841647,841647,Lacrosse
+195474,Siena College,NY,3,NCAA Division I without football,1527,1896,3423,2,"Private nonprofit, 4-year or above",11,27,4054,109448,926821,926821,Lacrosse
+196060,SUNY at Albany,NY,2,NCAA Division I-FCS,5240,6295,11535,1,"Public, 4-year or above",11,39,2707,105572,789898,793638,Lacrosse
+196079,Binghamton University,NY,3,NCAA Division I without football,6644,7436,14080,1,"Public, 4-year or above",11,33,2413,79624,2601930,637468,Lacrosse
+196097,Stony Brook University,NY,2,NCAA Division I-FCS,7988,8326,16314,1,"Public, 4-year or above",11,41,9890,405501,1513854,1513854,Lacrosse
+196413,Syracuse University,NY,1,NCAA Division I-FBS,6620,7981,14601,2,"Private nonprofit, 4-year or above",11,37,19882,735627,1595631,3042135,Lacrosse
+197197,Wagner College,NY,2,NCAA Division I-FCS,586,982,1568,2,"Private nonprofit, 4-year or above",11,28,3679,103011,850490,850490,Lacrosse
+198136,Campbell University,NC,2,NCAA Division I-FCS,1130,1335,2465,2,"Private nonprofit, 4-year or above",11,33,4163,137395,956122,956122,Lacrosse
+198385,Davidson College,NC,2,NCAA Division I-FCS,898,1024,1922,2,"Private nonprofit, 4-year or above",11,39,4292,167405,660483,714968,Lacrosse
+198419,Duke University,NC,1,NCAA Division I-FBS,3114,3429,6543,2,"Private nonprofit, 4-year or above",11,38,15418,585900,2153947,2536725,Lacrosse
+198464,East Carolina University,NC,1,NCAA Division I-FBS,7515,10070,17585,1,"Public, 4-year or above",11,33,8327,274799,1100173,1087726,Lacrosse
+198516,Elon University,NC,2,NCAA Division I-FCS,2476,3668,6144,2,"Private nonprofit, 4-year or above",11,34,4327,147109,1151660,1151660,Lacrosse
+198561,Gardner-Webb University,NC,2,NCAA Division I-FCS,610,906,1516,2,"Private nonprofit, 4-year or above",11,36,2685,96656,483675,483675,Lacrosse
+198695,High Point University,NC,3,NCAA Division I without football,2203,2722,4925,2,"Private nonprofit, 4-year or above",11,37,4227,156402,1110042,1135228,Lacrosse
+199120,University of North Carolina at Chapel Hill,NC,1,NCAA Division I-FBS,7532,11630,19162,1,"Public, 4-year or above",11,41,11419,468177,1037895,1870475,Lacrosse
+199412,Queens University of Charlotte,NC,3,NCAA Division I without football,445,789,1234,2,"Private nonprofit, 4-year or above",11,27,4998,134941,627676,627676,Lacrosse
+200800,University of Akron Main Campus,OH,1,NCAA Division I-FBS,4498,4019,8517,1,"Public, 4-year or above",11,36,3429,123433,365207,365207,Lacrosse
+201885,University of Cincinnati-Main Campus,OH,1,NCAA Division I-FBS,12694,12171,24865,1,"Public, 4-year or above",11,36,7541,271466,1114061,1114061,Lacrosse
+203517,Kent State University at Kent,OH,1,NCAA Division I-FBS,6185,10484,16669,1,"Public, 4-year or above",11,29,4853,140731,682438,682438,Lacrosse
+204796,Ohio State University-Main Campus,OH,1,NCAA Division I-FBS,20955,21231,42186,1,"Public, 4-year or above",11,42,9430,396066,201701,2381320,Lacrosse
+206622,Xavier University,OH,3,NCAA Division I without football,2042,2571,4613,2,"Private nonprofit, 4-year or above",11,30,6765,202938,1031615,1292547,Lacrosse
+206695,Youngstown State University,OH,2,NCAA Division I-FCS,3149,3712,6861,1,"Public, 4-year or above",11,32,4331,138581,446799,446799,Lacrosse
+209551,University of Oregon,OR,1,NCAA Division I-FBS,8035,10150,18185,1,"Public, 4-year or above",11,39,9453,368661,128612,1796417,Lacrosse
+211291,Bucknell University,PA,2,NCAA Division I-FCS,1796,1935,3731,2,"Private nonprofit, 4-year or above",11,35,2737,95800,1291366,1291366,Lacrosse
+212054,Drexel University,PA,3,NCAA Division I without football,6682,6172,12854,2,"Private nonprofit, 4-year or above",11,36,4515,162544,1287572,1287572,Lacrosse
+212106,Duquesne University,PA,2,NCAA Division I-FCS,1830,3186,5016,2,"Private nonprofit, 4-year or above",11,27,3831,103427,678890,678890,Lacrosse
+213367,La Salle University,PA,3,NCAA Division I without football,760,1234,1994,2,"Private nonprofit, 4-year or above",11,33,3827,126300,749592,749592,Lacrosse
+213385,Lafayette College,PA,2,NCAA Division I-FCS,1355,1357,2712,2,"Private nonprofit, 4-year or above",11,39,3363,131156,1462404,1462404,Lacrosse
+213543,Lehigh University,PA,2,NCAA Division I-FCS,2998,2552,5550,2,"Private nonprofit, 4-year or above",11,30,4269,128073,1387709,1387709,Lacrosse
+214777,Pennsylvania State University-Main Campus,PA,1,NCAA Division I-FBS,21343,19132,40475,1,"Public, 4-year or above",11,35,8149,285213,729976,1676922,Lacrosse
+215062,University of Pennsylvania,PA,2,NCAA Division I-FCS,4611,5542,10153,2,"Private nonprofit, 4-year or above",11,33,10540,347807,1143017,1143017,Lacrosse
+215293,University of Pittsburgh-Pittsburgh Campus,PA,1,NCAA Division I-FBS,8129,11104,19233,1,"Public, 4-year or above",11,36,11191,402888,2325195,2325195,Lacrosse
+215655,Robert Morris University,PA,2,NCAA Division I-FCS,1437,1145,2582,2,"Private nonprofit, 4-year or above",11,37,2887,106817,744642,744642,Lacrosse
+215743,Saint Francis University,PA,2,NCAA Division I-FCS,560,930,1490,2,"Private nonprofit, 4-year or above",11,26,4871,126642,689578,689578,Lacrosse
+215770,Saint Joseph's University,PA,3,NCAA Division I without football,2174,2634,4808,2,"Private nonprofit, 4-year or above",11,36,3467,124807,1227068,1227068,Lacrosse
+216339,Temple University,PA,1,NCAA Division I-FBS,9531,12387,21918,1,"Public, 4-year or above",11,30,7225,216761,1469417,1469417,Lacrosse
+216597,Villanova University,PA,2,NCAA Division I-FCS,3099,3653,6752,2,"Private nonprofit, 4-year or above",11,42,8074,339120,1690648,1690648,Lacrosse
+217156,Brown University,RI,2,NCAA Division I-FCS,3532,3634,7166,2,"Private nonprofit, 4-year or above",11,37,6105,225892,950517,950517,Lacrosse
+217165,Bryant University,RI,2,NCAA Division I-FCS,2020,1150,3170,2,"Private nonprofit, 4-year or above",11,32,2902,92864,791841,791841,Lacrosse
+217882,Clemson University,SC,1,NCAA Division I-FBS,10225,11489,21714,1,"Public, 4-year or above",11,28,11624,325475,1963855,1963855,Lacrosse
+218070,Furman University,SC,2,NCAA Division I-FCS,928,1331,2259,2,"Private nonprofit, 4-year or above",11,24,4897,117521,599498,599498,Lacrosse
+218724,Coastal Carolina University,SC,1,NCAA Division I-FBS,3997,4992,8989,1,"Public, 4-year or above",11,36,4079,146843,966786,966786,Lacrosse
+218964,Winthrop University,SC,3,NCAA Division I without football,1063,2110,3173,1,"Public, 4-year or above",11,39,2721,106108,383869,383869,Lacrosse
+218973,Wofford College,SC,2,NCAA Division I-FCS,860,947,1807,2,"Private nonprofit, 4-year or above",11,28,3600,100799,856262,856262,Lacrosse
+221999,Vanderbilt University,TN,1,NCAA Division I-FBS,3401,3677,7078,2,"Private nonprofit, 4-year or above",11,36,18068,650434,3233856,3233856,Lacrosse
+231174,University of Vermont,VT,3,NCAA Division I without football,3986,7075,11061,1,"Public, 4-year or above",11,33,5417,178748,1217007,1216276,Lacrosse
+231624,William & Mary,VA,2,NCAA Division I-FCS,2792,3919,6711,1,"Public, 4-year or above",11,39,5091,198536,1962302,1085301,Lacrosse
+232186,George Mason University,VA,3,NCAA Division I without football,10783,10584,21367,1,"Public, 4-year or above",11,27,4297,116021,848043,848043,Lacrosse
+232423,James Madison University,VA,2,NCAA Division I-FCS,8075,10848,18923,1,"Public, 4-year or above",11,33,11042,364399,1622908,1622908,Lacrosse
+232557,Liberty University,VA,1,NCAA Division I-FBS,13116,17872,30988,2,"Private nonprofit, 4-year or above",11,35,11440,400396,1191117,1191117,Lacrosse
+232566,Longwood University,VA,3,NCAA Division I without football,878,1991,2869,1,"Public, 4-year or above",11,23,4331,99618,751118,618996,Lacrosse
+232982,Old Dominion University,VA,1,NCAA Division I-FBS,6267,7601,13868,1,"Public, 4-year or above",11,36,5895,212219,1145198,1145198,Lacrosse
+233277,Radford University,VA,3,NCAA Division I without football,2067,3411,5478,1,"Public, 4-year or above",11,31,2318,71843,300412,300412,Lacrosse
+233374,University of Richmond,VA,2,NCAA Division I-FCS,1368,1585,2953,2,"Private nonprofit, 4-year or above",11,37,5530,204615,1313635,1313635,Lacrosse
+233921,Virginia Polytechnic Institute and State University,VA,1,NCAA Division I-FBS,16778,12726,29504,1,"Public, 4-year or above",11,40,10700,427985,530869,1601994,Lacrosse
+234030,Virginia Commonwealth University,VA,3,NCAA Division I without football,6518,11687,18205,1,"Public, 4-year or above",11,31,5680,176076,1149307,1149307,Lacrosse
+234076,University of Virginia-Main Campus,VA,1,NCAA Division I-FBS,7189,9263,16452,1,"Public, 4-year or above",11,34,10142,344825,1993968,1993968,Lacrosse
+239105,Marquette University,WI,3,NCAA Division I without football,3150,4010,7160,2,"Private nonprofit, 4-year or above",11,38,16163,614199,1691137,1691137,Lacrosse
+243744,Stanford University,CA,1,NCAA Division I-FBS,3744,4017,7761,2,"Private nonprofit, 4-year or above",11,33,17667,583002,2265343,2265343,Lacrosse
+486840,Kennesaw State University,GA,2,NCAA Division I-FCS,14171,14383,28554,1,"Public, 4-year or above",11,29,8681,251757,995140,995140,Lacrosse
