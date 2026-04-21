@@ -1,0 +1,561 @@
+TransactionID,Team,GameDate,GameType,Section,ItemCategory,ItemsPurchased,UnitPrice,TotalSpend,WaitTime_minutes,CustomerType,PaymentMethod,ConcessionStandID,StaffExperience_years,GameAttendance,DayOfWeek
+TXN01001,Pittsburgh Penguins,3/8/2026,Playoff,General,Food,3,12.7,38.2,11.5,Season Ticket Holder,Credit Card,Stand 4,6.2,19541,Friday
+TXN01002,Philadelphia Flyers,1/18/2026,Regular Season,Suite,Food,3,16.91,66.1,11.3,Single-Game,Mobile Pay,Stand 3,14.4,18563,Friday
+TXN01003,Philadelphia Flyers,10/28/2025,Regular Season,General,Food,3,9.07,27.11,3.9,Single-Game,Credit Card,Stand 2,7.4,18546,Wednesday
+TXN01004,Pittsburgh Penguins,1/25/2026,Regular Season,Club,Food,1,11.23,12.74,5.3,Single-Game,Credit Card,Stand 1,7.1,17236,Friday
+TXN01005,Pittsburgh Penguins,4/20/2026,Regular Season,General,Food,1,13.59,19.12,8.6,Single-Game,Credit Card,Stand 2,11.8,16593,Friday
+TXN01006,Philadelphia Flyers,10/7/2025,Regular Season,General,Beverage,3,13.55,45.73,8.1,Season Ticket Holder,Mobile Pay,Stand 4,13.3,17156,Saturday
+TXN01007,Pittsburgh Penguins,4/17/2026,Regular Season,Club,Food,1,13.16,18.76,9.3,Single-Game,Credit Card,Stand 3,14.8,17773,Saturday
+TXN01008,Philadelphia Flyers,1/31/2026,Regular Season,General,Food,3,8.66,24.57,1.1,Single-Game,Credit Card,Stand 4,13.9,18955,Saturday
+TXN01009,Philadelphia Flyers,3/18/2026,Regular Season,General,Food,3,11.62,41.34,5.3,Single-Game,Mobile Pay,Stand 2,3,17283,Tuesday
+TXN01010,Philadelphia Flyers,3/16/2026,Regular Season,General,Food,2,10.37,22.68,1.8,Single-Game,Mobile Pay,Stand 2,9.1,18519,Wednesday
+TXN01011,Pittsburgh Penguins,12/26/2025,Regular Season,General,Beverage,1,9.76,16.39,6.6,Single-Game,Mobile Pay,Stand 1,6.6,18419,Sunday
+TXN01012,Philadelphia Flyers,11/25/2025,Regular Season,General,Merchandise,2,36.1,87.23,1,Season Ticket Holder,Cash,Stand 1,3.2,18327,Friday
+TXN01013,Philadelphia Flyers,4/3/2026,Regular Season,General,Merchandise,3,34.95,120,6,Season Ticket Holder,Mobile Pay,Stand 1,10,18704,Wednesday
+TXN01014,Philadelphia Flyers,12/22/2025,Regular Season,Suite,Food,2,17.3,44.63,5.1,Single-Game,Cash,Stand 4,14,18294,Saturday
+TXN01015,Philadelphia Flyers,2/17/2026,Regular Season,General,Food,1,11.49,7.55,5.1,Season Ticket Holder,Cash,Stand 3,8.5,19477,Thursday
+TXN01016,Pittsburgh Penguins,12/14/2025,Playoff,Suite,Food,3,14.58,42.57,17.4,Season Ticket Holder,Cash,Stand 4,9.9,17980,Thursday
+TXN01017,Philadelphia Flyers,3/29/2026,Regular Season,Club,Beverage,1,15.62,19.98,2.5,Single-Game,Cash,Stand 3,2.5,19185,Saturday
+TXN01018,Philadelphia Flyers,10/23/2025,Regular Season,Suite,Beverage,1,18.4,16.64,1,Season Ticket Holder,Cash,Stand 2,1.3,17979,Sunday
+TXN01019,Philadelphia Flyers,10/16/2025,Regular Season,General,Food,1,8.88,5,2.3,Single-Game,Credit Card,Stand 2,11.3,17125,Thursday
+TXN01020,Pittsburgh Penguins,1/23/2026,Regular Season,Club,Merchandise,1,32.24,31.29,10.3,Single-Game,Credit Card,Stand 2,13.7,18158,Friday
+TXN01021,Philadelphia Flyers,4/20/2026,Regular Season,General,Beverage,2,9.15,18.71,1,Single-Game,Cash,Stand 2,6.8,18710,Thursday
+TXN01022,Philadelphia Flyers,1/17/2026,Regular Season,General,Beverage,1,12.22,5,4.8,Single-Game,Cash,Stand 1,10,18649,Saturday
+TXN01023,Philadelphia Flyers,12/29/2025,Playoff,General,Merchandise,2,36.22,106.51,15,Single-Game,Credit Card,Stand 1,8.7,19752,Saturday
+TXN01024,Philadelphia Flyers,2/24/2026,Regular Season,Suite,Food,2,17.34,45.81,3.6,Season Ticket Holder,Credit Card,Stand 4,6.8,16687,Thursday
+TXN01025,Philadelphia Flyers,10/9/2025,Regular Season,General,Beverage,2,13.62,32.27,14.9,Season Ticket Holder,Credit Card,Stand 1,4.3,18758,Wednesday
+TXN01026,Philadelphia Flyers,2/5/2026,Regular Season,Suite,Food,3,16.4,64.61,1.8,Single-Game,Mobile Pay,Stand 3,4.8,18137,Sunday
+TXN01027,Pittsburgh Penguins,3/19/2026,Regular Season,Club,Beverage,1,9.51,14.98,1,Single-Game,Mobile Pay,Stand 3,5.2,19078,Saturday
+TXN01028,Pittsburgh Penguins,1/12/2026,Regular Season,General,Merchandise,1,35.65,32.26,8.6,Single-Game,Credit Card,Stand 1,7.1,18272,Thursday
+TXN01029,Philadelphia Flyers,2/20/2026,Regular Season,General,Food,1,12.46,5,11.3,Season Ticket Holder,Cash,Stand 4,3.8,18910,Friday
+TXN01030,Pittsburgh Penguins,1/12/2026,Regular Season,General,Beverage,2,9.2,24.18,11.3,Single-Game,Credit Card,Stand 1,7.2,18643,Saturday
+TXN01031,Philadelphia Flyers,4/19/2026,Regular Season,General,Food,1,13.99,5.22,9.2,Single-Game,Credit Card,Stand 2,0.1,18824,Saturday
+TXN01032,Pittsburgh Penguins,11/6/2025,Regular Season,General,Merchandise,1,39.12,33.47,8,Single-Game,Credit Card,Stand 3,7.3,17942,Saturday
+TXN01033,Pittsburgh Penguins,10/11/2025,Regular Season,General,Food,2,9.87,20.26,3.4,Single-Game,Credit Card,Stand 2,0.5,18136,Friday
+TXN01034,Pittsburgh Penguins,1/4/2026,Regular Season,Club,Beverage,2,12.27,24.59,4.5,Single-Game,Mobile Pay,Stand 4,11,17007,Saturday
+TXN01035,Pittsburgh Penguins,2/12/2026,Regular Season,Club,Food,3,15.11,38.34,3.1,Single-Game,Mobile Pay,Stand 4,3.1,19290,Thursday
+TXN01036,Pittsburgh Penguins,10/25/2025,Regular Season,Club,Beverage,2,10.9,21.65,4,Season Ticket Holder,Cash,Stand 3,9.1,18084,Saturday
+TXN01037,Philadelphia Flyers,4/20/2026,Regular Season,Suite,Beverage,1,17.6,11.27,6.8,Season Ticket Holder,Credit Card,Stand 1,13.7,18614,Wednesday
+TXN01038,Philadelphia Flyers,2/8/2026,Regular Season,General,Beverage,1,9.46,7.96,2.2,Single-Game,Credit Card,Stand 1,13.6,18434,Wednesday
+TXN01039,Pittsburgh Penguins,12/30/2025,Regular Season,General,Beverage,1,10.43,14.97,8.4,Single-Game,Credit Card,Stand 4,5.4,18419,Sunday
+TXN01040,Philadelphia Flyers,10/8/2025,Regular Season,Suite,Merchandise,3,25.4,112.54,1,Single-Game,Credit Card,Stand 2,9,19344,Friday
+TXN01041,Pittsburgh Penguins,2/15/2026,Playoff,General,Beverage,1,9.54,20.1,14.9,Single-Game,Mobile Pay,Stand 1,8.2,18226,Friday
+TXN01042,Philadelphia Flyers,11/8/2025,Regular Season,General,Merchandise,1,41,54.5,6.6,Single-Game,Credit Card,Stand 3,10.9,19101,Monday
+TXN01043,Philadelphia Flyers,10/21/2025,Playoff,Club,Merchandise,1,27.14,35.98,15.5,Single-Game,Credit Card,Stand 1,4.7,17855,Friday
+TXN01044,Philadelphia Flyers,2/16/2026,Regular Season,General,Beverage,2,11.42,17.71,8.4,Season Ticket Holder,Cash,Stand 4,14.2,18990,Monday
+TXN01045,Philadelphia Flyers,4/9/2026,Regular Season,General,Food,2,10.63,21.24,5.3,Single-Game,Mobile Pay,Stand 3,13.3,18216,Friday
+TXN01046,Philadelphia Flyers,4/19/2026,Regular Season,General,Food,2,7.95,8.49,3.9,Season Ticket Holder,Cash,Stand 1,5.1,18213,Friday
+TXN01047,Philadelphia Flyers,12/14/2025,Playoff,General,Merchandise,1,21.51,36.91,19.5,Season Ticket Holder,Cash,Stand 2,7.8,18839,Thursday
+TXN01048,Philadelphia Flyers,12/25/2025,Regular Season,General,Food,1,9.36,5,5.6,Single-Game,Credit Card,Stand 3,12.6,18769,Saturday
+TXN01049,Philadelphia Flyers,3/23/2026,Regular Season,Club,Food,1,12.93,5,6.5,Season Ticket Holder,Cash,Stand 4,10.4,18483,Saturday
+TXN01050,Pittsburgh Penguins,3/8/2026,Regular Season,General,Beverage,1,10.46,15.39,9.5,Season Ticket Holder,Credit Card,Stand 4,6.3,17966,Friday
+TXN01051,Philadelphia Flyers,12/2/2025,Regular Season,General,Food,1,9.99,5,9,Season Ticket Holder,Credit Card,Stand 3,5.6,19283,Friday
+TXN01052,Philadelphia Flyers,4/13/2026,Regular Season,Club,Beverage,1,10.75,5,1,Season Ticket Holder,Credit Card,Stand 3,14.3,19440,Saturday
+TXN01053,Pittsburgh Penguins,1/1/2026,Playoff,General,Beverage,2,12.06,28.16,11.7,Single-Game,Cash,Stand 3,12.1,16915,Saturday
+TXN01054,Philadelphia Flyers,2/17/2026,Regular Season,Club,Beverage,2,12.45,23.17,7.8,Season Ticket Holder,Cash,Stand 4,9.7,18484,Tuesday
+TXN01055,Pittsburgh Penguins,11/15/2025,Regular Season,Club,Beverage,3,15.54,41.79,1,Single-Game,Credit Card,Stand 1,12.8,18650,Thursday
+TXN01056,Pittsburgh Penguins,11/4/2025,Regular Season,General,Food,2,12.6,25.59,8.1,Season Ticket Holder,Credit Card,Stand 4,3.6,18973,Saturday
+TXN01057,Pittsburgh Penguins,2/15/2026,Regular Season,Club,Beverage,1,12.81,13.24,4.7,Single-Game,Cash,Stand 2,10.9,17929,Wednesday
+TXN01058,Pittsburgh Penguins,10/8/2025,Regular Season,General,Food,3,11.74,30.72,7.2,Single-Game,Cash,Stand 3,12.6,18377,Sunday
+TXN01059,Philadelphia Flyers,1/16/2026,Regular Season,General,Food,3,8.88,25.54,3.7,Single-Game,Credit Card,Stand 2,7.1,18763,Friday
+TXN01060,Pittsburgh Penguins,1/14/2026,Regular Season,Club,Beverage,2,9.53,21.09,9.8,Single-Game,Mobile Pay,Stand 3,9.7,17022,Sunday
+TXN01061,Philadelphia Flyers,3/13/2026,Regular Season,Club,Food,1,11.4,11.01,3.7,Season Ticket Holder,Mobile Pay,Stand 1,10.3,18863,Friday
+TXN01062,Pittsburgh Penguins,11/19/2025,Regular Season,General,Beverage,2,9.56,20.59,8.2,Season Ticket Holder,Mobile Pay,Stand 4,11.9,18362,Friday
+TXN01063,Pittsburgh Penguins,3/4/2026,Playoff,General,Food,1,10.6,17.9,17.5,Season Ticket Holder,Credit Card,Stand 2,8.4,17260,Wednesday
+TXN01064,Philadelphia Flyers,1/10/2026,Regular Season,Club,Food,2,11.58,24.38,2.6,Single-Game,Mobile Pay,Stand 2,4.3,19095,Wednesday
+TXN01065,Pittsburgh Penguins,2/11/2026,Regular Season,General,Food,1,10.11,14.87,9.9,Single-Game,Mobile Pay,Stand 2,8.6,18263,Thursday
+TXN01066,Philadelphia Flyers,4/10/2026,Regular Season,Suite,Beverage,2,18.37,37.89,5.2,Single-Game,Credit Card,Stand 4,13.9,18053,Wednesday
+TXN01067,Pittsburgh Penguins,11/26/2025,Regular Season,General,Merchandise,2,34.05,58.4,7.4,Season Ticket Holder,Cash,Stand 2,12.3,18643,Saturday
+TXN01068,Pittsburgh Penguins,12/2/2025,Regular Season,General,Beverage,1,13.07,20.73,9,Single-Game,Mobile Pay,Stand 4,13.8,18721,Sunday
+TXN01069,Philadelphia Flyers,11/6/2025,Regular Season,General,Beverage,2,10.35,11.03,1.8,Single-Game,Cash,Stand 1,13.1,16870,Friday
+TXN01070,Philadelphia Flyers,4/19/2026,Regular Season,General,Food,1,7.04,5,7.4,Single-Game,Mobile Pay,Stand 1,2.3,16986,Saturday
+TXN01071,Pittsburgh Penguins,2/25/2026,Regular Season,General,Food,1,13.31,20.25,14.9,Single-Game,Credit Card,Stand 3,14.3,17024,Saturday
+TXN01072,Pittsburgh Penguins,2/1/2026,Playoff,Club,Food,2,12.67,27.13,14.9,Single-Game,Cash,Stand 3,5.6,19003,Sunday
+TXN01073,Philadelphia Flyers,3/12/2026,Regular Season,General,Food,1,12.49,6.52,6.9,Single-Game,Cash,Stand 1,2.2,18684,Wednesday
+TXN01074,Philadelphia Flyers,1/29/2026,Regular Season,General,Food,1,13.1,5,2.3,Season Ticket Holder,Mobile Pay,Stand 1,13.7,19557,Tuesday
+TXN01075,Pittsburgh Penguins,3/5/2026,Regular Season,Club,Food,3,11.4,31.31,1,Single-Game,Credit Card,Stand 1,11.1,17326,Wednesday
+TXN01076,Pittsburgh Penguins,1/30/2026,Regular Season,General,Food,3,7.61,22.3,1.9,Season Ticket Holder,Credit Card,Stand 2,2.2,17813,Saturday
+TXN01077,Pittsburgh Penguins,12/29/2025,Regular Season,General,Merchandise,1,22.43,22.77,6.7,Season Ticket Holder,Credit Card,Stand 2,14.4,17031,Monday
+TXN01078,Pittsburgh Penguins,4/21/2026,Regular Season,General,Beverage,1,12.7,20.16,15.7,Single-Game,Cash,Stand 3,11.8,18091,Saturday
+TXN01079,Philadelphia Flyers,11/21/2025,Playoff,Club,Food,1,14.1,22.16,10.9,Season Ticket Holder,Credit Card,Stand 4,9.5,19068,Saturday
+TXN01080,Pittsburgh Penguins,2/4/2026,Regular Season,General,Beverage,1,11.13,13.35,9.7,Single-Game,Credit Card,Stand 2,14.8,18899,Wednesday
+TXN01081,Philadelphia Flyers,1/20/2026,Regular Season,General,Merchandise,1,26.14,22.97,3.5,Single-Game,Credit Card,Stand 1,2.2,18486,Saturday
+TXN01082,Philadelphia Flyers,11/30/2025,Regular Season,General,Food,1,13.36,5,4.4,Season Ticket Holder,Credit Card,Stand 4,9.8,19336,Wednesday
+TXN01083,Pittsburgh Penguins,11/24/2025,Regular Season,General,Food,1,9.36,14.88,7.5,Single-Game,Credit Card,Stand 3,11.7,17834,Friday
+TXN01084,Philadelphia Flyers,11/7/2025,Playoff,General,Beverage,1,14.97,27.09,14.5,Season Ticket Holder,Credit Card,Stand 4,6.3,17520,Sunday
+TXN01085,Philadelphia Flyers,10/13/2025,Regular Season,General,Food,2,11.8,19.9,5.9,Single-Game,Credit Card,Stand 1,8.4,17969,Saturday
+TXN01086,Pittsburgh Penguins,3/13/2026,Regular Season,General,Beverage,2,12.58,25.27,6,Single-Game,Mobile Pay,Stand 3,10.1,17612,Friday
+TXN01087,Pittsburgh Penguins,1/8/2026,Playoff,Club,Beverage,2,15.56,35.94,16.3,Season Ticket Holder,Cash,Stand 2,9,18832,Saturday
+TXN01088,Philadelphia Flyers,3/5/2026,Regular Season,General,Beverage,1,12.03,5,1.5,Season Ticket Holder,Credit Card,Stand 3,8.5,17388,Thursday
+TXN01089,Pittsburgh Penguins,10/27/2025,Regular Season,General,Food,1,8.6,10.58,4.7,Season Ticket Holder,Credit Card,Stand 4,3.5,17605,Tuesday
+TXN01090,Philadelphia Flyers,11/19/2025,Playoff,General,Food,1,7.98,5.44,20.1,Season Ticket Holder,Credit Card,Stand 3,6.7,18350,Saturday
+TXN01091,Pittsburgh Penguins,12/8/2025,Playoff,General,Beverage,2,14.35,35.54,11.6,Season Ticket Holder,Credit Card,Stand 3,12.6,16788,Sunday
+TXN01092,Pittsburgh Penguins,11/1/2025,Playoff,General,Beverage,1,10.91,21.82,12.4,Single-Game,Credit Card,Stand 4,9.5,18544,Friday
+TXN01093,Philadelphia Flyers,12/30/2025,Regular Season,Suite,Merchandise,2,40.57,119.13,5.2,Season Ticket Holder,Mobile Pay,Stand 4,5.9,17347,Wednesday
+TXN01094,Pittsburgh Penguins,1/29/2026,Regular Season,General,Beverage,1,12.08,15.31,7.5,Single-Game,Mobile Pay,Stand 4,4.2,17103,Sunday
+TXN01095,Philadelphia Flyers,11/4/2025,Regular Season,General,Food,1,12.07,5,1.4,Season Ticket Holder,Credit Card,Stand 2,2.4,18886,Tuesday
+TXN01096,Philadelphia Flyers,11/14/2025,Playoff,General,Beverage,2,12.44,32.33,18.1,Single-Game,Cash,Stand 2,9.2,18438,Friday
+TXN01097,Pittsburgh Penguins,4/15/2026,Regular Season,General,Merchandise,1,43.27,34.06,9.2,Season Ticket Holder,Credit Card,Stand 1,10,18328,Friday
+TXN01098,Pittsburgh Penguins,2/3/2026,Regular Season,Club,Food,1,10.68,13.91,1.9,Single-Game,Mobile Pay,Stand 2,5.5,18895,Sunday
+TXN01099,Philadelphia Flyers,12/2/2025,Regular Season,General,Beverage,2,8.03,10.29,1,Single-Game,Mobile Pay,Stand 4,0.9,19287,Sunday
+TXN01100,Philadelphia Flyers,1/8/2026,Regular Season,Club,Food,1,8.06,5,10.2,Single-Game,Credit Card,Stand 2,4.4,19276,Saturday
+TXN01101,Philadelphia Flyers,10/9/2025,Playoff,General,Beverage,1,10.58,16.38,13.2,Single-Game,Credit Card,Stand 4,2.9,20000,Wednesday
+TXN01102,Philadelphia Flyers,1/14/2026,Regular Season,General,Beverage,1,9.91,5,8.3,Season Ticket Holder,Cash,Stand 2,10.7,17397,Friday
+TXN01103,Pittsburgh Penguins,10/10/2025,Regular Season,General,Food,2,12.03,22.58,6,Season Ticket Holder,Credit Card,Stand 2,14.4,19183,Friday
+TXN01104,Philadelphia Flyers,4/1/2026,Playoff,General,Food,3,7.25,35.56,16,Single-Game,Credit Card,Stand 2,8.1,19207,Tuesday
+TXN01105,Philadelphia Flyers,12/3/2025,Regular Season,Club,Food,1,11.84,5,6.1,Season Ticket Holder,Credit Card,Stand 1,4.1,17930,Sunday
+TXN01106,Philadelphia Flyers,11/11/2025,Regular Season,Club,Food,2,16.09,38.15,9.6,Single-Game,Credit Card,Stand 1,11.2,19767,Sunday
+TXN01107,Pittsburgh Penguins,10/16/2025,Regular Season,Club,Beverage,1,11.11,13.42,5.5,Season Ticket Holder,Mobile Pay,Stand 2,4.3,16652,Saturday
+TXN01108,Philadelphia Flyers,3/31/2026,Regular Season,General,Food,1,7.9,5,8.2,Single-Game,Credit Card,Stand 2,2.1,18591,Wednesday
+TXN01109,Pittsburgh Penguins,10/21/2025,Regular Season,Club,Food,2,9.09,14.81,5.2,Season Ticket Holder,Cash,Stand 1,2.8,18578,Wednesday
+TXN01110,Philadelphia Flyers,1/20/2026,Playoff,General,Food,1,8.82,11.38,17.7,Single-Game,Credit Card,Stand 2,3.3,18076,Friday
+TXN01111,Pittsburgh Penguins,3/23/2026,Regular Season,General,Beverage,1,12.05,17.21,7,Season Ticket Holder,Cash,Stand 1,1.6,19866,Sunday
+TXN01112,Pittsburgh Penguins,4/6/2026,Regular Season,Club,Beverage,3,9.88,28.9,5.4,Season Ticket Holder,Credit Card,Stand 4,8.7,19180,Wednesday
+TXN01113,Pittsburgh Penguins,1/26/2026,Regular Season,General,Merchandise,1,27.51,24.88,8.5,Season Ticket Holder,Cash,Stand 2,8.8,18291,Saturday
+TXN01114,Pittsburgh Penguins,4/7/2026,Regular Season,General,Food,2,10.53,24.17,3.8,Season Ticket Holder,Mobile Pay,Stand 3,11.5,19000,Saturday
+TXN01115,Pittsburgh Penguins,3/3/2026,Regular Season,General,Beverage,1,10.47,21.06,7.2,Season Ticket Holder,Credit Card,Stand 4,11.5,17126,Friday
+TXN01116,Pittsburgh Penguins,2/7/2026,Regular Season,General,Beverage,1,10.91,16.15,7.6,Single-Game,Cash,Stand 1,7.4,18600,Friday
+TXN01117,Pittsburgh Penguins,1/1/2026,Regular Season,General,Food,1,13.28,17,3.7,Single-Game,Cash,Stand 3,10.3,18396,Thursday
+TXN01118,Philadelphia Flyers,12/10/2025,Regular Season,Club,Beverage,2,11.88,21.95,6.8,Single-Game,Credit Card,Stand 1,8.9,18730,Sunday
+TXN01119,Pittsburgh Penguins,4/9/2026,Regular Season,General,Food,1,11.55,17.07,2.1,Season Ticket Holder,Credit Card,Stand 4,1.4,17355,Thursday
+TXN01120,Pittsburgh Penguins,4/16/2026,Regular Season,General,Beverage,1,10.54,16.41,10.8,Single-Game,Cash,Stand 3,2.1,19355,Wednesday
+TXN01121,Pittsburgh Penguins,1/19/2026,Regular Season,Club,Food,2,14.09,27.33,10.1,Single-Game,Cash,Stand 3,10.2,19727,Wednesday
+TXN01122,Pittsburgh Penguins,11/11/2025,Regular Season,General,Merchandise,3,27.91,64.53,7.2,Single-Game,Credit Card,Stand 4,11.3,16776,Saturday
+TXN01123,Pittsburgh Penguins,12/1/2025,Regular Season,General,Merchandise,1,44.1,36.09,10.4,Season Ticket Holder,Mobile Pay,Stand 4,8.3,19257,Saturday
+TXN01124,Philadelphia Flyers,4/3/2026,Regular Season,Club,Food,1,9.96,5,3.5,Season Ticket Holder,Cash,Stand 4,14.9,19118,Saturday
+TXN01125,Pittsburgh Penguins,3/17/2026,Regular Season,General,Beverage,1,8.22,15.42,4.2,Single-Game,Credit Card,Stand 1,14.6,17237,Saturday
+TXN01126,Philadelphia Flyers,4/10/2026,Playoff,General,Merchandise,1,30.3,43.76,20.3,Season Ticket Holder,Credit Card,Stand 1,4.3,20000,Wednesday
+TXN01127,Pittsburgh Penguins,12/9/2025,Regular Season,Club,Beverage,1,16.81,20.95,8,Season Ticket Holder,Credit Card,Stand 1,9.2,19520,Friday
+TXN01128,Pittsburgh Penguins,3/1/2026,Regular Season,General,Beverage,1,14.03,17.68,6.4,Season Ticket Holder,Credit Card,Stand 3,5.5,17586,Thursday
+TXN01129,Pittsburgh Penguins,2/2/2026,Regular Season,Club,Food,2,15.65,29.95,9.3,Season Ticket Holder,Cash,Stand 2,4.1,17841,Wednesday
+TXN01130,Philadelphia Flyers,1/26/2026,Regular Season,General,Food,1,12.96,7.17,1.9,Single-Game,Credit Card,Stand 3,6.2,16939,Thursday
+TXN01131,Philadelphia Flyers,4/11/2026,Regular Season,General,Beverage,2,14.47,28.35,1,Single-Game,Credit Card,Stand 2,12.2,18654,Friday
+TXN01132,Pittsburgh Penguins,12/8/2025,Playoff,General,Food,1,11.44,16.54,13.8,Season Ticket Holder,Credit Card,Stand 4,11.1,18065,Wednesday
+TXN01133,Philadelphia Flyers,10/17/2025,Regular Season,General,Beverage,3,9.56,33.6,6,Season Ticket Holder,Cash,Stand 4,1.5,19056,Wednesday
+TXN01134,Pittsburgh Penguins,10/22/2025,Regular Season,General,Beverage,2,9.06,20.29,7.7,Season Ticket Holder,Credit Card,Stand 2,6.6,20000,Thursday
+TXN01135,Pittsburgh Penguins,10/20/2025,Regular Season,Club,Food,2,13.14,25.64,7.3,Single-Game,Mobile Pay,Stand 3,14.3,16735,Tuesday
+TXN01136,Pittsburgh Penguins,1/11/2026,Regular Season,Club,Food,2,9.81,20.33,3.8,Single-Game,Credit Card,Stand 4,6.8,16573,Saturday
+TXN01137,Pittsburgh Penguins,11/13/2025,Regular Season,Suite,Food,1,16.41,22.57,10.6,Season Ticket Holder,Cash,Stand 4,2.3,18972,Sunday
+TXN01138,Philadelphia Flyers,11/4/2025,Regular Season,General,Beverage,1,8.64,5,6.5,Single-Game,Mobile Pay,Stand 1,13.7,19906,Saturday
+TXN01139,Philadelphia Flyers,1/10/2026,Regular Season,Club,Beverage,1,13.02,7.66,3.8,Season Ticket Holder,Credit Card,Stand 1,11.8,17460,Friday
+TXN01140,Pittsburgh Penguins,3/5/2026,Regular Season,Club,Beverage,2,15.22,26.59,1.7,Single-Game,Credit Card,Stand 2,3.1,18743,Saturday
+TXN01141,Pittsburgh Penguins,3/26/2026,Regular Season,General,Food,2,11.85,24.7,1.6,Season Ticket Holder,Credit Card,Stand 2,14,17196,Friday
+TXN01142,Philadelphia Flyers,2/2/2026,Playoff,General,Beverage,1,12.65,14.97,11.4,Season Ticket Holder,Credit Card,Stand 3,12.4,19831,Friday
+TXN01143,Philadelphia Flyers,12/25/2025,Playoff,Suite,Beverage,2,14.16,45.01,13.2,Season Ticket Holder,Credit Card,Stand 4,6.6,18455,Thursday
+TXN01144,Pittsburgh Penguins,11/23/2025,Regular Season,General,Food,1,12.36,15.61,4.6,Single-Game,Credit Card,Stand 3,4.6,16038,Thursday
+TXN01145,Philadelphia Flyers,4/21/2026,Regular Season,General,Beverage,1,10.37,18.66,7.3,Single-Game,Mobile Pay,Stand 1,0.7,19335,Saturday
+TXN01146,Pittsburgh Penguins,3/10/2026,Regular Season,General,Merchandise,1,44.23,34.38,4.7,Season Ticket Holder,Mobile Pay,Stand 1,7,17412,Friday
+TXN01147,Pittsburgh Penguins,4/16/2026,Regular Season,General,Food,2,8.52,19.47,8.8,Single-Game,Credit Card,Stand 2,12.5,18146,Tuesday
+TXN01148,Philadelphia Flyers,1/10/2026,Regular Season,General,Beverage,2,14.84,32.34,1,Season Ticket Holder,Credit Card,Stand 4,4.6,17889,Saturday
+TXN01149,Pittsburgh Penguins,10/23/2025,Regular Season,Club,Beverage,1,12.33,16.71,5.6,Single-Game,Mobile Pay,Stand 4,9.3,16832,Thursday
+TXN01150,Pittsburgh Penguins,12/23/2025,Regular Season,General,Food,1,9.29,12.56,8.8,Single-Game,Credit Card,Stand 2,6.9,17072,Wednesday
+TXN01151,Pittsburgh Penguins,11/23/2025,Regular Season,General,Food,2,8.56,19.55,1.6,Single-Game,Mobile Pay,Stand 1,12.5,17923,Thursday
+TXN01152,Pittsburgh Penguins,3/2/2026,Playoff,Club,Merchandise,1,49.62,48.61,12.1,Season Ticket Holder,Credit Card,Stand 4,6,19002,Saturday
+TXN01153,Philadelphia Flyers,4/16/2026,Playoff,General,Beverage,1,13.26,12.58,21.9,Season Ticket Holder,Cash,Stand 2,10.9,20000,Saturday
+TXN01154,Pittsburgh Penguins,3/9/2026,Regular Season,General,Merchandise,1,27.83,23.97,2.9,Season Ticket Holder,Credit Card,Stand 4,9.3,18370,Saturday
+TXN01155,Philadelphia Flyers,3/21/2026,Regular Season,General,Food,1,12.67,5,6.1,Single-Game,Credit Card,Stand 2,8.5,17194,Tuesday
+TXN01156,Philadelphia Flyers,3/3/2026,Regular Season,General,Food,2,11.98,25.02,4,Season Ticket Holder,Mobile Pay,Stand 3,12.7,18157,Friday
+TXN01157,Philadelphia Flyers,2/13/2026,Regular Season,General,Food,3,10.9,31.88,3.4,Single-Game,Credit Card,Stand 3,10,18268,Tuesday
+TXN01158,Pittsburgh Penguins,12/8/2025,Playoff,General,Food,1,11.53,23.15,11.2,Season Ticket Holder,Credit Card,Stand 4,5.1,19211,Thursday
+TXN01159,Philadelphia Flyers,10/19/2025,Playoff,General,Beverage,1,13.23,17.43,18.7,Single-Game,Cash,Stand 2,1.6,18587,Wednesday
+TXN01160,Philadelphia Flyers,12/3/2025,Regular Season,General,Food,1,13.93,6.25,5.5,Season Ticket Holder,Credit Card,Stand 4,13.4,17536,Sunday
+TXN01161,Pittsburgh Penguins,1/9/2026,Regular Season,General,Merchandise,3,32.75,79.31,10.6,Season Ticket Holder,Credit Card,Stand 1,1.6,17754,Saturday
+TXN01162,Pittsburgh Penguins,1/19/2026,Regular Season,Club,Food,2,15.09,28.96,9.4,Season Ticket Holder,Credit Card,Stand 3,4.3,17306,Friday
+TXN01163,Philadelphia Flyers,2/13/2026,Playoff,General,Food,2,10.03,35.87,18.3,Season Ticket Holder,Mobile Pay,Stand 3,4.5,18297,Saturday
+TXN01164,Pittsburgh Penguins,4/20/2026,Regular Season,Club,Merchandise,1,31.74,29.08,5.1,Single-Game,Credit Card,Stand 2,6.4,18562,Wednesday
+TXN01165,Pittsburgh Penguins,10/7/2025,Regular Season,General,Food,2,13.28,26.26,8.4,Single-Game,Mobile Pay,Stand 4,7.5,17980,Monday
+TXN01166,Pittsburgh Penguins,12/4/2025,Regular Season,General,Beverage,2,13.22,24.54,3.7,Season Ticket Holder,Credit Card,Stand 4,4,18051,Saturday
+TXN01167,Pittsburgh Penguins,4/20/2026,Regular Season,General,Beverage,2,8.82,23.05,5.9,Single-Game,Credit Card,Stand 1,4.8,17956,Friday
+TXN01168,Pittsburgh Penguins,4/22/2026,Playoff,Suite,Beverage,1,11.5,19.31,19,Season Ticket Holder,Mobile Pay,Stand 4,10.4,19329,Wednesday
+TXN01169,Pittsburgh Penguins,11/18/2025,Regular Season,Suite,Food,1,12.76,17.98,5.8,Single-Game,Mobile Pay,Stand 3,3.4,17311,Saturday
+TXN01170,Pittsburgh Penguins,2/22/2026,Playoff,General,Merchandise,3,29.83,77.23,17.1,Season Ticket Holder,Mobile Pay,Stand 4,0,19474,Thursday
+TXN01171,Pittsburgh Penguins,3/1/2026,Regular Season,General,Beverage,1,10.54,11.99,1.3,Season Ticket Holder,Credit Card,Stand 2,12.5,18110,Thursday
+TXN01172,Philadelphia Flyers,10/24/2025,Playoff,Club,Merchandise,3,25.89,120,14.8,Single-Game,Credit Card,Stand 1,4.4,19689,Saturday
+TXN01173,Philadelphia Flyers,2/27/2026,Regular Season,Club,Beverage,1,10.47,5,12.4,Season Ticket Holder,Cash,Stand 4,1.2,18723,Sunday
+TXN01174,Philadelphia Flyers,3/28/2026,Regular Season,General,Food,2,7.42,11.23,9,Single-Game,Credit Card,Stand 2,5.6,20000,Wednesday
+TXN01175,Pittsburgh Penguins,12/18/2025,Regular Season,Suite,Beverage,2,12.41,28.47,3.2,Season Ticket Holder,Credit Card,Stand 3,2.3,18271,Saturday
+TXN01176,Philadelphia Flyers,3/31/2026,Regular Season,General,Food,2,12.9,28.22,6.2,Single-Game,Mobile Pay,Stand 2,6.7,19036,Thursday
+TXN01177,Philadelphia Flyers,2/11/2026,Regular Season,General,Food,3,11.37,39.25,8.1,Single-Game,Credit Card,Stand 4,2.1,19724,Friday
+TXN01178,Pittsburgh Penguins,1/20/2026,Regular Season,Suite,Food,1,15.27,18.77,4.1,Single-Game,Credit Card,Stand 1,4.6,17088,Wednesday
+TXN01179,Philadelphia Flyers,2/14/2026,Regular Season,General,Food,1,9.02,5,6.3,Season Ticket Holder,Credit Card,Stand 4,7.5,16453,Friday
+TXN01180,Pittsburgh Penguins,2/15/2026,Regular Season,General,Food,2,9.4,23.45,6.5,Season Ticket Holder,Mobile Pay,Stand 2,3.4,16984,Tuesday
+TXN01181,Pittsburgh Penguins,12/7/2025,Playoff,General,Beverage,1,10.38,18.45,21.4,Season Ticket Holder,Credit Card,Stand 4,8.6,18381,Monday
+TXN01182,Philadelphia Flyers,11/10/2025,Regular Season,Suite,Food,1,15.15,8.17,2.1,Single-Game,Credit Card,Stand 4,2.8,17595,Tuesday
+TXN01183,Pittsburgh Penguins,2/8/2026,Regular Season,General,Food,1,11.65,15.63,6.6,Season Ticket Holder,Credit Card,Stand 1,11.7,16729,Friday
+TXN01184,Pittsburgh Penguins,3/20/2026,Regular Season,General,Food,1,7.09,13.53,5,Season Ticket Holder,Mobile Pay,Stand 3,5,18890,Saturday
+TXN01185,Philadelphia Flyers,4/1/2026,Regular Season,General,Merchandise,3,26.06,114.84,10.9,Single-Game,Credit Card,Stand 4,12.8,19108,Wednesday
+TXN01186,Pittsburgh Penguins,2/6/2026,Regular Season,Suite,Merchandise,1,28.83,27.78,2.1,Single-Game,Mobile Pay,Stand 3,3.4,18431,Friday
+TXN01187,Philadelphia Flyers,11/5/2025,Regular Season,General,Food,1,12.9,9.59,4.6,Single-Game,Credit Card,Stand 2,8.9,17286,Saturday
+TXN01188,Philadelphia Flyers,3/20/2026,Regular Season,General,Food,3,8.75,28,8.8,Single-Game,Credit Card,Stand 3,1.4,20000,Friday
+TXN01189,Pittsburgh Penguins,11/19/2025,Regular Season,Suite,Merchandise,2,34.16,53.92,4.4,Single-Game,Credit Card,Stand 4,7.3,18628,Thursday
+TXN01190,Pittsburgh Penguins,2/10/2026,Playoff,General,Beverage,1,14.84,25.84,13.3,Single-Game,Mobile Pay,Stand 1,2,18584,Thursday
+TXN01191,Pittsburgh Penguins,2/14/2026,Regular Season,Club,Beverage,1,13.65,15.1,3.6,Season Ticket Holder,Credit Card,Stand 3,5.7,18228,Wednesday
+TXN01192,Philadelphia Flyers,2/3/2026,Playoff,Club,Food,2,15.17,46.44,23,Single-Game,Credit Card,Stand 4,3.6,18985,Wednesday
+TXN01193,Pittsburgh Penguins,3/14/2026,Regular Season,Club,Beverage,1,10.15,12.86,3.5,Single-Game,Mobile Pay,Stand 3,9.5,17502,Wednesday
+TXN01194,Pittsburgh Penguins,10/14/2025,Regular Season,Club,Merchandise,1,40.38,36.78,5.5,Single-Game,Credit Card,Stand 4,6.7,17340,Saturday
+TXN01195,Pittsburgh Penguins,1/21/2026,Playoff,Suite,Beverage,2,15.98,35.74,9.5,Single-Game,Cash,Stand 1,7.7,18789,Thursday
+TXN01196,Philadelphia Flyers,11/14/2025,Playoff,General,Beverage,3,12.11,62.68,19.8,Single-Game,Credit Card,Stand 4,4.5,17149,Wednesday
+TXN01197,Philadelphia Flyers,1/6/2026,Regular Season,General,Merchandise,1,25.06,23.31,6.9,Single-Game,Credit Card,Stand 4,6,19891,Monday
+TXN01198,Pittsburgh Penguins,4/1/2026,Playoff,General,Beverage,2,9.03,23.62,12.6,Single-Game,Cash,Stand 2,2.8,18180,Tuesday
+TXN01199,Pittsburgh Penguins,12/14/2025,Regular Season,Club,Beverage,2,15.32,35.94,7.9,Single-Game,Credit Card,Stand 4,5.7,18934,Saturday
+TXN01200,Pittsburgh Penguins,11/15/2025,Regular Season,General,Beverage,3,9.17,24.08,7.1,Single-Game,Credit Card,Stand 2,8.7,17456,Thursday
+TXN01201,Pittsburgh Penguins,1/12/2026,Regular Season,Suite,Food,1,16.2,20.78,7.9,Season Ticket Holder,Credit Card,Stand 4,12,18398,Saturday
+TXN01202,Pittsburgh Penguins,3/23/2026,Playoff,Club,Merchandise,1,40.92,41.52,16.4,Single-Game,Credit Card,Stand 4,2.4,18486,Wednesday
+TXN01203,Philadelphia Flyers,11/16/2025,Regular Season,General,Merchandise,1,21.05,19.02,2.5,Single-Game,Cash,Stand 1,11.1,19489,Thursday
+TXN01204,Philadelphia Flyers,12/1/2025,Regular Season,General,Beverage,1,14.32,12.75,3.8,Season Ticket Holder,Credit Card,Stand 4,1.8,17980,Friday
+TXN01205,Philadelphia Flyers,10/12/2025,Regular Season,Suite,Beverage,1,12.42,5,5.2,Single-Game,Mobile Pay,Stand 3,0.1,19690,Sunday
+TXN01206,Pittsburgh Penguins,12/15/2025,Regular Season,General,Food,3,12.52,32.5,1,Season Ticket Holder,Credit Card,Stand 2,9.3,18027,Saturday
+TXN01207,Pittsburgh Penguins,12/17/2025,Regular Season,Suite,Food,1,15.81,19.27,2.2,Single-Game,Mobile Pay,Stand 3,2.5,16244,Wednesday
+TXN01208,Pittsburgh Penguins,1/20/2026,Regular Season,General,Merchandise,2,31.9,49.95,6,Season Ticket Holder,Cash,Stand 3,10.3,16865,Friday
+TXN01209,Pittsburgh Penguins,2/13/2026,Regular Season,General,Food,1,11.91,17.41,7.4,Season Ticket Holder,Cash,Stand 1,9.4,18778,Wednesday
+TXN01210,Pittsburgh Penguins,1/20/2026,Regular Season,General,Merchandise,3,24.55,56.47,6.2,Season Ticket Holder,Cash,Stand 4,7,17048,Friday
+TXN01211,Philadelphia Flyers,11/18/2025,Regular Season,Club,Food,3,14.98,60.36,5.7,Single-Game,Credit Card,Stand 2,8.7,17067,Saturday
+TXN01212,Pittsburgh Penguins,11/22/2025,Regular Season,Club,Merchandise,1,27.32,29.61,3.3,Single-Game,Credit Card,Stand 2,10.3,17632,Tuesday
+TXN01213,Pittsburgh Penguins,1/18/2026,Regular Season,General,Food,3,12.04,34.08,7.2,Single-Game,Mobile Pay,Stand 1,2.4,16887,Friday
+TXN01214,Pittsburgh Penguins,3/9/2026,Regular Season,General,Beverage,2,11.42,24.65,3.6,Single-Game,Mobile Pay,Stand 4,3.6,17694,Saturday
+TXN01215,Philadelphia Flyers,3/19/2026,Regular Season,General,Beverage,1,13.42,5,11.4,Season Ticket Holder,Cash,Stand 4,12.7,17691,Wednesday
+TXN01216,Philadelphia Flyers,2/8/2026,Regular Season,General,Food,3,10.27,36.8,9.3,Single-Game,Credit Card,Stand 3,6.2,18936,Thursday
+TXN01217,Philadelphia Flyers,1/26/2026,Regular Season,General,Beverage,3,12.97,49.81,6,Season Ticket Holder,Mobile Pay,Stand 4,8.5,17999,Wednesday
+TXN01218,Philadelphia Flyers,1/5/2026,Regular Season,General,Beverage,3,9.87,33.14,7.3,Single-Game,Credit Card,Stand 4,5,18822,Monday
+TXN01219,Pittsburgh Penguins,2/15/2026,Regular Season,General,Food,2,9.67,21.47,10.7,Single-Game,Credit Card,Stand 2,9.5,19154,Thursday
+TXN01220,Philadelphia Flyers,1/1/2026,Regular Season,General,Food,1,8.65,5,3.4,Single-Game,Mobile Pay,Stand 4,7.9,19747,Wednesday
+TXN01221,Philadelphia Flyers,3/27/2026,Regular Season,General,Merchandise,1,36.81,41.15,10.5,Season Ticket Holder,Mobile Pay,Stand 4,8.1,19469,Thursday
+TXN01222,Philadelphia Flyers,10/27/2025,Playoff,General,Beverage,3,9.04,37.36,17.5,Season Ticket Holder,Credit Card,Stand 3,10.6,19021,Tuesday
+TXN01223,Pittsburgh Penguins,11/6/2025,Regular Season,General,Beverage,2,10.98,25.12,15.4,Season Ticket Holder,Credit Card,Stand 4,13.4,18355,Saturday
+TXN01224,Pittsburgh Penguins,11/1/2025,Regular Season,General,Food,1,8.99,13.02,5.3,Single-Game,Mobile Pay,Stand 4,5.7,17169,Tuesday
+TXN01225,Pittsburgh Penguins,1/7/2026,Regular Season,General,Food,2,9.09,16.86,5.9,Single-Game,Credit Card,Stand 4,2.3,17991,Saturday
+TXN01226,Philadelphia Flyers,4/9/2026,Regular Season,General,Beverage,2,8.3,14.78,8.2,Season Ticket Holder,Credit Card,Stand 4,1.2,19673,Tuesday
+TXN01227,Philadelphia Flyers,2/26/2026,Regular Season,General,Food,2,13.17,21.13,4.6,Single-Game,Mobile Pay,Stand 1,0.3,19297,Saturday
+TXN01228,Philadelphia Flyers,3/2/2026,Regular Season,Club,Beverage,2,13.04,28.54,2,Single-Game,Credit Card,Stand 4,1.8,18506,Wednesday
+TXN01229,Philadelphia Flyers,10/23/2025,Playoff,Suite,Merchandise,1,30.8,49.22,16.6,Season Ticket Holder,Mobile Pay,Stand 2,10.4,19080,Friday
+TXN01230,Philadelphia Flyers,10/17/2025,Regular Season,Club,Beverage,1,15.39,5,5.2,Season Ticket Holder,Credit Card,Stand 2,14.1,18950,Friday
+TXN01231,Philadelphia Flyers,1/12/2026,Regular Season,General,Beverage,1,11.43,5,3.8,Season Ticket Holder,Cash,Stand 4,2.9,17884,Saturday
+TXN01232,Philadelphia Flyers,2/10/2026,Regular Season,Club,Food,3,11.46,47.36,6.7,Season Ticket Holder,Cash,Stand 2,12.2,17193,Sunday
+TXN01233,Pittsburgh Penguins,3/14/2026,Playoff,General,Food,2,11.61,31.14,19.7,Season Ticket Holder,Mobile Pay,Stand 1,12.7,18567,Saturday
+TXN01234,Philadelphia Flyers,11/11/2025,Regular Season,General,Food,1,8.58,5,6.2,Single-Game,Credit Card,Stand 1,13.5,18103,Tuesday
+TXN01235,Pittsburgh Penguins,1/27/2026,Regular Season,General,Food,1,7.77,9.47,11.8,Season Ticket Holder,Mobile Pay,Stand 3,14.7,17585,Saturday
+TXN01236,Philadelphia Flyers,12/21/2025,Regular Season,General,Merchandise,1,22.61,18.14,6.6,Single-Game,Mobile Pay,Stand 4,11.7,19407,Thursday
+TXN01237,Philadelphia Flyers,4/4/2026,Regular Season,Club,Beverage,2,15.17,29.64,10.8,Season Ticket Holder,Credit Card,Stand 3,7.1,18972,Wednesday
+TXN01238,Philadelphia Flyers,10/18/2025,Regular Season,General,Beverage,3,11.57,33.19,6.2,Season Ticket Holder,Credit Card,Stand 2,11.7,18354,Sunday
+TXN01239,Philadelphia Flyers,12/6/2025,Regular Season,Suite,Beverage,1,14.09,10.29,6.6,Season Ticket Holder,Credit Card,Stand 2,13.3,18356,Thursday
+TXN01240,Philadelphia Flyers,1/23/2026,Regular Season,General,Food,1,10.5,5,9.3,Single-Game,Cash,Stand 1,8.9,17134,Friday
+TXN01241,Pittsburgh Penguins,12/30/2025,Regular Season,Club,Merchandise,2,32.58,54.06,5.3,Season Ticket Holder,Cash,Stand 4,4.4,17204,Thursday
+TXN01242,Philadelphia Flyers,10/24/2025,Regular Season,General,Merchandise,1,21.81,13.58,4.2,Season Ticket Holder,Mobile Pay,Stand 3,5.9,19508,Friday
+TXN01243,Philadelphia Flyers,11/26/2025,Regular Season,General,Food,3,9.62,40.58,3.9,Single-Game,Credit Card,Stand 2,8.2,18681,Wednesday
+TXN01244,Pittsburgh Penguins,10/18/2025,Playoff,Club,Food,1,11.69,22.58,9.8,Single-Game,Credit Card,Stand 1,6.5,17501,Thursday
+TXN01245,Philadelphia Flyers,11/29/2025,Regular Season,Club,Food,1,9.26,5,2.5,Season Ticket Holder,Credit Card,Stand 3,12.5,17583,Saturday
+TXN01246,Pittsburgh Penguins,11/29/2025,Regular Season,General,Beverage,3,12.63,33.64,5.6,Season Ticket Holder,Mobile Pay,Stand 4,5.4,16772,Saturday
+TXN01247,Pittsburgh Penguins,1/8/2026,Regular Season,Suite,Merchandise,1,42.75,36.56,4.3,Season Ticket Holder,Cash,Stand 4,7.9,17537,Tuesday
+TXN01248,Pittsburgh Penguins,11/27/2025,Regular Season,Club,Food,2,15.23,32.92,5.9,Single-Game,Credit Card,Stand 2,10.1,18780,Saturday
+TXN01249,Pittsburgh Penguins,10/13/2025,Playoff,General,Food,1,13.78,20.14,19.8,Single-Game,Mobile Pay,Stand 4,14.1,17640,Friday
+TXN01250,Pittsburgh Penguins,1/17/2026,Regular Season,Club,Food,1,13.85,16.34,5.6,Single-Game,Credit Card,Stand 3,4.6,17955,Saturday
+TXN01251,Pittsburgh Penguins,3/12/2026,Playoff,Club,Merchandise,2,51.11,86.63,23.9,Season Ticket Holder,Cash,Stand 3,2.2,18930,Monday
+TXN01252,Pittsburgh Penguins,10/9/2025,Regular Season,General,Food,1,12.79,17.26,9.6,Season Ticket Holder,Credit Card,Stand 2,3.1,17463,Monday
+TXN01253,Pittsburgh Penguins,1/9/2026,Regular Season,Club,Beverage,3,12.05,34.36,11.6,Single-Game,Credit Card,Stand 3,10.8,17210,Saturday
+TXN01254,Pittsburgh Penguins,2/10/2026,Regular Season,Suite,Merchandise,2,48.34,81.15,4.9,Season Ticket Holder,Credit Card,Stand 4,3.9,17456,Thursday
+TXN01255,Philadelphia Flyers,2/23/2026,Playoff,General,Food,1,10.36,15.03,13.9,Single-Game,Cash,Stand 3,11.5,18951,Friday
+TXN01256,Pittsburgh Penguins,11/4/2025,Regular Season,General,Food,3,10.85,35.84,5.7,Season Ticket Holder,Mobile Pay,Stand 4,6.2,16411,Thursday
+TXN01257,Pittsburgh Penguins,2/3/2026,Regular Season,General,Food,1,12.85,15.79,4.9,Season Ticket Holder,Credit Card,Stand 1,1.3,18160,Thursday
+TXN01258,Pittsburgh Penguins,11/27/2025,Regular Season,General,Food,2,12.29,26.55,6.4,Single-Game,Mobile Pay,Stand 4,4.6,16649,Friday
+TXN01259,Philadelphia Flyers,4/23/2026,Regular Season,General,Food,1,12.47,7.8,9.5,Season Ticket Holder,Cash,Stand 1,2.4,17411,Tuesday
+TXN01260,Philadelphia Flyers,3/28/2026,Regular Season,General,Beverage,1,12.15,5.66,7.9,Single-Game,Mobile Pay,Stand 3,7.3,18223,Sunday
+TXN01261,Philadelphia Flyers,2/16/2026,Regular Season,General,Food,2,11.43,29.72,5.4,Season Ticket Holder,Mobile Pay,Stand 2,3.2,18579,Thursday
+TXN01262,Philadelphia Flyers,1/16/2026,Regular Season,General,Food,2,13.58,28.88,7.4,Single-Game,Credit Card,Stand 2,2.4,17065,Thursday
+TXN01263,Pittsburgh Penguins,2/21/2026,Regular Season,General,Beverage,1,12.18,18.94,6.1,Single-Game,Cash,Stand 1,6.4,17279,Monday
+TXN01264,Pittsburgh Penguins,2/1/2026,Regular Season,General,Beverage,1,11.5,16.45,11.7,Single-Game,Credit Card,Stand 3,1.3,18075,Thursday
+TXN01265,Philadelphia Flyers,1/24/2026,Regular Season,General,Food,1,10.46,5,3.9,Single-Game,Credit Card,Stand 2,4.8,19092,Saturday
+TXN01266,Pittsburgh Penguins,4/18/2026,Regular Season,General,Beverage,2,11.86,24.1,4.1,Single-Game,Cash,Stand 1,4.8,18180,Friday
+TXN01267,Philadelphia Flyers,11/15/2025,Regular Season,Club,Food,1,8.62,5,5,Season Ticket Holder,Mobile Pay,Stand 4,15,17999,Thursday
+TXN01268,Philadelphia Flyers,2/27/2026,Regular Season,General,Merchandise,1,38.85,51.55,10.5,Season Ticket Holder,Credit Card,Stand 4,7.9,20000,Saturday
+TXN01269,Pittsburgh Penguins,1/7/2026,Regular Season,General,Merchandise,1,30.55,28.73,12.4,Single-Game,Mobile Pay,Stand 2,0.5,17527,Saturday
+TXN01270,Pittsburgh Penguins,11/7/2025,Regular Season,General,Beverage,1,8.04,10.6,3.2,Season Ticket Holder,Credit Card,Stand 4,12.8,18716,Thursday
+TXN01271,Pittsburgh Penguins,11/10/2025,Regular Season,General,Food,3,7.67,21.44,8.7,Single-Game,Credit Card,Stand 4,13.2,16975,Friday
+TXN01272,Pittsburgh Penguins,11/1/2025,Playoff,Club,Food,1,15.92,25.29,17.9,Season Ticket Holder,Credit Card,Stand 4,14.8,19238,Monday
+TXN01273,Pittsburgh Penguins,1/25/2026,Regular Season,General,Beverage,2,8.03,17.46,4.3,Single-Game,Credit Card,Stand 1,10.7,17784,Tuesday
+TXN01274,Philadelphia Flyers,4/9/2026,Regular Season,General,Food,3,11.78,45.44,1.7,Season Ticket Holder,Cash,Stand 3,6,18761,Saturday
+TXN01275,Philadelphia Flyers,2/19/2026,Regular Season,Club,Merchandise,1,25.31,25.27,3.9,Season Ticket Holder,Credit Card,Stand 4,7.6,18197,Wednesday
+TXN01276,Pittsburgh Penguins,1/7/2026,Regular Season,General,Beverage,2,12.24,24.38,4.4,Season Ticket Holder,Cash,Stand 3,8.2,16522,Friday
+TXN01277,Philadelphia Flyers,10/17/2025,Regular Season,General,Beverage,1,9.44,5,7.4,Single-Game,Mobile Pay,Stand 1,11.5,17857,Thursday
+TXN01278,Pittsburgh Penguins,11/24/2025,Regular Season,Club,Beverage,2,11.6,24.1,8.4,Season Ticket Holder,Mobile Pay,Stand 1,6.9,16996,Friday
+TXN01279,Pittsburgh Penguins,4/8/2026,Regular Season,Club,Beverage,1,14.34,17.42,9.9,Season Ticket Holder,Credit Card,Stand 2,14,17207,Tuesday
+TXN01280,Pittsburgh Penguins,12/10/2025,Regular Season,General,Food,1,13.18,17.18,8.1,Single-Game,Cash,Stand 2,12.8,17152,Tuesday
+TXN01281,Philadelphia Flyers,12/21/2025,Regular Season,General,Food,1,7.07,5,3.5,Single-Game,Mobile Pay,Stand 4,12.9,18588,Friday
+TXN01282,Pittsburgh Penguins,3/8/2026,Regular Season,General,Food,1,8.75,14.52,5.2,Single-Game,Mobile Pay,Stand 4,9.7,18897,Saturday
+TXN01283,Philadelphia Flyers,2/11/2026,Playoff,General,Food,1,10.25,8.02,11,Season Ticket Holder,Cash,Stand 1,13.4,20000,Saturday
+TXN01284,Pittsburgh Penguins,1/23/2026,Regular Season,General,Food,2,12.95,29.43,12.3,Season Ticket Holder,Credit Card,Stand 2,1.5,17825,Thursday
+TXN01285,Philadelphia Flyers,4/19/2026,Playoff,Club,Merchandise,2,30.29,91.66,15.1,Single-Game,Credit Card,Stand 1,8.9,18643,Saturday
+TXN01286,Pittsburgh Penguins,10/20/2025,Regular Season,General,Food,1,10.84,14.13,7.4,Single-Game,Credit Card,Stand 4,5,19127,Friday
+TXN01287,Philadelphia Flyers,1/3/2026,Playoff,Club,Food,3,8.42,32.58,19.5,Season Ticket Holder,Mobile Pay,Stand 1,13.3,18519,Sunday
+TXN01288,Pittsburgh Penguins,12/7/2025,Regular Season,General,Food,1,13.93,15.17,8.5,Single-Game,Credit Card,Stand 1,5.7,17717,Tuesday
+TXN01289,Philadelphia Flyers,12/6/2025,Regular Season,General,Beverage,1,11.53,5,6.1,Season Ticket Holder,Credit Card,Stand 1,12.4,19943,Saturday
+TXN01290,Pittsburgh Penguins,4/7/2026,Regular Season,General,Beverage,1,14.72,19.51,8.8,Single-Game,Mobile Pay,Stand 3,8.5,18190,Monday
+TXN01291,Philadelphia Flyers,10/23/2025,Regular Season,General,Beverage,3,13.5,48.19,12.6,Season Ticket Holder,Cash,Stand 3,3.1,20000,Saturday
+TXN01292,Philadelphia Flyers,12/25/2025,Regular Season,General,Beverage,1,12.91,7.49,7.1,Single-Game,Cash,Stand 1,12.8,19516,Monday
+TXN01293,Pittsburgh Penguins,11/20/2025,Regular Season,Suite,Beverage,2,11.25,23.26,1.8,Single-Game,Cash,Stand 3,4.8,18791,Friday
+TXN01294,Pittsburgh Penguins,12/30/2025,Regular Season,General,Food,2,9.91,25.58,8.7,Season Ticket Holder,Cash,Stand 1,1.3,17704,Friday
+TXN01295,Philadelphia Flyers,11/27/2025,Regular Season,General,Food,1,7.98,5,8.6,Season Ticket Holder,Credit Card,Stand 3,6.9,18712,Saturday
+TXN01296,Pittsburgh Penguins,1/4/2026,Regular Season,General,Food,1,13.04,14.84,2.5,Single-Game,Cash,Stand 1,2.9,17340,Tuesday
+TXN01297,Philadelphia Flyers,1/26/2026,Regular Season,Club,Beverage,1,12.25,5,4.7,Season Ticket Holder,Credit Card,Stand 2,6.5,18218,Wednesday
+TXN01298,Philadelphia Flyers,2/12/2026,Playoff,Club,Food,1,9.17,5,16.6,Season Ticket Holder,Mobile Pay,Stand 1,4.4,19708,Sunday
+TXN01299,Pittsburgh Penguins,12/9/2025,Regular Season,General,Beverage,3,9.33,27.75,6.9,Season Ticket Holder,Cash,Stand 3,7.3,18166,Sunday
+TXN01300,Pittsburgh Penguins,3/22/2026,Regular Season,General,Merchandise,2,34.95,55.98,3.3,Single-Game,Credit Card,Stand 1,5.5,17643,Friday
+TXN01301,Philadelphia Flyers,12/12/2025,Playoff,General,Food,2,9.73,28.8,15.1,Season Ticket Holder,Credit Card,Stand 4,14.1,18290,Thursday
+TXN01302,Philadelphia Flyers,4/18/2026,Regular Season,Club,Beverage,1,12.03,6.28,9.2,Season Ticket Holder,Credit Card,Stand 1,1,19778,Wednesday
+TXN01303,Pittsburgh Penguins,11/27/2025,Regular Season,General,Food,1,12.13,18.04,3.7,Season Ticket Holder,Credit Card,Stand 1,3.1,17724,Friday
+TXN01304,Philadelphia Flyers,4/9/2026,Regular Season,General,Merchandise,1,44.08,58.83,1,Season Ticket Holder,Mobile Pay,Stand 4,8.7,19357,Saturday
+TXN01305,Pittsburgh Penguins,12/16/2025,Playoff,General,Beverage,2,12.43,29.65,15.9,Single-Game,Mobile Pay,Stand 4,8.8,18474,Thursday
+TXN01306,Philadelphia Flyers,10/11/2025,Regular Season,General,Beverage,2,11.42,19.81,2.7,Single-Game,Credit Card,Stand 1,11.3,19304,Tuesday
+TXN01307,Pittsburgh Penguins,1/14/2026,Regular Season,Club,Merchandise,1,48.94,43.86,2.8,Single-Game,Credit Card,Stand 1,8,19308,Monday
+TXN01308,Philadelphia Flyers,10/31/2025,Playoff,General,Merchandise,1,24.19,41.18,19.2,Single-Game,Cash,Stand 2,9.8,19606,Saturday
+TXN01309,Philadelphia Flyers,1/21/2026,Regular Season,General,Food,3,7.87,20.97,4,Season Ticket Holder,Credit Card,Stand 1,1.2,19426,Wednesday
+TXN01310,Philadelphia Flyers,2/28/2026,Playoff,Club,Food,3,10.08,40.91,19.9,Season Ticket Holder,Mobile Pay,Stand 2,10.6,19186,Friday
+TXN01311,Philadelphia Flyers,1/2/2026,Regular Season,Club,Merchandise,1,43.85,54.63,1.7,Single-Game,Mobile Pay,Stand 3,7.1,20000,Wednesday
+TXN01312,Philadelphia Flyers,1/12/2026,Regular Season,General,Food,2,11.85,31.21,1.8,Season Ticket Holder,Mobile Pay,Stand 4,6.5,17999,Tuesday
+TXN01313,Pittsburgh Penguins,12/20/2025,Playoff,Club,Beverage,2,9.97,23.52,22.1,Single-Game,Credit Card,Stand 3,11.6,18524,Thursday
+TXN01314,Philadelphia Flyers,10/7/2025,Regular Season,General,Food,1,13.8,5,3.9,Single-Game,Cash,Stand 1,13.9,18754,Friday
+TXN01315,Philadelphia Flyers,11/6/2025,Regular Season,General,Food,2,8.67,14.47,5.9,Season Ticket Holder,Mobile Pay,Stand 4,10.8,17405,Thursday
+TXN01316,Philadelphia Flyers,1/12/2026,Regular Season,General,Food,2,9.3,19.37,2.9,Season Ticket Holder,Credit Card,Stand 2,2.6,17522,Saturday
+TXN01317,Philadelphia Flyers,12/18/2025,Regular Season,Club,Food,3,15.01,60.91,4.9,Season Ticket Holder,Credit Card,Stand 2,13.4,17239,Friday
+TXN01318,Philadelphia Flyers,3/31/2026,Regular Season,General,Beverage,2,11.18,21.51,5.3,Season Ticket Holder,Cash,Stand 4,1.9,19324,Wednesday
+TXN01319,Pittsburgh Penguins,12/15/2025,Playoff,Suite,Food,1,13.25,21.99,11.4,Season Ticket Holder,Credit Card,Stand 1,8.3,18150,Friday
+TXN01320,Philadelphia Flyers,1/24/2026,Regular Season,General,Beverage,2,12.91,29.75,3.9,Single-Game,Mobile Pay,Stand 2,4.5,18308,Tuesday
+TXN01321,Philadelphia Flyers,10/22/2025,Regular Season,General,Beverage,2,10.22,14.38,7.2,Single-Game,Cash,Stand 3,6,17430,Friday
+TXN01322,Pittsburgh Penguins,11/24/2025,Regular Season,General,Food,1,8.81,12.04,12.9,Single-Game,Credit Card,Stand 1,1.4,18372,Sunday
+TXN01323,Pittsburgh Penguins,4/12/2026,Regular Season,General,Food,1,8.23,11.41,11.8,Season Ticket Holder,Credit Card,Stand 3,7.7,18570,Wednesday
+TXN01324,Philadelphia Flyers,2/22/2026,Playoff,Club,Food,1,8.53,7.76,14.6,Single-Game,Cash,Stand 2,10.8,19306,Tuesday
+TXN01325,Pittsburgh Penguins,1/30/2026,Regular Season,General,Merchandise,1,29.85,24.83,9.7,Single-Game,Credit Card,Stand 4,7.2,18300,Tuesday
+TXN01326,Pittsburgh Penguins,12/9/2025,Regular Season,Club,Beverage,2,12.49,28.19,8.8,Single-Game,Credit Card,Stand 3,9.6,17394,Sunday
+TXN01327,Pittsburgh Penguins,1/25/2026,Regular Season,General,Merchandise,1,43.62,38.95,10.9,Single-Game,Cash,Stand 2,8.1,18413,Friday
+TXN01328,Pittsburgh Penguins,3/19/2026,Regular Season,General,Food,1,9.09,16.83,8.4,Single-Game,Credit Card,Stand 4,5,16516,Thursday
+TXN01329,Philadelphia Flyers,2/17/2026,Regular Season,Suite,Beverage,2,11.03,26.97,4.1,Single-Game,Credit Card,Stand 4,0.3,19668,Sunday
+TXN01330,Philadelphia Flyers,2/20/2026,Playoff,Club,Food,1,8.88,11.95,16.5,Season Ticket Holder,Credit Card,Stand 1,1.5,18190,Saturday
+TXN01331,Philadelphia Flyers,3/22/2026,Regular Season,Club,Food,1,12.84,7.04,1,Single-Game,Mobile Pay,Stand 4,5.1,18422,Tuesday
+TXN01332,Pittsburgh Penguins,4/8/2026,Regular Season,General,Food,1,10.42,15.29,2.7,Season Ticket Holder,Credit Card,Stand 2,5.6,17826,Friday
+TXN01333,Philadelphia Flyers,4/17/2026,Regular Season,General,Food,3,9.19,21.02,4.9,Single-Game,Credit Card,Stand 3,3.5,19576,Friday
+TXN01334,Philadelphia Flyers,1/14/2026,Regular Season,General,Beverage,1,12.45,5,1.6,Single-Game,Credit Card,Stand 2,14.4,17359,Tuesday
+TXN01335,Pittsburgh Penguins,12/24/2025,Regular Season,Club,Beverage,2,17.16,32.76,11,Season Ticket Holder,Mobile Pay,Stand 1,0.2,17726,Saturday
+TXN01336,Philadelphia Flyers,12/26/2025,Regular Season,General,Merchandise,1,22.07,18.46,1,Single-Game,Mobile Pay,Stand 2,5,18953,Saturday
+TXN01337,Pittsburgh Penguins,4/19/2026,Regular Season,General,Food,2,10.61,23.22,12,Single-Game,Credit Card,Stand 4,10.5,16853,Thursday
+TXN01338,Philadelphia Flyers,12/19/2025,Regular Season,Club,Beverage,3,9.74,32.47,8.7,Season Ticket Holder,Mobile Pay,Stand 4,13.5,18249,Friday
+TXN01339,Philadelphia Flyers,11/15/2025,Playoff,Club,Beverage,3,15.53,64.06,17,Single-Game,Cash,Stand 4,1,19147,Sunday
+TXN01340,Philadelphia Flyers,2/25/2026,Regular Season,General,Beverage,1,12.81,5,5.4,Season Ticket Holder,Credit Card,Stand 4,8.2,18343,Monday
+TXN01341,Philadelphia Flyers,10/14/2025,Regular Season,General,Food,3,12.58,42.59,7.3,Season Ticket Holder,Credit Card,Stand 2,5.1,17285,Thursday
+TXN01342,Philadelphia Flyers,4/14/2026,Regular Season,General,Merchandise,1,23.4,21.24,4.9,Season Ticket Holder,Credit Card,Stand 2,11.7,19163,Friday
+TXN01343,Philadelphia Flyers,2/13/2026,Playoff,General,Beverage,1,14.87,14.34,20,Single-Game,Mobile Pay,Stand 3,2.9,19460,Saturday
+TXN01344,Pittsburgh Penguins,11/8/2025,Playoff,General,Food,1,10.02,19.42,17.2,Season Ticket Holder,Credit Card,Stand 3,9.1,19033,Monday
+TXN01345,Pittsburgh Penguins,1/20/2026,Regular Season,General,Food,1,11.03,15.4,8.4,Single-Game,Credit Card,Stand 2,1.7,16703,Thursday
+TXN01346,Philadelphia Flyers,3/16/2026,Regular Season,General,Beverage,1,9.05,5,5.7,Single-Game,Credit Card,Stand 3,5.3,18131,Saturday
+TXN01347,Philadelphia Flyers,4/21/2026,Playoff,General,Beverage,2,8.45,25.02,14.5,Single-Game,Credit Card,Stand 4,2.1,19298,Saturday
+TXN01348,Philadelphia Flyers,12/12/2025,Regular Season,Club,Food,2,10.01,17.36,6,Single-Game,Credit Card,Stand 4,13.1,18573,Friday
+TXN01349,Pittsburgh Penguins,1/5/2026,Regular Season,General,Beverage,3,14.55,35.58,5.9,Single-Game,Credit Card,Stand 1,13,20000,Wednesday
+TXN01350,Philadelphia Flyers,11/21/2025,Regular Season,Club,Beverage,1,14.85,5,7.8,Single-Game,Credit Card,Stand 4,12.6,19343,Wednesday
+TXN01351,Philadelphia Flyers,2/14/2026,Regular Season,Club,Merchandise,2,40.31,120,4.6,Season Ticket Holder,Mobile Pay,Stand 4,14.8,19662,Saturday
+TXN01352,Pittsburgh Penguins,10/18/2025,Regular Season,General,Merchandise,1,22.61,24.52,1,Single-Game,Credit Card,Stand 2,10.5,17633,Tuesday
+TXN01353,Pittsburgh Penguins,4/14/2026,Playoff,General,Food,1,8.42,17.96,13.2,Single-Game,Credit Card,Stand 1,9.2,19263,Sunday
+TXN01354,Philadelphia Flyers,2/9/2026,Regular Season,Suite,Food,1,16.06,20.31,3.3,Single-Game,Cash,Stand 1,1.2,19608,Saturday
+TXN01355,Philadelphia Flyers,10/25/2025,Regular Season,General,Beverage,3,8.97,31.49,11,Single-Game,Credit Card,Stand 1,4,17701,Tuesday
+TXN01356,Pittsburgh Penguins,11/17/2025,Playoff,General,Beverage,1,8.28,16.69,18.3,Season Ticket Holder,Credit Card,Stand 2,4.4,16927,Wednesday
+TXN01357,Philadelphia Flyers,1/6/2026,Regular Season,General,Beverage,1,12.97,11.73,9.6,Single-Game,Cash,Stand 1,1.6,19559,Tuesday
+TXN01358,Philadelphia Flyers,10/12/2025,Regular Season,Club,Merchandise,3,39.4,120,1.7,Season Ticket Holder,Credit Card,Stand 1,1.5,19126,Saturday
+TXN01359,Pittsburgh Penguins,10/28/2025,Playoff,Suite,Beverage,1,14.81,21.96,14.5,Single-Game,Credit Card,Stand 2,12.6,19391,Saturday
+TXN01360,Pittsburgh Penguins,11/13/2025,Regular Season,General,Beverage,1,13.72,17.32,4.9,Single-Game,Credit Card,Stand 1,12.8,16701,Monday
+TXN01361,Pittsburgh Penguins,3/17/2026,Playoff,General,Beverage,2,12.6,23.46,13.4,Single-Game,Mobile Pay,Stand 2,7.2,19585,Thursday
+TXN01362,Philadelphia Flyers,3/27/2026,Regular Season,General,Beverage,3,10.33,36.14,10.3,Season Ticket Holder,Mobile Pay,Stand 2,9.2,18899,Friday
+TXN01363,Philadelphia Flyers,10/11/2025,Regular Season,General,Food,2,9.18,5,1.8,Single-Game,Credit Card,Stand 1,2.9,18369,Thursday
+TXN01364,Philadelphia Flyers,11/28/2025,Regular Season,General,Beverage,3,10.57,48.36,8.8,Single-Game,Cash,Stand 1,8.1,18307,Friday
+TXN01365,Philadelphia Flyers,4/1/2026,Regular Season,General,Food,2,11.24,20.33,3.6,Season Ticket Holder,Credit Card,Stand 4,5.3,17821,Friday
+TXN01366,Pittsburgh Penguins,2/22/2026,Regular Season,General,Merchandise,2,37.56,63.87,5.4,Season Ticket Holder,Cash,Stand 3,10.3,16062,Friday
+TXN01367,Pittsburgh Penguins,3/9/2026,Regular Season,Suite,Beverage,1,18.54,20.05,1,Season Ticket Holder,Cash,Stand 3,8.4,18968,Friday
+TXN01368,Philadelphia Flyers,3/29/2026,Regular Season,Club,Beverage,1,10.66,5.74,13.9,Season Ticket Holder,Credit Card,Stand 2,9.6,18987,Wednesday
+TXN01369,Pittsburgh Penguins,1/2/2026,Regular Season,General,Beverage,2,9.64,18.25,4,Single-Game,Mobile Pay,Stand 4,8,18939,Saturday
+TXN01370,Pittsburgh Penguins,10/7/2025,Regular Season,Suite,Food,1,10.8,14.28,4.7,Season Ticket Holder,Cash,Stand 1,9.2,18182,Friday
+TXN01371,Pittsburgh Penguins,12/3/2025,Regular Season,Club,Food,1,10.92,14.41,7.8,Single-Game,Mobile Pay,Stand 2,10.6,18343,Saturday
+TXN01372,Pittsburgh Penguins,11/25/2025,Playoff,General,Beverage,1,14.67,24.86,12.2,Single-Game,Credit Card,Stand 2,7.3,17809,Saturday
+TXN01373,Philadelphia Flyers,12/1/2025,Regular Season,General,Beverage,1,13.51,11.72,8.7,Season Ticket Holder,Credit Card,Stand 1,9.5,18261,Sunday
+TXN01374,Pittsburgh Penguins,1/9/2026,Regular Season,Club,Beverage,2,12.31,31.83,9.6,Season Ticket Holder,Credit Card,Stand 2,14.8,19270,Saturday
+TXN01375,Philadelphia Flyers,3/3/2026,Regular Season,Club,Merchandise,1,24.68,25.59,8,Season Ticket Holder,Cash,Stand 4,12.8,16399,Saturday
+TXN01376,Pittsburgh Penguins,11/16/2025,Playoff,General,Beverage,1,8.86,24.74,14,Single-Game,Credit Card,Stand 2,13.2,16430,Tuesday
+TXN01377,Pittsburgh Penguins,4/5/2026,Regular Season,General,Food,2,13.02,25.73,12.8,Season Ticket Holder,Cash,Stand 2,9.4,17952,Sunday
+TXN01378,Pittsburgh Penguins,2/17/2026,Regular Season,Club,Food,3,15.22,40.48,5.7,Season Ticket Holder,Credit Card,Stand 3,12.4,17168,Thursday
+TXN01379,Pittsburgh Penguins,2/27/2026,Regular Season,General,Beverage,3,12.22,33.83,8.9,Single-Game,Mobile Pay,Stand 4,0.4,17687,Thursday
+TXN01380,Philadelphia Flyers,1/20/2026,Regular Season,General,Food,3,11.27,39.59,8.9,Single-Game,Credit Card,Stand 2,5.1,18385,Saturday
+TXN01381,Philadelphia Flyers,4/23/2026,Regular Season,General,Merchandise,1,21.7,22.07,10.4,Single-Game,Cash,Stand 1,0.5,18077,Wednesday
+TXN01382,Pittsburgh Penguins,10/9/2025,Regular Season,General,Beverage,2,9.05,20.62,6.9,Single-Game,Credit Card,Stand 1,5.9,17881,Wednesday
+TXN01383,Philadelphia Flyers,3/11/2026,Regular Season,Club,Food,2,9.43,12.54,9.2,Single-Game,Credit Card,Stand 2,11.8,19348,Saturday
+TXN01384,Philadelphia Flyers,2/11/2026,Regular Season,General,Beverage,1,9.76,5,11.9,Season Ticket Holder,Credit Card,Stand 3,2.2,17158,Thursday
+TXN01385,Pittsburgh Penguins,1/29/2026,Regular Season,General,Food,2,12.14,24.15,2.1,Single-Game,Credit Card,Stand 4,12.1,17535,Wednesday
+TXN01386,Philadelphia Flyers,4/8/2026,Regular Season,General,Food,2,10.58,23.93,4.6,Season Ticket Holder,Credit Card,Stand 2,8.4,18415,Friday
+TXN01387,Pittsburgh Penguins,10/15/2025,Regular Season,General,Food,2,9.24,21.98,5.7,Single-Game,Credit Card,Stand 2,4,18234,Saturday
+TXN01388,Philadelphia Flyers,10/14/2025,Regular Season,Club,Food,1,13.4,6.37,8.1,Single-Game,Credit Card,Stand 1,1.6,17128,Saturday
+TXN01389,Philadelphia Flyers,3/4/2026,Playoff,Club,Food,1,15.17,20.15,18,Season Ticket Holder,Credit Card,Stand 1,14.5,17162,Saturday
+TXN01390,Philadelphia Flyers,12/24/2025,Regular Season,General,Food,1,12.21,5,8.1,Season Ticket Holder,Credit Card,Stand 2,1.3,17598,Tuesday
+TXN01391,Pittsburgh Penguins,2/27/2026,Regular Season,Suite,Beverage,3,16.98,43.98,1,Single-Game,Credit Card,Stand 3,10.9,18385,Wednesday
+TXN01392,Pittsburgh Penguins,1/5/2026,Regular Season,Suite,Food,2,13.87,28.17,3.4,Season Ticket Holder,Credit Card,Stand 3,3.6,17845,Thursday
+TXN01393,Pittsburgh Penguins,3/20/2026,Regular Season,General,Beverage,2,13.6,23.46,1,Single-Game,Cash,Stand 3,9.6,18229,Tuesday
+TXN01394,Philadelphia Flyers,2/10/2026,Regular Season,Club,Beverage,2,10.61,17.04,1,Single-Game,Cash,Stand 1,9.8,18838,Tuesday
+TXN01395,Philadelphia Flyers,12/25/2025,Regular Season,Club,Beverage,2,13.53,34.35,8.2,Single-Game,Cash,Stand 2,12.5,19998,Thursday
+TXN01396,Philadelphia Flyers,3/23/2026,Regular Season,General,Food,2,7.08,5,5.8,Single-Game,Mobile Pay,Stand 3,1.5,18826,Monday
+TXN01397,Pittsburgh Penguins,11/4/2025,Regular Season,General,Food,2,9.03,19.81,6.9,Season Ticket Holder,Credit Card,Stand 4,14.1,17206,Tuesday
+TXN01398,Philadelphia Flyers,2/9/2026,Regular Season,General,Merchandise,3,33.81,120,7.1,Single-Game,Cash,Stand 4,6.6,18889,Sunday
+TXN01399,Pittsburgh Penguins,1/29/2026,Playoff,General,Beverage,2,13.17,29.43,14.6,Season Ticket Holder,Credit Card,Stand 4,10.5,18781,Friday
+TXN01400,Philadelphia Flyers,10/24/2025,Regular Season,General,Merchandise,1,35.98,43,4,Single-Game,Credit Card,Stand 2,11.8,19559,Wednesday
+TXN01401,Pittsburgh Penguins,2/2/2026,Playoff,General,Beverage,2,12.72,30.44,18.5,Season Ticket Holder,Cash,Stand 2,11.8,17380,Friday
+TXN01402,Pittsburgh Penguins,2/9/2026,Regular Season,Suite,Food,1,9.42,12.09,2.4,Single-Game,Credit Card,Stand 2,2.9,17714,Friday
+TXN01403,Pittsburgh Penguins,1/30/2026,Regular Season,General,Merchandise,2,44.3,68.55,8.2,Season Ticket Holder,Credit Card,Stand 4,13.8,18559,Tuesday
+TXN01404,Philadelphia Flyers,4/6/2026,Playoff,Club,Food,1,14.34,27.45,11.3,Season Ticket Holder,Credit Card,Stand 3,2,19238,Thursday
+TXN01405,Pittsburgh Penguins,12/16/2025,Regular Season,Club,Food,2,12.49,26.1,4.3,Single-Game,Credit Card,Stand 4,5.3,17454,Tuesday
+TXN01406,Philadelphia Flyers,4/11/2026,Regular Season,General,Food,2,13.68,25.12,5.1,Single-Game,Credit Card,Stand 2,8.5,18355,Friday
+TXN01407,Pittsburgh Penguins,1/25/2026,Regular Season,General,Merchandise,2,43.22,69.32,11,Single-Game,Cash,Stand 4,12.4,18084,Thursday
+TXN01408,Philadelphia Flyers,2/21/2026,Regular Season,Suite,Beverage,2,16.54,41.78,1,Single-Game,Credit Card,Stand 4,6.5,18181,Tuesday
+TXN01409,Pittsburgh Penguins,1/3/2026,Regular Season,General,Food,3,8.2,27.22,1,Single-Game,Credit Card,Stand 2,4.6,17566,Sunday
+TXN01410,Pittsburgh Penguins,1/20/2026,Playoff,Club,Food,2,15.21,32.59,13,Single-Game,Cash,Stand 4,8.9,18868,Monday
+TXN01411,Philadelphia Flyers,10/8/2025,Regular Season,General,Merchandise,1,35.09,39,4.8,Single-Game,Mobile Pay,Stand 3,13.3,18795,Saturday
+TXN01412,Pittsburgh Penguins,3/7/2026,Playoff,General,Food,1,9.05,15.8,13.4,Single-Game,Mobile Pay,Stand 2,5.8,19585,Wednesday
+TXN01413,Pittsburgh Penguins,11/11/2025,Regular Season,Club,Merchandise,1,46.18,40.83,6.6,Season Ticket Holder,Cash,Stand 4,4.3,17153,Saturday
+TXN01414,Philadelphia Flyers,12/16/2025,Regular Season,Club,Food,2,15.27,38.49,1,Season Ticket Holder,Credit Card,Stand 1,1.7,17878,Thursday
+TXN01415,Philadelphia Flyers,10/31/2025,Playoff,General,Food,1,11.45,12.76,11.7,Season Ticket Holder,Mobile Pay,Stand 1,11.5,18496,Thursday
+TXN01416,Philadelphia Flyers,11/13/2025,Regular Season,Club,Food,3,10.2,37.81,5.9,Single-Game,Credit Card,Stand 2,7.4,17815,Saturday
+TXN01417,Pittsburgh Penguins,3/26/2026,Regular Season,Club,Merchandise,1,26.64,24.11,7.6,Single-Game,Mobile Pay,Stand 4,11.7,18999,Saturday
+TXN01418,Pittsburgh Penguins,1/29/2026,Regular Season,General,Food,2,11.05,21.74,7,Season Ticket Holder,Credit Card,Stand 2,5.5,18546,Monday
+TXN01419,Philadelphia Flyers,4/21/2026,Regular Season,General,Merchandise,3,32.77,120,7.6,Season Ticket Holder,Mobile Pay,Stand 1,6.6,18501,Sunday
+TXN01420,Philadelphia Flyers,10/21/2025,Regular Season,Club,Beverage,1,12.16,5,5.4,Single-Game,Mobile Pay,Stand 3,11.8,19063,Thursday
+TXN01421,Pittsburgh Penguins,1/22/2026,Regular Season,General,Food,3,7,20.61,1.1,Season Ticket Holder,Credit Card,Stand 3,14.8,18119,Sunday
+TXN01422,Philadelphia Flyers,4/1/2026,Regular Season,General,Merchandise,1,26.59,31.21,9.1,Single-Game,Credit Card,Stand 3,11.4,18986,Friday
+TXN01423,Pittsburgh Penguins,10/21/2025,Regular Season,Club,Beverage,1,9.88,11.87,5.2,Season Ticket Holder,Mobile Pay,Stand 3,6.9,17561,Tuesday
+TXN01424,Philadelphia Flyers,10/20/2025,Regular Season,General,Beverage,1,10.62,11.31,5.5,Season Ticket Holder,Credit Card,Stand 1,15,17944,Saturday
+TXN01425,Pittsburgh Penguins,3/19/2026,Regular Season,General,Beverage,1,10,11.88,3.4,Season Ticket Holder,Credit Card,Stand 1,10.8,18734,Saturday
+TXN01426,Philadelphia Flyers,10/22/2025,Regular Season,General,Food,2,11.33,25.21,4.6,Single-Game,Credit Card,Stand 1,10.4,19512,Sunday
+TXN01427,Pittsburgh Penguins,2/19/2026,Regular Season,General,Beverage,1,10.41,11.84,1,Single-Game,Mobile Pay,Stand 1,8.4,16981,Friday
+TXN01428,Philadelphia Flyers,3/4/2026,Regular Season,General,Beverage,1,10.59,5,1.8,Season Ticket Holder,Credit Card,Stand 4,9.2,18776,Tuesday
+TXN01429,Pittsburgh Penguins,1/17/2026,Playoff,General,Merchandise,2,21.6,42.34,11.4,Single-Game,Mobile Pay,Stand 2,7.1,18087,Wednesday
+TXN01430,Pittsburgh Penguins,3/16/2026,Regular Season,General,Beverage,2,9.37,18.43,5.3,Single-Game,Credit Card,Stand 1,1.2,17951,Tuesday
+TXN01431,Pittsburgh Penguins,10/24/2025,Regular Season,General,Beverage,1,14.68,16.42,5.9,Season Ticket Holder,Credit Card,Stand 1,5.4,18076,Saturday
+TXN01432,Philadelphia Flyers,12/10/2025,Playoff,General,Food,3,10.17,41.68,16.8,Season Ticket Holder,Mobile Pay,Stand 1,2.4,18776,Saturday
+TXN01433,Philadelphia Flyers,10/22/2025,Regular Season,General,Merchandise,2,39.64,111.48,6,Single-Game,Credit Card,Stand 2,7.9,19223,Friday
+TXN01434,Pittsburgh Penguins,10/26/2025,Regular Season,General,Food,2,12.37,24.83,3.4,Single-Game,Credit Card,Stand 2,1.4,17157,Thursday
+TXN01435,Philadelphia Flyers,11/16/2025,Regular Season,General,Food,2,8.91,14.56,9.2,Single-Game,Mobile Pay,Stand 3,14.2,18224,Thursday
+TXN01436,Philadelphia Flyers,3/7/2026,Regular Season,Club,Beverage,1,15.42,7.54,9.7,Single-Game,Credit Card,Stand 3,6.6,18423,Thursday
+TXN01437,Pittsburgh Penguins,4/22/2026,Regular Season,General,Food,2,12.97,25.28,4.7,Single-Game,Mobile Pay,Stand 3,1.3,18778,Wednesday
+TXN01438,Pittsburgh Penguins,3/16/2026,Regular Season,Suite,Food,1,8.95,10.85,3.8,Single-Game,Credit Card,Stand 4,6.2,17094,Saturday
+TXN01439,Pittsburgh Penguins,2/8/2026,Playoff,General,Beverage,1,11.86,19.28,19.4,Season Ticket Holder,Cash,Stand 4,5.9,18649,Saturday
+TXN01440,Philadelphia Flyers,1/20/2026,Playoff,General,Food,1,10.32,11.35,17.3,Single-Game,Mobile Pay,Stand 3,6.8,19116,Sunday
+TXN01441,Pittsburgh Penguins,12/23/2025,Regular Season,Suite,Food,1,11.75,17.38,6.9,Season Ticket Holder,Mobile Pay,Stand 4,1.3,18522,Wednesday
+TXN01442,Pittsburgh Penguins,1/27/2026,Playoff,General,Beverage,1,12.95,23.2,19.1,Single-Game,Credit Card,Stand 3,13.5,17881,Saturday
+TXN01443,Philadelphia Flyers,2/24/2026,Regular Season,General,Merchandise,2,21.41,54.97,9.4,Single-Game,Mobile Pay,Stand 4,3.7,19036,Saturday
+TXN01444,Pittsburgh Penguins,2/9/2026,Regular Season,General,Food,1,12.27,14.56,7.3,Season Ticket Holder,Mobile Pay,Stand 2,8.4,18357,Thursday
+TXN01445,Philadelphia Flyers,4/8/2026,Regular Season,General,Beverage,1,11.29,5,5.5,Single-Game,Mobile Pay,Stand 2,5.7,18849,Friday
+TXN01446,Philadelphia Flyers,11/17/2025,Playoff,Suite,Merchandise,1,52.85,75.59,14.2,Single-Game,Credit Card,Stand 1,10.2,19509,Saturday
+TXN01447,Philadelphia Flyers,3/6/2026,Regular Season,General,Food,1,12.35,5,7.4,Season Ticket Holder,Credit Card,Stand 3,4.2,17935,Monday
+TXN01448,Pittsburgh Penguins,11/5/2025,Regular Season,General,Food,2,11.78,22.7,12.6,Single-Game,Credit Card,Stand 4,1.4,17316,Saturday
+TXN01449,Pittsburgh Penguins,10/21/2025,Regular Season,General,Beverage,1,13.89,13.07,6.8,Single-Game,Mobile Pay,Stand 2,14.6,19082,Friday
+TXN01450,Pittsburgh Penguins,12/31/2025,Regular Season,Club,Food,2,10.74,24.62,8.7,Single-Game,Credit Card,Stand 1,13.9,19172,Tuesday
+TXN01451,Pittsburgh Penguins,11/17/2025,Playoff,General,Food,2,8.43,21.88,14.9,Season Ticket Holder,Credit Card,Stand 4,4.9,18088,Sunday
+TXN01452,Philadelphia Flyers,11/16/2025,Regular Season,General,Merchandise,1,24.2,24.75,3.4,Season Ticket Holder,Credit Card,Stand 1,2.4,19604,Thursday
+TXN01453,Philadelphia Flyers,4/11/2026,Regular Season,General,Food,2,11.24,13.26,4.4,Season Ticket Holder,Credit Card,Stand 2,11.7,16359,Saturday
+TXN01454,Pittsburgh Penguins,1/22/2026,Regular Season,General,Beverage,2,14.56,27.46,2,Single-Game,Cash,Stand 4,9.6,18505,Sunday
+TXN01455,Philadelphia Flyers,2/1/2026,Regular Season,General,Merchandise,1,29.15,32.83,2.6,Single-Game,Cash,Stand 4,14.5,17141,Saturday
+TXN01456,Pittsburgh Penguins,3/20/2026,Regular Season,Club,Beverage,3,12.63,39.79,4.6,Season Ticket Holder,Credit Card,Stand 2,4.3,18226,Wednesday
+TXN01457,Philadelphia Flyers,10/30/2025,Regular Season,General,Merchandise,1,20.81,19.88,5.8,Single-Game,Mobile Pay,Stand 3,6.1,18665,Friday
+TXN01458,Pittsburgh Penguins,1/18/2026,Regular Season,General,Merchandise,1,37.29,37.79,8.7,Single-Game,Credit Card,Stand 2,14.2,17356,Saturday
+TXN01459,Pittsburgh Penguins,4/21/2026,Regular Season,Suite,Beverage,1,11.14,15.55,1,Season Ticket Holder,Mobile Pay,Stand 4,12.3,16988,Tuesday
+TXN01460,Pittsburgh Penguins,10/17/2025,Regular Season,Club,Food,1,14.74,14.91,3.5,Season Ticket Holder,Cash,Stand 3,7.4,17995,Wednesday
+TXN01461,Philadelphia Flyers,10/13/2025,Regular Season,General,Food,1,13.62,5,2.3,Season Ticket Holder,Credit Card,Stand 2,2,19106,Wednesday
+TXN01462,Pittsburgh Penguins,2/25/2026,Regular Season,General,Beverage,1,14.36,22.05,11.9,Single-Game,Credit Card,Stand 1,12.3,17535,Saturday
+TXN01463,Philadelphia Flyers,10/28/2025,Playoff,Club,Beverage,1,13.14,18.48,22.3,Season Ticket Holder,Credit Card,Stand 1,4.3,19588,Saturday
+TXN01464,Pittsburgh Penguins,3/19/2026,Regular Season,General,Beverage,2,9.31,16.96,1,Single-Game,Credit Card,Stand 4,3.5,18692,Saturday
+TXN01465,Philadelphia Flyers,2/11/2026,Regular Season,General,Beverage,2,9.01,14.08,1.8,Single-Game,Cash,Stand 2,1,17148,Friday
+TXN01466,Pittsburgh Penguins,1/16/2026,Playoff,General,Merchandise,2,31.87,54.67,14,Single-Game,Credit Card,Stand 2,5.3,18449,Saturday
+TXN01467,Pittsburgh Penguins,2/15/2026,Regular Season,Club,Merchandise,1,49.89,41.68,1.9,Season Ticket Holder,Credit Card,Stand 3,11.6,18265,Tuesday
+TXN01468,Philadelphia Flyers,4/2/2026,Regular Season,General,Food,1,8.62,6.38,2.6,Single-Game,Credit Card,Stand 4,6.7,19063,Tuesday
+TXN01469,Pittsburgh Penguins,2/19/2026,Regular Season,General,Beverage,3,8.22,27.21,1,Season Ticket Holder,Mobile Pay,Stand 3,2.4,19510,Sunday
+TXN01470,Philadelphia Flyers,12/3/2025,Regular Season,General,Merchandise,2,21.64,59.73,11,Season Ticket Holder,Cash,Stand 1,12.8,19055,Wednesday
+TXN01471,Philadelphia Flyers,1/13/2026,Regular Season,Suite,Beverage,1,15.09,11.46,8.3,Single-Game,Credit Card,Stand 1,12.8,17686,Wednesday
+TXN01472,Pittsburgh Penguins,1/13/2026,Playoff,Club,Beverage,3,12.38,40.09,16.2,Season Ticket Holder,Credit Card,Stand 4,2.9,18648,Wednesday
+TXN01473,Pittsburgh Penguins,4/23/2026,Regular Season,General,Food,2,12.58,26.32,9.7,Season Ticket Holder,Credit Card,Stand 3,7,17258,Tuesday
+TXN01474,Philadelphia Flyers,12/23/2025,Regular Season,General,Food,2,7.25,5,6.8,Season Ticket Holder,Credit Card,Stand 3,15,18930,Tuesday
+TXN01475,Pittsburgh Penguins,3/27/2026,Regular Season,Suite,Beverage,1,13.91,20.78,8.7,Season Ticket Holder,Mobile Pay,Stand 1,13,18589,Tuesday
+TXN01476,Philadelphia Flyers,4/10/2026,Regular Season,General,Beverage,1,14.34,9.71,7.1,Season Ticket Holder,Mobile Pay,Stand 3,14.7,19197,Thursday
+TXN01477,Pittsburgh Penguins,11/10/2025,Regular Season,General,Beverage,1,13.59,16.17,3.6,Single-Game,Credit Card,Stand 1,11.6,17493,Saturday
+TXN01478,Pittsburgh Penguins,1/25/2026,Regular Season,General,Food,3,13.39,33.44,3.5,Season Ticket Holder,Credit Card,Stand 2,0.3,17365,Thursday
+TXN01479,Pittsburgh Penguins,2/10/2026,Playoff,Club,Food,1,12.31,17.24,17.5,Single-Game,Credit Card,Stand 3,5.7,18677,Thursday
+TXN01480,Philadelphia Flyers,1/5/2026,Regular Season,Suite,Food,3,13.94,52.42,3.4,Single-Game,Mobile Pay,Stand 1,2.9,17983,Friday
+TXN01481,Pittsburgh Penguins,12/27/2025,Regular Season,General,Food,1,7.08,16.55,8.9,Season Ticket Holder,Cash,Stand 1,8.3,20000,Tuesday
+TXN01482,Pittsburgh Penguins,2/17/2026,Regular Season,General,Food,3,10.12,29.25,4.3,Single-Game,Credit Card,Stand 4,7.4,18015,Tuesday
+TXN01483,Philadelphia Flyers,11/15/2025,Regular Season,General,Beverage,1,11.67,9.69,3.9,Single-Game,Credit Card,Stand 4,12.9,17359,Sunday
+TXN01484,Pittsburgh Penguins,3/29/2026,Regular Season,General,Beverage,2,9.71,15.75,1.4,Single-Game,Mobile Pay,Stand 1,8.7,19043,Wednesday
+TXN01485,Philadelphia Flyers,12/11/2025,Playoff,General,Beverage,1,11.39,13.68,12.2,Season Ticket Holder,Mobile Pay,Stand 2,8.8,19134,Saturday
+TXN01486,Philadelphia Flyers,11/7/2025,Regular Season,Suite,Beverage,3,16.39,59.07,1,Season Ticket Holder,Cash,Stand 1,12.2,20000,Wednesday
+TXN01487,Pittsburgh Penguins,1/27/2026,Playoff,General,Beverage,1,8.56,18.5,17.2,Single-Game,Credit Card,Stand 2,12.8,18455,Tuesday
+TXN01488,Pittsburgh Penguins,11/20/2025,Regular Season,Club,Food,1,15.63,18.36,8.6,Single-Game,Credit Card,Stand 1,11.5,16946,Saturday
+TXN01489,Philadelphia Flyers,3/23/2026,Regular Season,Club,Beverage,2,12.6,24.38,4.4,Single-Game,Credit Card,Stand 4,11.6,19164,Wednesday
+TXN01490,Philadelphia Flyers,1/31/2026,Regular Season,General,Merchandise,1,26.87,30.48,2.7,Single-Game,Credit Card,Stand 4,9.2,19168,Wednesday
+TXN01491,Philadelphia Flyers,10/28/2025,Regular Season,Club,Food,1,14.28,19.08,1.2,Single-Game,Credit Card,Stand 1,7.3,18386,Wednesday
+TXN01492,Philadelphia Flyers,4/11/2026,Regular Season,Club,Beverage,1,14.86,5,6,Season Ticket Holder,Mobile Pay,Stand 2,6.7,18180,Saturday
+TXN01493,Philadelphia Flyers,1/30/2026,Regular Season,General,Beverage,2,11.61,33.1,7.2,Single-Game,Credit Card,Stand 4,6.6,19222,Sunday
+TXN01494,Pittsburgh Penguins,12/1/2025,Regular Season,General,Beverage,2,9.11,20.07,4.7,Single-Game,Credit Card,Stand 4,3.6,17678,Sunday
+TXN01495,Pittsburgh Penguins,1/5/2026,Regular Season,Club,Food,1,8.48,12.59,6.9,Single-Game,Cash,Stand 4,2.3,17778,Friday
+TXN01496,Philadelphia Flyers,2/13/2026,Regular Season,Suite,Food,2,10.19,25.25,5.1,Single-Game,Cash,Stand 4,12.7,18876,Saturday
+TXN01497,Philadelphia Flyers,4/19/2026,Regular Season,General,Beverage,3,9.73,25.44,6,Single-Game,Credit Card,Stand 1,5.8,18263,Wednesday
+TXN01498,Pittsburgh Penguins,4/4/2026,Regular Season,General,Food,2,10.96,22.74,1.9,Season Ticket Holder,Credit Card,Stand 3,2.6,18336,Friday
+TXN01499,Pittsburgh Penguins,10/7/2025,Playoff,Suite,Food,2,16.45,39.86,9.6,Single-Game,Mobile Pay,Stand 4,12.5,17693,Friday
+TXN01500,Pittsburgh Penguins,12/19/2025,Playoff,Club,Food,1,13.28,23.42,13,Single-Game,Credit Card,Stand 3,2.8,18417,Tuesday
+TXN01501,Pittsburgh Penguins,10/10/2025,Regular Season,General,Food,2,10.56,26.02,9,Season Ticket Holder,Credit Card,Stand 3,10.3,18712,Sunday
+TXN01502,Philadelphia Flyers,1/4/2026,Regular Season,General,Beverage,1,14.5,5,5.3,Single-Game,Credit Card,Stand 3,2.1,17042,Sunday
+TXN01503,Pittsburgh Penguins,3/21/2026,Regular Season,General,Food,2,10.96,20.7,4.3,Single-Game,Credit Card,Stand 1,10.9,18276,Tuesday
+TXN01504,Pittsburgh Penguins,12/15/2025,Regular Season,General,Beverage,3,8.28,25.22,10.5,Single-Game,Cash,Stand 4,1.2,15690,Wednesday
+TXN01505,Philadelphia Flyers,2/19/2026,Regular Season,Club,Food,2,10.77,15.65,6.3,Single-Game,Credit Card,Stand 4,11.1,18845,Friday
+TXN01506,Pittsburgh Penguins,4/16/2026,Regular Season,General,Beverage,3,11.92,31.83,7.5,Single-Game,Mobile Pay,Stand 3,4.4,17163,Tuesday
+TXN01507,Philadelphia Flyers,11/18/2025,Regular Season,Suite,Beverage,1,13.47,10.06,4.9,Single-Game,Cash,Stand 1,9.7,18459,Friday
+TXN01508,Pittsburgh Penguins,12/3/2025,Regular Season,General,Beverage,1,10.67,13.17,5.1,Season Ticket Holder,Credit Card,Stand 1,6.6,18489,Thursday
+TXN01509,Pittsburgh Penguins,2/6/2026,Regular Season,Club,Beverage,1,9.33,17.22,8,Single-Game,Cash,Stand 1,14.7,17002,Thursday
+TXN01510,Philadelphia Flyers,3/27/2026,Regular Season,Club,Merchandise,3,34.61,120,3.4,Single-Game,Credit Card,Stand 3,11.6,19180,Thursday
+TXN01511,Pittsburgh Penguins,2/22/2026,Regular Season,General,Food,2,7.03,14.53,2.7,Season Ticket Holder,Cash,Stand 1,4,18094,Thursday
+TXN01512,Pittsburgh Penguins,10/12/2025,Regular Season,General,Food,2,13.73,28.02,4.8,Season Ticket Holder,Mobile Pay,Stand 2,12.8,17846,Saturday
+TXN01513,Philadelphia Flyers,1/11/2026,Regular Season,General,Beverage,1,12.4,5,9.4,Single-Game,Credit Card,Stand 1,4.5,17723,Saturday
+TXN01514,Philadelphia Flyers,4/8/2026,Regular Season,General,Beverage,1,13.43,5.52,6.3,Season Ticket Holder,Mobile Pay,Stand 1,8.4,18865,Wednesday
+TXN01515,Pittsburgh Penguins,1/18/2026,Playoff,Suite,Merchandise,1,25.04,30.68,8,Single-Game,Credit Card,Stand 4,2,17739,Thursday
+TXN01516,Philadelphia Flyers,12/11/2025,Regular Season,Club,Food,2,15.63,39.33,5.8,Single-Game,Credit Card,Stand 4,6.2,18815,Thursday
+TXN01517,Philadelphia Flyers,2/18/2026,Regular Season,General,Food,1,10.89,5,3.9,Season Ticket Holder,Credit Card,Stand 3,9,17657,Saturday
+TXN01518,Philadelphia Flyers,2/23/2026,Regular Season,Club,Food,1,12.01,14.59,8.3,Single-Game,Credit Card,Stand 1,6.5,18909,Saturday
+TXN01519,Pittsburgh Penguins,1/5/2026,Regular Season,General,Beverage,3,13.09,38.6,11.7,Single-Game,Cash,Stand 1,12.2,18036,Friday
+TXN01520,Pittsburgh Penguins,11/8/2025,Regular Season,General,Beverage,1,14.87,17.02,6.5,Single-Game,Cash,Stand 4,6.5,19513,Sunday
+TXN01521,Pittsburgh Penguins,12/19/2025,Regular Season,General,Merchandise,3,31.98,77.93,3.1,Single-Game,Credit Card,Stand 4,1.2,18073,Saturday
+TXN01522,Philadelphia Flyers,3/24/2026,Regular Season,Suite,Merchandise,1,42.94,55.65,1,Season Ticket Holder,Credit Card,Stand 4,12.5,19238,Wednesday
+TXN01523,Philadelphia Flyers,12/29/2025,Regular Season,General,Beverage,1,13.53,5,6.3,Season Ticket Holder,Credit Card,Stand 2,14.2,17282,Wednesday
+TXN01524,Philadelphia Flyers,1/26/2026,Playoff,General,Beverage,1,9.74,16.58,22.2,Single-Game,Mobile Pay,Stand 4,4.7,19286,Sunday
+TXN01525,Philadelphia Flyers,12/31/2025,Regular Season,Club,Beverage,1,16.24,17.2,4,Single-Game,Credit Card,Stand 4,10.1,16809,Saturday
+TXN01526,Pittsburgh Penguins,10/18/2025,Regular Season,General,Food,1,9.63,17.37,9.1,Single-Game,Credit Card,Stand 3,12.3,18441,Wednesday
+TXN01527,Pittsburgh Penguins,2/2/2026,Regular Season,General,Beverage,2,8.16,19.55,8.1,Season Ticket Holder,Credit Card,Stand 3,0.3,18569,Saturday
+TXN01528,Philadelphia Flyers,1/7/2026,Regular Season,General,Food,2,10.11,17.81,8.9,Season Ticket Holder,Credit Card,Stand 3,11.9,18929,Saturday
+TXN01529,Philadelphia Flyers,4/7/2026,Playoff,General,Beverage,2,8.16,22.25,10.8,Season Ticket Holder,Credit Card,Stand 4,2.3,17185,Wednesday
+TXN01530,Philadelphia Flyers,12/17/2025,Regular Season,General,Food,1,13.98,10.31,4.9,Single-Game,Credit Card,Stand 1,11.8,18128,Friday
+TXN01531,Philadelphia Flyers,11/5/2025,Regular Season,Club,Food,2,11.08,17.71,2.8,Season Ticket Holder,Credit Card,Stand 2,1.3,20000,Wednesday
+TXN01532,Pittsburgh Penguins,12/22/2025,Regular Season,General,Food,2,8.19,22.56,13.3,Single-Game,Cash,Stand 1,7.8,17212,Tuesday
+TXN01533,Philadelphia Flyers,2/5/2026,Playoff,Club,Food,2,12.01,36.01,12.5,Season Ticket Holder,Cash,Stand 1,4.7,19297,Thursday
+TXN01534,Philadelphia Flyers,3/20/2026,Regular Season,General,Food,2,7.37,10.95,8.3,Season Ticket Holder,Credit Card,Stand 3,14.1,18376,Saturday
+TXN01535,Pittsburgh Penguins,4/22/2026,Playoff,General,Food,1,10.21,17.37,17.9,Single-Game,Mobile Pay,Stand 2,7.6,19261,Friday
+TXN01536,Pittsburgh Penguins,4/10/2026,Regular Season,General,Beverage,1,11.05,17.12,10.1,Single-Game,Credit Card,Stand 1,3.7,18527,Friday
+TXN01537,Philadelphia Flyers,11/10/2025,Regular Season,Club,Beverage,1,12.98,5,5.3,Season Ticket Holder,Mobile Pay,Stand 4,7,18159,Saturday
+TXN01538,Philadelphia Flyers,12/10/2025,Regular Season,General,Beverage,3,14.15,61.3,5.1,Season Ticket Holder,Mobile Pay,Stand 1,11.6,18853,Wednesday
+TXN01539,Philadelphia Flyers,12/23/2025,Regular Season,Club,Beverage,1,15.26,7.84,1,Single-Game,Credit Card,Stand 3,12.4,18956,Saturday
+TXN01540,Pittsburgh Penguins,3/14/2026,Regular Season,General,Beverage,1,9.94,13.12,8.3,Season Ticket Holder,Credit Card,Stand 2,3.8,18494,Saturday
+TXN01541,Philadelphia Flyers,10/26/2025,Regular Season,Suite,Beverage,1,13.41,13.53,1,Single-Game,Credit Card,Stand 2,2,18498,Friday
+TXN01542,Philadelphia Flyers,4/4/2026,Regular Season,General,Merchandise,2,24.97,60.62,6.7,Single-Game,Mobile Pay,Stand 1,2.3,19469,Saturday
+TXN01543,Philadelphia Flyers,3/13/2026,Regular Season,Club,Food,1,13.27,5,4,Single-Game,Mobile Pay,Stand 4,0.8,17754,Sunday
+TXN01544,Philadelphia Flyers,3/3/2026,Regular Season,General,Beverage,2,13.37,27.73,1,Single-Game,Cash,Stand 1,5.7,18851,Thursday
+TXN01545,Philadelphia Flyers,11/27/2025,Regular Season,General,Beverage,1,12.34,5,2.6,Season Ticket Holder,Credit Card,Stand 3,3.4,18797,Saturday
+TXN01546,Philadelphia Flyers,4/24/2026,Regular Season,General,Beverage,2,13.04,27.46,3.6,Season Ticket Holder,Credit Card,Stand 4,0.7,18101,Thursday
+TXN01547,Pittsburgh Penguins,2/12/2026,Playoff,Club,Food,1,13.47,22.94,15.7,Season Ticket Holder,Mobile Pay,Stand 4,4,19652,Friday
+TXN01548,Pittsburgh Penguins,11/17/2025,Regular Season,Club,Beverage,2,13.56,20.94,3.5,Season Ticket Holder,Mobile Pay,Stand 2,8.5,19000,Tuesday
+TXN01549,Philadelphia Flyers,4/16/2026,Regular Season,General,Food,1,8.87,5,6.6,Season Ticket Holder,Credit Card,Stand 1,10.1,17856,Friday
+TXN01550,Pittsburgh Penguins,11/25/2025,Playoff,General,Merchandise,2,32.46,59.62,15.6,Single-Game,Credit Card,Stand 4,9.1,17389,Saturday
+TXN01551,Philadelphia Flyers,2/1/2026,Regular Season,Suite,Beverage,3,13.75,40.03,3,Season Ticket Holder,Credit Card,Stand 1,3.4,19373,Wednesday
+TXN01552,Philadelphia Flyers,3/30/2026,Regular Season,General,Food,1,12.11,13.11,5.5,Single-Game,Cash,Stand 3,8.5,20000,Tuesday
+TXN01553,Philadelphia Flyers,4/23/2026,Playoff,General,Food,1,11.54,12.39,13.3,Single-Game,Cash,Stand 3,1.6,19527,Thursday
+TXN01554,Philadelphia Flyers,11/10/2025,Regular Season,General,Merchandise,1,25.3,22.88,8.3,Single-Game,Mobile Pay,Stand 1,1.8,20000,Sunday
+TXN01555,Pittsburgh Penguins,2/19/2026,Playoff,Club,Food,1,10.53,21.92,23,Single-Game,Mobile Pay,Stand 4,13.5,18536,Sunday
+TXN01556,Pittsburgh Penguins,3/19/2026,Regular Season,General,Beverage,1,8.2,10.06,1,Season Ticket Holder,Credit Card,Stand 4,6.9,18503,Saturday
+TXN01557,Pittsburgh Penguins,3/13/2026,Regular Season,General,Beverage,2,12.16,26.5,4.8,Single-Game,Credit Card,Stand 3,10.1,18616,Monday
+TXN01558,Philadelphia Flyers,10/30/2025,Playoff,General,Food,1,11.59,10.86,20.4,Season Ticket Holder,Credit Card,Stand 3,1.8,18104,Wednesday
+TXN01559,Philadelphia Flyers,12/11/2025,Playoff,Club,Beverage,1,9.88,9.8,8.4,Season Ticket Holder,Credit Card,Stand 3,0.1,20000,Thursday
+TXN01560,Pittsburgh Penguins,11/22/2025,Regular Season,Club,Beverage,2,9.43,17.57,5.9,Season Ticket Holder,Credit Card,Stand 1,10.8,17880,Friday
